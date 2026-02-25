@@ -1,39 +1,21 @@
-# CLAUDE.md — Mywellnessgame GTM Root
-*Master context file. All sub-folders inherit from this.*
-*Last updated: February 2026*
+# CLAUDE.md — mywellnessgame Operating System
+
+This is the context system for running mywellnessgame — a productivity coaching business
+helping founders build sustainable productivity systems.
+
+Open Code has full access. Follow these rules strictly.
 
 ---
 
-## Who I Am
+## What This Business Does
 
-**Shiva Kumar** — Productivity coach to founders.
-Business: **mywellnessgame**
-
-Core promise: Founders stop making themselves, others, or their environment the enemy — and start building sustainable productivity practices.
-
-Current status: **Pre-revenue. Building toward first 10 paying customers.**
+Shiva Kumar coaches founders to build persistent productivity systems using a 3-Game Framework.
+The methodology: Being + Doing = Having.
+The daily non-negotiable: Send ONE message to ONE founder. Every day. No exceptions.
 
 ---
 
-## The ONE THING (Daily Non-Negotiable)
-
-> Send ONE message to ONE founder every day.
-
-This is my GTM in its simplest form.
-A day without a message is a day the business did not move.
-
----
-
-## The Two Operating Systems
-
-```
-Mywellnessgame GTM/
-├── CLAUDE.md                    ← You are here (root)
-├── Value creation/              ← Demand science (what founders need)
-│   └── CLAUDE.md                ← See Value creation context
-└── Offer creation/              ← Supply science (how I respond)
-    └── CLAUDE.md                ← See Offer creation context
-```
+## Two Operating Systems
 
 ### Value Creation OS
 **What it is:** Understanding demand — who the founders are, what they are experiencing, and what signals they send.
@@ -49,87 +31,96 @@ Mywellnessgame GTM/
 
 ---
 
-## The Framework I Coach
+## Core Rules
 
-### Step 1 — The 3-Game System
-
-| Game | Stress Type | Lens | Tense | Partnership |
-|---|---|---|---|---|
-| **Macro** | Acute | Breadth / Concepts / Qualities | Present | Thinking partner |
-| **Micro** | Neither acute nor chronic | Length / Tasks / Tactics | Future | Accountability partner |
-| **Nano** | Chronic | Depth / Workflows / Capabilities | Past | Coaching partner |
-
----
-
-### Step 2 — Founder Types
-
-| Type | Stress | Needs | Partnership |
-|---|---|---|---|
-| **Founder A** | Acute | Clarity | Thinking partner |
-| **Founder B** | Neither | Action | Accountability partner |
-| **Founder C** | Chronic | Lesson | Coaching partner |
-
-Full detail: `Value creation/Recognising demand/founder-types.md`
+1. **Update before create.** Always search existing docs before making new ones. If a relevant doc exists, update it. Only create a new file if no existing doc covers the purpose.
+2. **Link to parent.** Every new doc must reference the framework doc it belongs to.
+3. **Archive don't delete.** Move completed entries to `/_archive` in the same folder. Never delete docs.
+4. **Reference existing files.** Link to related docs wherever possible. More connections = better context.
+5. **When completing a task.** Update the living doc it feeds, then move the task file to `/_archive`.
+6. **One message per day.** `daily-message-log.md` gets one entry every day before end of day. Non-negotiable.
+7. **When adding a new folder or file.** Update the repo structure map in CLAUDE.md first. Map and reality must always match.
+8. **When a demand signal illuminates debt psychology.** Extract the exact founder quote from demand-signals.md and add it to debt-psychology.md under the relevant debt stage (Context / Content / Formula). Never paraphrase — exact words only.
 
 ---
 
-### Step 3 — The 3 Debt Stages
+## Repo Structure
 
-| Debt | Definition | Signal |
-|---|---|---|
-| **Context Debt** | Absence of qualities/concepts | Founder can't name what is wrong |
-| **Content Debt** | Absence of tasks/tactics | Knows what's wrong, doesn't know what to do |
-| **Formula Debt** | Absence of workflows/capabilities | Knows what to do, no system to repeat it |
+```
+/ (root)
+  CLAUDE.md                          ← you are here
 
----
+  /Value-creation
+    /Recognising-demand
+      /Context
+        /Debt-contexts
+          founder-types.md           ← Founder A (complete), B and C (to be built)
+          business-types.md          ← Business A / B / C — stage, symptoms, needs
+          situation-types.md         ← 27 situations (3 founder types × 3 business types × 3 debt stages)
+        /Messaging-contexts
+          sources.md                 ← lessons from coaches, mentors, influencers
+          debt-psychology.md         ← psychological texture of each debt stage (fed by lived experience + demand signals)
 
-### Step 4 — Business Types
+      /Content
+        demand-signals.md            ← raw signals from founders (currently LinkedIn)
+        demand-translation.md        ← converting signal into message
+        sent-messages.md             ← actual messages sent
 
-| Type | Stage | Problem | Game |
-|---|---|---|---|
-| **Business A** | 0-1 customers | Breadth without focus | Macro |
-| **Business B** | 1-10 customers | Length without consistency | Micro |
-| **Business C** | 10+ customers | Depth without visibility | Nano |
+      /Formula
+        (empty — patterns to be built over time)
 
-Full detail: `Value creation/Recognising demand/business-types.md`
+    /Remembering-demand
+      /Context
+        demand-tollgates.md          ← checkpoints that frame what happens after sending
 
----
+      /Content
+        daily-message-log.md         ← one entry per day, what happened at each tollgate
 
-### Step 5 — Situation Types
+      /Formula
+        (empty — patterns to be built over time)
 
-Founder type (A/B/C) × Business type (A/B/C) × Debt stage (Context/Content/Formula) = Situation types
-Full map: `Value creation/Recognising demand/situation-types.md`
+  /Weekly
+    This-Week.md                     ← current week only (replace each Friday)
+    /_archive                        ← past weeks
 
----
-
-### Step 6 — Messaging Framework
-
-How I write the message once I know the situation type.
-Full framework: `Value creation/Remembering demand/aleksander-framework.md`
-
----
-
-## Outreach Philosophy
-
-Pre-revenue GTM must be **manual, simple, and repetitive.**
-No automation. No pitching. No scaling before 10 paying customers.
-
-**Listening Mode Rules:**
-- Open with what they are feeling — not what I offer
-- Reference the specific signal I saw (their exact words)
-- Ask one genuine question — not a pitch
-- Under 100 words
-- Never ask for a call in the first message
+  /Clients                           ← to be created when first paying customer arrives
+```
 
 ---
 
-## Three-Tier Goal Structure
+## Thinking Path — From Signal to Demo Call
 
-| Level | Goal |
-|---|---|
-| **Macro** | Get one founder to request a demo call through meaningful messaging |
-| **Micro** | Send one daily message using my context files |
-| **Nano** | Constantly update system files to evolve my understanding |
+This is the sequence Claude must follow to support Shiva from first signal to demo call requested by a founder.
+
+1. Recognise the signal
+   → /Recognising-demand/Content/demand-signals.md
+
+2. Identify debt stage
+   → /Recognising-demand/Context/Debt-contexts/
+   → /Recognising-demand/Context/Messaging-contexts/debt-psychology.md
+
+3. Translate into message
+   → /Recognising-demand/Content/demand-translation.md
+
+4. Send the message
+   → /Recognising-demand/Content/sent-messages.md
+
+5. Position at tollgates — observe founder response
+   → /Remembering-demand/Context/demand-tollgates.md
+   → /Remembering-demand/Content/daily-message-log.md
+
+6. Pattern emerges
+   → /Recognising-demand/Formula/
+   → /Remembering-demand/Formula/
+
+7. Demo call requested by founder
+
+---
+
+## Current GTM Milestone
+
+Getting ONE founder to request a demo call through messaging that creates a meaningful shift.
+Not scaling. Not automating. One reply at a time.
 
 ---
 
@@ -151,5 +142,6 @@ The commit message is the learning log. Make it meaningful.
 1. **Act as my coach to the framework** — as you observe patterns across my messages and founder interactions, find gaps in my framework and surface them proactively. If something is missing, underdeveloped, or contradicted by what I am observing in the field, tell me directly. Don't wait for me to ask.
 2. **My messages must be under 100 words** — push back if longer
 3. **Never suggest automation** — manual is the strategy at this stage
-4. **If I share a founder signal** — walk me through the 6 steps: Game → Founder type → Debt stage → Business type → Situation type → Message
-5. **If I seem to be drifting** — remind me the ONE THING is to send today's message
+4. **If I seem to be drifting** — remind me the ONE THING is to send today's message
+5. **Never let me skip the tollgates** — after every message sent, walk me through demand-tollgates.md before moving on
+6. **Every Wednesday** — ask Shiva: "What's one way I could coach you better this week?" Update this section based on the answer.
