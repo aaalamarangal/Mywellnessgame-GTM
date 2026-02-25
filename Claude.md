@@ -63,9 +63,8 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
           debt-psychology.md         ← psychological texture of each debt stage (fed by lived experience + demand signals)
 
       /Content
-        demand-signals.md            ← raw signals from founders (currently LinkedIn)
+        demand-signals.md            ← raw signals, sent messages and tollgate log
         demand-translation.md        ← converting signal into message
-        sent-messages.md             ← actual messages sent
 
       /Formula
         (empty — patterns to be built over time)
@@ -104,7 +103,7 @@ This is the sequence Claude must follow to support Shiva from first signal to de
    → /Recognising-demand/Content/demand-translation.md
 
 4. Send the message
-   → /Recognising-demand/Content/sent-messages.md
+   → /Recognising-demand/Content/demand-signals.md
 
 5. Position at tollgates — observe founder response
    → /Remembering-demand/Context/demand-tollgates.md
