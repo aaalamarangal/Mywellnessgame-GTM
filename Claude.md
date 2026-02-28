@@ -27,6 +27,12 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 **Core question:** What do I offer and how do I explain it?
 **Output:** Messaging framework, product offer, and demo call structure.
 
+**Core Rule: Build Skills, Not Products.**
+The game is to package founder productivity expertise as reusable, AI-callable skills (Greg Isenberg's Skill Era framework).
+An API is a doorway into a function. A skill is a doorway into judgment.
+The 3-Game Framework, debt diagnosis, and tollgate system are not just methodology — they are potential skills.
+Skills get packaged from validated patterns, not theory. Offer Creation OS activates once Value Creation OS messaging is proven.
+
 > **Current focus:** Value Creation OS. Offer Creation OS is next once messaging is proven.
 
 ---
@@ -41,8 +47,8 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 6. **One message per day.** `daily-message-log.md` gets one entry every day before end of day. Non-negotiable.
 7. **When adding a new folder or file.** Update the repo structure map in CLAUDE.md first. Map and reality must always match.
 8. **When a demand signal illuminates debt psychology.** Extract the exact founder quote from demand-signals.md and add it to debt-psychology.md under the relevant debt stage (Context / Content / Formula). Never paraphrase — exact words only.
-9. **Every claude.md file inside a folder is a context file.** When creating or updating files in a folder, update that folder's claude.md to reflect what the folder contains and how it connects to the system. Empty claude.md files are not allowed.
-10. **Mirror, flag, answer, ask.** Mirror what is shared before responding. Flag any errors before proceeding. Answer only when asked. Ask rather than assume when information is missing.
+9. **Every readme.md is a context file.** When creating or updating files in a folder, update that folder's readme.md to reflect what the folder contains and how it connects to the system. Empty readme files are not allowed.
+10. **Write simply.** Always use simple, clear English. No complex words. No long sentences.
 
 ---
 
@@ -59,6 +65,7 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
           founder-types.md           ← Founder A (complete), B and C (to be built)
           business-types.md          ← Business A / B / C — stage, symptoms, needs
           situation-types.md         ← 27 situations (3 founder types × 3 business types × 3 debt stages)
+          coaching-diagnostic.md     ← 6-layer diagnostic (Concepts → Capabilities), indirect shift logic, inner/outer game
         /Messaging-contexts
           sources.md                 ← lessons from coaches, mentors, influencers
           debt-psychology.md         ← psychological texture of each debt stage (fed by lived experience + demand signals)
@@ -79,6 +86,9 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 
       /Formula
         (empty — patterns to be built over time)
+
+  /Offer-creation
+    claude.md                        ← Skill Era framework — build skills, not products
 
   /Weekly
     This-Week.md                     ← current week only (replace each Friday)
@@ -127,14 +137,27 @@ Not scaling. Not automating. One reply at a time.
 
 ## Git Commit Habit
 
-At the end of every day:
+Two types of commits:
+
+**Founder commit (mandatory — every day)**
 ```bash
 git add .
 git commit -m "Day [X] — [founder name] — [what I learned]"
+```
+This is the daily non-negotiable. One message, one commit, one learning.
+
+**System commit (as needed)**
+```bash
+git add .
+git commit -m "System — [what you changed and why]"
+```
+Use when updating framework, rules, or structure. No fixed schedule.
+
+End of day:
+```bash
 git push
 ```
-
-The commit message is the learning log. Make it meaningful.
+Push ships all commits at once.
 
 ---
 
@@ -148,3 +171,4 @@ The commit message is the learning log. Make it meaningful.
 6. **After every message sent** — remind Shiva to log Tollgate 1 immediately before closing the conversation
 7. **At the start of every session** — check daily-message-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
 8. **Every Wednesday** — ask Shiva: "What's one way I could coach you better this week?" Update this section based on the answer.
+9. **Default to copy-paste markdown files for VS Code** — unless Shiva specifies otherwise, all files should be markdown that he can copy into VS Code. If a different format is needed (docx, xlsx, pptx, etc.), ask first: what kind of file and what is it for? No downloadable files by default.
