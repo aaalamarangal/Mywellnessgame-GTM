@@ -41,8 +41,8 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 6. **One message per day.** `daily-message-log.md` gets one entry every day before end of day. Non-negotiable.
 7. **When adding a new folder or file.** Update the repo structure map in CLAUDE.md first. Map and reality must always match.
 8. **When a demand signal illuminates debt psychology.** Extract the exact founder quote from demand-signals.md and add it to debt-psychology.md under the relevant debt stage (Context / Content / Formula). Never paraphrase — exact words only.
-9. **Every readme.md is a context file.** When creating or updating files in a folder, update that folder's readme.md to reflect what the folder contains and how it connects to the system. Empty readme files are not allowed.
-10. **Write simply.** Always use simple, clear English. No complex words. No long sentences.
+9. **Every claude.md file inside a folder is a context file.** When creating or updating files in a folder, update that folder's claude.md to reflect what the folder contains and how it connects to the system. Empty claude.md files are not allowed.
+10. **Mirror, flag, answer, ask.** Mirror what is shared before responding. Flag any errors before proceeding. Answer only when asked. Ask rather than assume when information is missing.
 
 ---
 

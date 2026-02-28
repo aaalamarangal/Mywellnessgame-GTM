@@ -4,7 +4,8 @@
       "Bash(cd /c/Mywellnessgame-GTM-main && git add .)",
       "Bash(cd /c/Mywellnessgame-GTM-main && git commit -m \"Added Rule 10 — mirror, flag, answer, ask\")",
       "Bash(cd /c/Mywellnessgame-GTM-main && git add . && git commit -m \"Updated Rule 9 — folder context files renamed from readme.md to claude.md\")",
-      "Bash(cd /c/Mywellnessgame-GTM-main && git push)"
+      "Bash(cd /c/Mywellnessgame-GTM-main && git push)",
+      "Bash(cd /c/Mywellnessgame-GTM-main && git commit -m \"Added Rule 10 — mirror flag answer ask. Updated Rule 9 — claude.md replaces readme.md as folder context file\")"
     ]
   }
 }
