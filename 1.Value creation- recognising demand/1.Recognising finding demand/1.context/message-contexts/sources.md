@@ -65,18 +65,5 @@ Use this pattern for every source added:
 **Core concept:** Problem/Solution Value Proposition — lead with the everyday problem the founder already experiences, not with your product features.
 **Where it applies:** Step 3 of thinking path — translating signal into message
 **How to apply:** Before writing — can you name the everyday problem in their language? If not, you don't have a message yet.
-**Example in action:** *(to be added — reference product-messaging-framework.md for mywellnessgame example)*
-**Link:** See /Offer-creation/product-messaging-framework.md
-
----
-
-## How These Sources Connect
-
-```
-Rob Snyder         → WHEN to message (blocked vs coping)
-Yusuf Ahmed        → WHAT the pipeline looks like (signal → bridge → voice)
-Aleksander         → WHERE to start the message (where the job breaks)
-Robert Kaminski    → HOW to make the message stand out (differentiation)
-```
-
-Together they answer: When to message, what the pipeline is, where to start, and how to stand out.
+**Example in action:** *(to be added)*
+**Link:** See /2.Offer creation- Recognising supply/1.Recognising finding supply/1.context/product-messaging-framework.md

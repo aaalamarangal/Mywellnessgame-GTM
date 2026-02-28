@@ -27,12 +27,6 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 **Core question:** What do I offer and how do I explain it?
 **Output:** Messaging framework, product offer, and demo call structure.
 
-**Core Rule: Build Skills, Not Products.**
-The game is to package founder productivity expertise as reusable, AI-callable skills (Greg Isenberg's Skill Era framework).
-An API is a doorway into a function. A skill is a doorway into judgment.
-The 3-Game Framework, debt diagnosis, and tollgate system are not just methodology — they are potential skills.
-Skills get packaged from validated patterns, not theory. Offer Creation OS activates once Value Creation OS messaging is proven.
-
 > **Current focus:** Value Creation OS. Offer Creation OS is next once messaging is proven.
 
 ---
@@ -65,7 +59,6 @@ Skills get packaged from validated patterns, not theory. Offer Creation OS activ
           founder-types.md           ← Founder A (complete), B and C (to be built)
           business-types.md          ← Business A / B / C — stage, symptoms, needs
           situation-types.md         ← 27 situations (3 founder types × 3 business types × 3 debt stages)
-          coaching-diagnostic.md     ← 6-layer diagnostic (Concepts → Capabilities), indirect shift logic, inner/outer game
         /Messaging-contexts
           sources.md                 ← lessons from coaches, mentors, influencers
           debt-psychology.md         ← psychological texture of each debt stage (fed by lived experience + demand signals)
@@ -88,7 +81,16 @@ Skills get packaged from validated patterns, not theory. Offer Creation OS activ
         (empty — patterns to be built over time)
 
   /Offer-creation
-    claude.md                        ← Skill Era framework — build skills, not products
+    /Recognising-supply
+      /Context
+        product-messaging-framework.md ← Problem/Solution Value Proposition — living doc for positioning
+        Post-principles.md
+
+      /Content
+        (empty — to be built as messaging is proven)
+
+      /Formula
+        (empty — to be built over time)
 
   /Weekly
     This-Week.md                     ← current week only (replace each Friday)
@@ -137,27 +139,14 @@ Not scaling. Not automating. One reply at a time.
 
 ## Git Commit Habit
 
-Two types of commits:
-
-**Founder commit (mandatory — every day)**
+At the end of every day:
 ```bash
 git add .
 git commit -m "Day [X] — [founder name] — [what I learned]"
-```
-This is the daily non-negotiable. One message, one commit, one learning.
-
-**System commit (as needed)**
-```bash
-git add .
-git commit -m "System — [what you changed and why]"
-```
-Use when updating framework, rules, or structure. No fixed schedule.
-
-End of day:
-```bash
 git push
 ```
-Push ships all commits at once.
+
+The commit message is the learning log. Make it meaningful.
 
 ---
 
@@ -171,4 +160,3 @@ Push ships all commits at once.
 6. **After every message sent** — remind Shiva to log Tollgate 1 immediately before closing the conversation
 7. **At the start of every session** — check daily-message-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
 8. **Every Wednesday** — ask Shiva: "What's one way I could coach you better this week?" Update this section based on the answer.
-9. **Default to copy-paste markdown files for VS Code** — unless Shiva specifies otherwise, all files should be markdown that he can copy into VS Code. If a different format is needed (docx, xlsx, pptx, etc.), ask first: what kind of file and what is it for? No downloadable files by default.
