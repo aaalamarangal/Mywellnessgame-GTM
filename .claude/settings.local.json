@@ -7,7 +7,8 @@
       "Bash(cd /c/Mywellnessgame-GTM-main && git push)",
       "Bash(cd /c/Mywellnessgame-GTM-main && git commit -m \"Added Rule 10 — mirror flag answer ask. Updated Rule 9 — claude.md replaces readme.md as folder context file\")",
       "Bash(cd /c/Mywellnessgame-GTM-main && git commit -m \"System — Added Skill Era framework, coaching diagnostic \\(6 layers\\), coach role mapping, CLI/API/Skill/MCP stack, rule 9, two-type git commits\")",
-      "Bash(cd /c/Mywellnessgame-GTM-main && git commit -m \"Added product-messaging-framework.md — regulation through familiar tools insight\")"
+      "Bash(cd /c/Mywellnessgame-GTM-main && git commit -m \"Added product-messaging-framework.md — regulation through familiar tools insight\")",
+      "Bash(cd /c/Mywellnessgame-GTM-main && git commit -m \"Added product-messaging-framework.md, updated CLAUDE.md repo map, corrected sources.md path\")"
     ]
   }
 }

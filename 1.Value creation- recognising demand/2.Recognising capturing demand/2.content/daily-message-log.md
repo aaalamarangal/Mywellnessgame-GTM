@@ -38,11 +38,12 @@ MESSAGE SENT
 Word count:
 
 TOLLGATES
-Tollgate 1 — Did I lead with their feeling or my solution?
+Tollgate 1 — Did I lead with what I sensed or with my solution?
 
-Tollgate 2 — Did they reply? If silent — was it the signal, the translation, or the timing?
+Tollgate 2 — What do my senses tell me about the silence or reply?
+(If silent: was it the signal, the translation, or the timing?)
 
-Tollgate 3 — Did they go deeper into their pain or deflect?
+Tollgate 3 — Did my senses pick up them going deeper or pulling away?
 
 WHAT I LEARNED
 ---

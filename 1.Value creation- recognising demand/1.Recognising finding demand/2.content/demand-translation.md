@@ -35,9 +35,9 @@ Raw signal first — interpretation second.
 - What you sent (exact text): [text]
 
 **Tollgate log**
-- Tollgate 1 — Did I lead with their feeling or my solution?
-- Tollgate 2 — Did they reply? If silent — was it the signal, the translation, or the timing?
-- Tollgate 3 — Did they go deeper into their pain or deflect?
+- Tollgate 1 — Did I lead with what I sensed or with my solution?
+- Tollgate 2 — What do my senses tell me about the silence or reply? (If silent: was it the signal, the translation, or the timing?)
+- Tollgate 3 — Did my senses pick up them going deeper or pulling away?
 - What I learned:
 ```
 
@@ -74,9 +74,9 @@ Raw signal first — interpretation second.
 - What you sent (exact text): "Janet Lee 🌤️ 💜 Love the culture that is present in the team! Thenuka Karunaratne 🌤️ This is lived experience and its meaningful that you are vulnerably sharing with us. 'The things that have helped most are pretty simple: noticing what's actually bothering me, reframing the situation instead of fighting it, and talking it through with people who can help me see it differently.' As part of understanding how founders regulate themselves, I have few questions: How do you reframe the situation (Do you journal physically or provide context to your AI assistant)? When you talk through with people, is it like a team culture there where you process challenging situations in a team meet, or do you talk to a friend?"
 
 **Tollgate log**
-- Tollgate 1 — Did I lead with their feeling or my solution? *(to be assessed)*
-- Tollgate 2 — Did they reply? If silent — was it the signal, the translation, or the timing? No reply yet
-- Tollgate 3 — Did they go deeper into their pain or deflect? *(pending reply)*
+- Tollgate 1 — Did I lead with what I sensed or with my solution? Yes — sensed her lived experience with regulation and led with that.
+- Tollgate 2 — What do my senses tell me about the silence or reply? No reply yet
+- Tollgate 3 — Did my senses pick up them going deeper or pulling away? *(pending reply)*
 - What I learned: *(to be added)*
 
 ---
@@ -101,9 +101,9 @@ Raw signal first — interpretation second.
 - What you sent (exact text): "I had asked you a question for your earlier post: 'Running a company doesn't get easier or harder as you grow. That's the wrong way to think about it.' I got my answers in this :) This feels very poetic and when I look back, most of my high friction challenges were handled through people and they can not be downloaded as well! Im trusting that I can yearn from life for these moments to be present when ever there is a need!"
 
 **Tollgate log**
-- Tollgate 1 — Did I lead with their feeling or my solution? *(to be assessed)*
-- Tollgate 2 — Did they reply? If silent — was it the signal, the translation, or the timing? No reply yet
-- Tollgate 3 — Did they go deeper into their pain or deflect? *(pending reply)*
+- Tollgate 1 — Did I lead with what I sensed or with my solution? Yes — sensed the resonance with my own experience of needing people for hard problems.
+- Tollgate 2 — What do my senses tell me about the silence or reply? No reply yet
+- Tollgate 3 — Did my senses pick up them going deeper or pulling away? *(pending reply)*
 - What I learned: *(to be added)*
 
 ---
@@ -135,9 +135,9 @@ Raw signal first — interpretation second.
 - What you sent (exact text): "Understanding founder regulation workflow. Hello Ross, I have been following Rob Snyder's work and I got to know you when you had commented in one of his posts. I have been understanding how you integrate taking breaks from work by camping in nature, being there for your kid and sharing vulnerably about the personal/work challenges. I saw that you had commented this in Thenuka Karunaratne's post: wish this was my usual state."
 
 **Tollgate log**
-- Tollgate 1 — Did I lead with their feeling or my solution? *(to be assessed)*
-- Tollgate 2 — Did they reply? If silent — was it the signal, the translation, or the timing? No reply yet
-- Tollgate 3 — Did they go deeper into their pain or deflect? *(pending reply)*
+- Tollgate 1 — Did I lead with what I sensed or with my solution? *(to be assessed)*
+- Tollgate 2 — What do my senses tell me about the silence or reply? No reply yet
+- Tollgate 3 — Did my senses pick up them going deeper or pulling away? *(pending reply)*
 - What I learned: *(to be added)*
 
 ---
@@ -169,7 +169,7 @@ Raw signal first — interpretation second.
 - What you sent (exact text): "Love the framing around habits creating self leadership and compounds into work :) Can you share how you found a habit which was not supporting you and your team mentioned it and you worked your way around it and got through the situation?"
 
 **Tollgate log**
-- Tollgate 1 — Did I lead with their feeling or my solution? *(to be assessed)*
-- Tollgate 2 — Did they reply? If silent — was it the signal, the translation, or the timing? No reply yet
-- Tollgate 3 — Did they go deeper into their pain or deflect? *(pending reply)*
+- Tollgate 1 — Did I lead with what I sensed or with my solution? *(to be assessed)*
+- Tollgate 2 — What do my senses tell me about the silence or reply? No reply yet
+- Tollgate 3 — Did my senses pick up them going deeper or pulling away? *(pending reply)*
 - What I learned: *(to be added)*
