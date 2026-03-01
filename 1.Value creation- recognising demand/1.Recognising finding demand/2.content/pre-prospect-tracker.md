@@ -27,17 +27,24 @@ Detailed signal logs live in demand-signals.md. This is the dashboard.
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Thenuka Karunaratne | [Profile](https://www.linkedin.com/in/thenuka/) | [Post 1](https://www.linkedin.com/posts/thenuka_running-a-company-doesnt-get-easier-or-harder-activity-7428128336528416769-r6JV/), [Post 2](https://www.linkedin.com/posts/thenuka_ive-learned-to-pay-attention-to-when-a-problem-activity-7429581653439614976-DI2N/) | A+B | Context | Feb 2026 | T1 logged — led with senses | No | 2 interactions — sensed her lived experience with regulation |
 | 2 | Ross Geiger | [Profile](https://www.linkedin.com/in/rossgeiger1/) | [Comment](https://www.linkedin.com/feed/update/urn:li:activity:7428128336528416769?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7428128336528416769%2C7428263854683414528%29) | A+B | Context | Feb 2026 | T1 pending | No | DM sent — "Wish this was my usual state" signal |
-| 3 | Adarsh Pal | [Profile](https://www.linkedin.com/in/adarsh-pal-975391237/) | [Post](https://www.linkedin.com/posts/adarsh-pal-975391237_leadership-selfmanagement-foundermindset-share-7429765707770327040-kXLl/) | A+A | Context | Feb 2026 | T1 pending | No | Comment reply — self-management as OS |
+
+---
+
+## Removed
+
+| Founder | Reason | Signal kept in |
+|---|---|---|
+| Adarsh Pal | Coping not Blocked — weak signal | demand-signals.md (language useful for debt-psychology.md) |
 
 ---
 
 ## Observations
 
 **Pattern so far:**
-- All 3 founders classified as Founder A
-- All 3 in Context Debt
+- Both active founders classified as Founder A
+- Both in Context Debt, Situation A+B
 - No Founder B or C observations yet
-- No replies yet — Tollgate 2 assessment needed for all
+- No replies yet — Tollgate 2 assessment needed for both
 
 ---
 
