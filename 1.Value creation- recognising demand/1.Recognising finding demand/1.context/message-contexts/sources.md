@@ -65,5 +65,34 @@ Use this pattern for every source added:
 **Core concept:** Problem/Solution Value Proposition — lead with the everyday problem the founder already experiences, not with your product features.
 **Where it applies:** Step 3 of thinking path — translating signal into message
 **How to apply:** Before writing — can you name the everyday problem in their language? If not, you don't have a message yet.
-**Example in action:** *(to be added)*
-**Link:** See /2.Offer creation- Recognising supply/1.Recognising finding supply/1.context/product-messaging-framework.md
+**Example in action:** *(to be added — reference product-messaging-framework.md for mywellnessgame example)*
+**Link:** See /Offer-creation/product-messaging-framework.md
+
+---
+
+## Stephen Whitworth — The DIY Competition
+
+**Source:** Stephen Whitworth
+**LinkedIn:** https://www.linkedin.com/in/stephenwhitworth/
+**Core concept:** The real competition for founder coaching is not other coaches — it's founders building their own AI operating systems with Claude Code, Notion, Slack, and other tools.
+**Where it applies:** Offer Creation OS — understanding what you compete against
+**How to apply:** Before positioning your offer, ask — could this founder build this themselves with AI tools? If yes, your differentiation is the regulation work underneath, not the task management on top.
+**Example in action:** Stephen built self-reflection, accountability, and pattern recognition into Claude Code. He solved the same three needs your coaching addresses (Journal, One commitment, Patterns) — but through code, not conversation. Most founders can't do this. That's your gap.
+**Link:** https://www.linkedin.com/feed/update/urn:li:activity:7432396771709947904/
+
+**Key insight for mywellnessgame:**
+"The most benefit comes from work that would never have happened in the first place because it was far too expensive to do." — This is exactly what your coaching does. Founders know they should reflect, commit, and find patterns. They never do it because it feels too expensive relative to urgent work. You make the cost zero by packaging it into their existing workflow.
+
+---
+
+## How These Sources Connect
+
+```
+Rob Snyder         → WHEN to message (blocked vs coping)
+Yusuf Ahmed        → WHAT the pipeline looks like (signal → bridge → voice)
+Aleksander         → WHERE to start the message (where the job breaks)
+Robert Kaminski    → HOW to make the message stand out (differentiation)
+Stephen Whitworth  → WHO you compete against (DIY AI systems, not other coaches)
+```
+
+Together they answer: When to message, what the pipeline is, where to start, how to stand out, and who you're really competing with.
