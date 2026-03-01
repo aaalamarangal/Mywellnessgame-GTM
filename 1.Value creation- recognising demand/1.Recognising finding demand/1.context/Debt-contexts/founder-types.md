@@ -85,6 +85,17 @@ Coaching must come before accountability at the Nano level.
 
 ---
 
+### Founder A — Where the Job Breaks
+
+```
+Daily workflow: Wake up → Look at todo list → Pick → Start → Stay → Execute ONE THING
+
+Where it breaks: Picking → Starting
+The breakdown: Picks the ONE THING but can't start it — overthinks, waits for clarity
+```
+
+---
+
 ### Founder A — Full Picture
 
 ```
@@ -138,7 +149,25 @@ Nano (Chronic)
 ## Founder B
 *To be built from real founder observations*
 
+### Founder B — Where the Job Breaks
+
+```
+Daily workflow: Wake up → Look at todo list → Pick → Start → Stay → Execute ONE THING
+
+Where it breaks: Starting → Staying
+The breakdown: Starts but unsure if it's the RIGHT one thing — second guesses mid-execution
+```
+
 ---
 
 ## Founder C
 *To be built from real founder observations*
+
+### Founder C — Where the Job Breaks
+
+```
+Daily workflow: Wake up → Look at todo list → Pick → Start → Stay → Execute ONE THING
+
+Where it breaks: Staying → Finishing
+The breakdown: Stays on it but unsure if it's moving the needle — can't see if it's working
+```
