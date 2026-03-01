@@ -35,29 +35,29 @@ The job: **Stay regulated, focused, and productive as a founder under stress.**
 
 ### The Three Capabilities
 
-| Your capability | What the founder sees | What it does underneath |
-|---|---|---|
-| **Journal** | "Name what's weighing on you today" | Regulation — the founder processes before reacting |
-| **One commitment** | "Pick the ONE THING before the day pulls you" | Focus — prevents scattered execution |
-| **Patterns** | "See why some weeks drain and others don't" | Coaching — makes the invisible visible |
+| Credit | Your capability | Offer tool | What the founder sees | What it does underneath |
+|---|---|---|---|---|
+| Clarity Credit | Speed | To do | "Name what matters and finish it fast" | Regulation — the founder orients before reacting |
+| Action Credit | Leverage | Assessment | "Pick the ONE THING before the day pulls you" | Focus — prevents scattered execution |
+| Lesson Credit | Multiplier | Journal | "See why some weeks drain and others don't" | Coaching — makes the invisible visible |
 
 ### The Key Insight
 
 Founders buy something that sounds like it fits into their workday.
 Familiar tools that do something different underneath.
 
-The journal looks like a productivity tool. It does regulation work.
-The one commitment looks like task management. It does focus work.
-The patterns look like a weekly review. It does coaching work.
+The to do looks like a task list. It does regulation work.
+The assessment looks like a check in. It does focus work.
+The journal looks like a weekly review. It does coaching work.
 
 ---
 
 ## Stephen Whitworth Validation
 
 Stephen built all three capabilities into his own Claude Code setup:
-- **Self-reflection and persistent memory** = your Journal
-- **"What should I focus on today?" against weekly targets** = your One commitment
-- **Knowledge distillation and queryable transcripts** = your Patterns
+- **"What should I focus on today?" against weekly targets** = your To do
+- **Self-reflection and persistent memory** = your Assessment
+- **Knowledge distillation and queryable transcripts** = your Journal
 
 He proved the need is real. But he solved it through code.
 Most founders can't build what Stephen built.
@@ -91,7 +91,7 @@ You are not competing with Claude Code. You are what makes Claude Code work bett
 Not another productivity tool.
 Not therapy.
 
-A daily system that uses familiar work tools — journaling, commitment, pattern review —
+A daily system that uses familiar work tools — to do, assessment, journal —
 to do the regulation work that makes everything else sustainable.
 
 ---

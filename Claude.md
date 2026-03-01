@@ -13,6 +13,11 @@ Shiva Kumar coaches founders to build persistent productivity systems using a 3-
 The methodology: Being + Doing = Having.
 The daily non-negotiable: Send ONE message to ONE founder. Every day. No exceptions.
 
+**Debt / Credit polarity:**
+- Context Debt → Clarity Credit → To do → Speed → Macro game
+- Content Debt → Action Credit → Assessment → Leverage → Micro game
+- Formula Debt → Lesson Credit → Journal → Multiplier → Nano game
+
 ---
 
 ## Two Operating Systems
@@ -41,7 +46,7 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 6. **One message per day.** `daily-message-log.md` gets one entry every day before end of day. Non-negotiable.
 7. **When adding a new folder or file.** Update the repo structure map in CLAUDE.md first. Map and reality must always match.
 8. **When a demand signal illuminates debt psychology.** Extract the exact founder quote from demand-signals.md and add it to debt-psychology.md under the relevant debt stage (Context / Content / Formula). Never paraphrase — exact words only.
-9. **Every readme.md is a context file.** When creating or updating files in a folder, update that folder's readme.md to reflect what the folder contains and how it connects to the system. Empty readme files are not allowed.
+9. **Every claude.md is a context file.** When creating or updating files in a folder, update that folder's claude.md to reflect what the folder contains and how it connects to the system. Empty claude.md files are not allowed.
 10. **Write simply.** Always use simple, clear English. No complex words. No long sentences.
 
 ---
@@ -86,14 +91,29 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
   /Offer-creation
     /Recognising-supply
       /Context
+        claude.md                    ← folder context file
         Post-principles.md           ← how founders talk about their systems publicly — informs future posting voice
         offer-positioning.md         ← competition map, three capabilities, differentiation, positioning draft
+        product-messaging.md         ← Problem/Solution Value Proposition framework for mywellnessgame
 
       /Content
         (to be built — product messaging, demo call structure)
 
       /Formula
         (to be built — repeatable offer delivery)
+
+    /Remembering-supply
+      /Context
+        claude.md                    ← folder context file
+        credit-framework.md          ← Credits as opposite of Debt — Clarity/Action/Lesson credits, solution dimensions, focus areas
+
+      /Content
+        claude.md                    ← folder context file
+        (entries to be built as offer is validated through founder interactions)
+
+      /Formula
+        claude.md                    ← folder context file
+        (patterns to be built once Content entries show repeatable structure)
 
   /Weekly
     This-Week.md                     ← current week only (replace each Friday)
@@ -128,6 +148,7 @@ This is the sequence Claude must follow to support Shiva from first signal to de
 6. Pattern emerges
    → /Recognising-demand/Formula/
    → /Remembering-demand/Formula/
+   → /Remembering-supply/Context/credit-framework.md — which credit is building?
 
 7. Demo call requested by founder
 

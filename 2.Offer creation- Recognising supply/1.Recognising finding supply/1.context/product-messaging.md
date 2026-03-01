@@ -25,17 +25,17 @@ Updated as positioning sharpens through field observations and messaging sprints
 
 ## Product Capabilities (By using)
 
-1. Journal to name what's actually weighing on you today
-2. One commitment before the day pulls you in ten directions
-3. Patterns that show you why some weeks drain you and others don't
+1. To do — finish the ONE thing fast before the day pulls you apart
+2. Assessment — one commitment that holds you accountable before execution begins
+3. Journal — patterns that show you why some weeks drain you and others don't
 
-**Design principle:** Familiar objects (journal, todo, assessment) that quietly do regulation work. Founders buy something that fits into their workday. The magic is that these familiar objects do something different.
+**Design principle:** Familiar objects (to do, assessment, journal) that quietly do regulation work. Founders buy something that fits into their workday. The magic is that these familiar objects do something different underneath.
 
 ---
 
 ## Key Features (That enables)
 
-1. Coach reads your journal to confirm whether you named the real thing or the surface thing
+1. Coach reads your to do to confirm whether you named the real thing or the surface thing
 2. Custom MCP layer on Claude Code that builds persistent context across days
 3. Assessment system that connects your energy to your decisions over time
 
@@ -43,7 +43,7 @@ Updated as positioning sharpens through field observations and messaging sprints
 
 ## Instant Solution (Without)
 
-1. Your todo energises you instead of draining you
+1. Your to do energises you instead of draining you
 2. When energy drops, you know what's causing it — not just that it happened
 3. You stop making yourself, others, or your environment the enemy
 
@@ -51,7 +51,7 @@ Updated as positioning sharpens through field observations and messaging sprints
 
 ## Everyday Problem (Because of)
 
-1. Staring at the todo list and feeling paralysed instead of energised
+1. Staring at the to do list and feeling paralysed instead of energised
 2. Pushing through without noticing what's actually draining you
 3. Blaming yourself, your team, or your circumstances when things aren't working
 
@@ -86,27 +86,37 @@ Updated as positioning sharpens through field observations and messaging sprints
 
 ---
 
+## The Coach Role — How You Show Up
+
+| Credit | Focus | Offer tool | Coach role | Game |
+|---|---|---|---|---|
+| Clarity Credit | Speed | To do | Thinking Partner | Macro (Context Debt) |
+| Action Credit | Leverage | Assessment | Accountability Partner | Micro (Content Debt) |
+| Lesson Credit | Multiplier | Journal | Coaching Partner | Nano (Formula Debt) |
+
+---
+
 ## Unique Product Offer
 
 **Version 1 — Full offer (for website, sales pitch, long-form):**
 
 *The problem you live with:*
-You stare at the todo list and feel paralysed. You push through without noticing what's draining you. When things break, you blame yourself, your team, or your circumstances.
+You stare at the to do list and feel paralysed. You push through without noticing what's draining you. When things break, you blame yourself, your team, or your circumstances.
 
 *What changes:*
-Your todo energises you instead of draining you. When energy drops, you know what's causing it. You stop making yourself the enemy.
+Your to do energises you instead of draining you. When energy drops, you know what's causing it. You stop making yourself the enemy.
 
 *How it works:*
-A journal that names what's actually weighing on you. One commitment before the day pulls you apart. Patterns that show you why some weeks drain you and others don't.
+A to do that names what's actually weighing on you. One assessment before the day pulls you apart. A journal that shows you why some weeks drain you and others don't.
 
 *What you get:*
-A coaching layer built into Claude Code — your journal, todo, and assessment become a thinking partner that remembers your context across days.
+A coaching layer built into Claude Code — your to do, assessment, and journal become a thinking partner that remembers your context across days.
 
 ---
 
 **Version 1 — One-liner (for social media, ads, DMs):**
 
-Stop staring at your todo list wondering why nothing moves. Journal what's actually weighing on you, commit to one thing before the day pulls you apart, and see the patterns behind your best and worst weeks — through a coaching layer built into the tools you already use.
+Stop staring at your to do list wondering why nothing moves. Name what's actually weighing on you, commit to one thing before the day pulls you apart, and see the patterns behind your best and worst weeks — through a coaching layer built into the tools you already use.
 
 ---
 
