@@ -1,5 +1,5 @@
 # Demand Tollgates
-Parent: CLAUDE.md | daily-message-log.md
+Parent: CLAUDE.md | prospect-log.md
 
 ## Purpose
 Tollgates are checkpoints that position you to observe what happens after a message is sent.
@@ -49,22 +49,5 @@ The orientation: trust what your senses pick up. Not analyzing the founder from 
 
 ## Tollgate Log
 
-Add one entry per message sent.
-
-### Template
-```
-Date:
-Founder:
-
-Tollgate 1 — Did I lead with what I sensed or with my solution?
-Answer:
-
-Tollgate 2 — What do my senses tell me about the silence or reply?
-Sub-question (if silent): Was it the signal, the translation, or the timing?
-Answer:
-
-Tollgate 3 — Did my senses pick up them going deeper or pulling away?
-Answer:
-
-What I learned:
-```
+Tollgate entries live in prospect-log.md — one entry per founder per message sent.
+The T1, T2, T3 fields in each prospect-log.md entry are the log.

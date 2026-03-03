@@ -1,7 +1,7 @@
 # Business Types
 
 ## The Rule
-The 3 games (Macro, Micro, Nano) are the same for all businesses.
+The 3 games (Clarity, Action, Lesson) are the same for all businesses.
 What differs is the business itself — what stage it is at and how it shows up within each game.
 
 ---
@@ -14,9 +14,9 @@ What differs is the business itself — what stage it is at and how it shows up 
 | **Problem** | Breadth without focus | Length without consistency | Depth without visibility |
 | **Symptoms** | Multiple ideas, no clear priority, scattered GTM | Wins feel random, can't replicate, inconsistent execution | Same problems recurring, patterns invisible, growth feels fragile |
 | **Needs** | Clarity | Action | Lesson |
-| **Game** | Macro | Micro | Nano |
+| **Game** | Clarity | Action | Lesson |
 | **Stress type** | Acute | Neither acute nor chronic | Chronic |
-| **Debt type** | Context Debt | Content Debt | Formula Debt |
+| **Debt type** | Clarity (Context Debt) | Action (Content Debt) | Lesson (Formula Debt) |
 | **Tense** | Present | Future | Past |
 
 ---

@@ -14,9 +14,9 @@ The methodology: Being + Doing = Having.
 The daily non-negotiable: Send ONE message to ONE founder. Every day. No exceptions.
 
 **Debt / Credit polarity:**
-- Context Debt → Clarity Credit → To do → Speed → Macro game
-- Content Debt → Action Credit → Assessment → Leverage → Micro game
-- Formula Debt → Lesson Credit → Journal → Multiplier → Nano game
+- Clarity → Clarity Credit → To do → Speed
+- Action  → Action Credit  → Assessment → Leverage
+- Lesson  → Lesson Credit  → Journal → Multiplier
 
 ---
 
@@ -43,9 +43,9 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 3. **Archive don't delete.** Move completed entries to `/_archive` in the same folder. Never delete docs.
 4. **Reference existing files.** Link to related docs wherever possible. More connections = better context.
 5. **When completing a task.** Update the living doc it feeds, then move the task file to `/_archive`.
-6. **One message per day.** `daily-message-log.md` gets one entry every day before end of day. Non-negotiable.
+6. **One message per day.** `prospect-log.md` gets one entry every time a message is sent. Non-negotiable.
 7. **When adding a new folder or file.** Update the repo structure map in CLAUDE.md first. Map and reality must always match.
-8. **When a demand signal illuminates debt psychology.** Extract the exact founder quote from demand-signals.md and add it to debt-psychology.md under the relevant debt stage (Context / Content / Formula). Never paraphrase — exact words only.
+8. **When a demand signal illuminates a game.** Extract the exact founder quote from prospect-log.md and add it to debt-signal-psychology.md under the relevant game (Clarity / Action / Lesson). Never paraphrase — exact words only.
 9. **Every claude.md is a context file.** When creating or updating files in a folder, update that folder's claude.md to reflect what the folder contains and how it connects to the system. Empty claude.md files are not allowed.
 10. **Write simply.** Always use simple, clear English. No complex words. No long sentences.
 
@@ -59,34 +59,25 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 
   /Value-creation
     /Recognising-demand
-      /Context
+
+      /Finding (context layer — understanding who the founder is)
         /Debt-contexts
           founder-types.md           ← Founder A (complete), B and C (to be built)
           business-types.md          ← Business A / B / C — stage, symptoms, needs
-          situation-types.md         ← 27 situations (3 founder types × 3 business types × 3 debt stages)
+          situation-types.md         ← 27 situations (3 founder types × 3 business types × 3 games)
+          debt-signal-psychology.md  ← psychological texture of each game (Clarity / Action / Lesson)
+          coaching-diagnostic.md     ← 6-layer diagnostic for finding where the founder is stuck
         /Messaging-contexts
-          sources.md                 ← lessons from coaches, mentors, influencers (including competition insights)
-          debt-psychology.md         ← psychological texture of each debt stage (fed by lived experience + demand signals)
+          sources.md                 ← lessons from coaches, mentors, influencers
+          signal-bridge-voice.md     ← translation pipeline: Signal → Bridge → Voice
+          inertia-types.md           ← 4 mental models founders use to justify doing nothing
 
-      /Content
-        demand-signals.md            ← raw signals, sent messages and tollgate log
-        demand-translation.md        ← converting signal into message
-        pre-prospect-tracker.md      ← dashboard of all founders messaged, tollgate status, reply tracking
-        pre-prospect-tracker.xlsx    ← sortable/filterable version of the tracker (auto-generated from .md)
-        md-to-xlsx.py                ← script to convert tracker markdown to Excel
+      /Capturing (content layer — sending messages, logging interactions)
+        prospect-log.md              ← master log: one entry per founder per message (signal, analysis, message, tollgates)
+        linkedin-signal-scraping.md  ← how to find signals on LinkedIn (3 sources)
+        demand-tollgates.md          ← tollgate framework: what to sense at each checkpoint
 
-      /Formula
-        (empty — patterns to be built over time)
-
-    /Remembering-demand
-      /Context
-        demand-tollgates.md          ← checkpoints framed around senses — what did I sense, not what did they feel
-
-      /Content
-        daily-message-log.md         ← one entry per day, what happened at each tollgate
-
-      /Formula
-        (empty — patterns to be built over time)
+      /Fulfilling (formula layer — repeatable patterns, to be built over time)
 
   /Offer-creation
     /Recognising-supply
@@ -128,29 +119,34 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 
 This is the sequence Claude must follow to support Shiva from first signal to demo call requested by a founder.
 
-1. Recognise the signal
-   → /Recognising-demand/Content/demand-signals.md
+1. Shiva shares: founder link + post link + post content
 
-2. Identify debt stage
-   → /Recognising-demand/Context/Debt-contexts/
-   → /Recognising-demand/Context/Messaging-contexts/debt-psychology.md
+2. Claude reads signal through game contexts
+   → /Finding/Debt-contexts/
+   → /Finding/Messaging-contexts/signal-bridge-voice.md
 
-3. Translate into message
-   → /Recognising-demand/Content/demand-translation.md
+3. Claude outputs full analysis:
+   - Game (Clarity / Action / Lesson)
+   - Message angle: inertia type + where job breaks + pre-intent symptoms
+   - Context: founder type, business type, situation, coping or blocked
 
-4. Send the message
-   → /Recognising-demand/Content/demand-signals.md
+4. Shiva reacts to the analysis — corrects if wrong
+   Every correction builds the framework
 
-5. Position at tollgates — trust your senses, observe founder response
-   → /Remembering-demand/Context/demand-tollgates.md
-   → /Remembering-demand/Content/daily-message-log.md
+5. Message finalised and sent by Shiva
 
-6. Pattern emerges
-   → /Recognising-demand/Formula/
-   → /Remembering-demand/Formula/
-   → /Remembering-supply/Context/credit-framework.md — which credit is building?
+6. Log in prospect-log.md — T1 immediately after sending
+   → /Capturing/prospect-log.md
 
-7. Demo call requested by founder
+7. T2 check at 48 hours — surface from prospect-log.md
+
+8. T3 when reply comes
+
+9. Pattern emerges
+   → /Fulfilling/ folder
+   → /Offer-creation/Remembering-supply/Context/credit-framework.md — which credit is building?
+
+10. Demo call requested by founder
 
 ---
 
@@ -182,5 +178,5 @@ The commit message is the learning log. Make it meaningful.
 4. **If I seem to be drifting** — remind me the ONE THING is to send today's message
 5. **Never let me skip the tollgates** — after every message sent, walk me through demand-tollgates.md before moving on. Use the senses framing: "Did you lead with what you sensed?" not "Did you lead with their feeling?"
 6. **After every message sent** — remind Shiva to log Tollgate 1 immediately before closing the conversation
-7. **At the start of every session** — check daily-message-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
+7. **At the start of every session** — check prospect-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
 8. **Every Wednesday** — ask Shiva: "What's one way I could coach you better this week?" Update this section based on the answer.

@@ -7,7 +7,7 @@ combined with where their business is (Doing).
 Founder (Being) + Business (Doing) = Situation (Having)
 
 There are 9 base situations (3 founder types × 3 business types).
-Each situation can then be in one of 3 debt stages (Context, Content, Formula).
+Each situation can then be in one of 3 games (Clarity, Action, Lesson).
 This produces 27 total situations.
 
 ---
@@ -28,10 +28,10 @@ This produces 27 total situations.
 **Founder:** Acute stress, needs clarity, thinking partner
 **Business:** 0-1 customers, breadth without focus, scattered GTM
 **Combined experience:** Overwhelmed by too many directions with no one to think it through with
-**Debt stages:**
-- Context Debt: Lacks the concepts/qualities to see what matters
-- Content Debt: Lacks the tasks/tactics to move forward
-- Formula Debt: Lacks the workflows/capabilities to make it repeatable
+**Games:**
+- Clarity: Lacks the concepts/qualities to see what matters
+- Action: Lacks the tasks/tactics to move forward
+- Lesson: Lacks the workflows/capabilities to make it repeatable
 
 ---
 
@@ -39,10 +39,10 @@ This produces 27 total situations.
 **Founder:** Acute stress, needs clarity, thinking partner
 **Business:** 1-10 customers, length without consistency, wins feel random
 **Combined experience:** Has early traction but feels overwhelmed trying to understand what is actually working
-**Debt stages:**
-- Context Debt: Lacks the concepts/qualities to explain the wins
-- Content Debt: Lacks the tasks/tactics to replicate them
-- Formula Debt: Lacks the workflows/capabilities to systematize them
+**Games:**
+- Clarity: Lacks the concepts/qualities to explain the wins
+- Action: Lacks the tasks/tactics to replicate them
+- Lesson: Lacks the workflows/capabilities to systematize them
 
 ---
 
@@ -50,10 +50,10 @@ This produces 27 total situations.
 **Founder:** Acute stress, needs clarity, thinking partner
 **Business:** 10+ customers, depth without visibility, patterns invisible
 **Combined experience:** Business is growing but founder feels urgently lost in complexity they can't name
-**Debt stages:**
-- Context Debt: Lacks the concepts/qualities to see the pattern
-- Content Debt: Lacks the tasks/tactics to address it
-- Formula Debt: Lacks the workflows/capabilities to fix it at scale
+**Games:**
+- Clarity: Lacks the concepts/qualities to see the pattern
+- Action: Lacks the tasks/tactics to address it
+- Lesson: Lacks the workflows/capabilities to fix it at scale
 
 ---
 
@@ -83,13 +83,13 @@ This produces 27 total situations.
 
 ---
 
-## Debt Stages (Applied to all situations)
+## Games (Applied to all situations)
 
-| Debt Type | Definition | Signal |
-|---|---|---|
-| **Context Debt** | Absence of qualities/concepts | Founder can't name what is wrong |
-| **Content Debt** | Absence of tasks/tactics | Founder knows what is wrong but doesn't know what to do |
-| **Formula Debt** | Absence of workflows/capabilities | Founder knows what to do but has no system to do it repeatedly |
+| Game | Debt layer | Definition | Signal |
+|---|---|---|---|
+| **Clarity** | Context Debt | Absence of qualities/concepts | Founder can't name what is wrong |
+| **Action** | Content Debt | Absence of tasks/tactics | Founder knows what is wrong but doesn't know what to do |
+| **Lesson** | Formula Debt | Absence of workflows/capabilities | Founder knows what to do but has no system to do it repeatedly |
 
 ---
 

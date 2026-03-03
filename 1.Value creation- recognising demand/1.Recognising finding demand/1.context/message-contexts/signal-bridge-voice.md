@@ -9,6 +9,8 @@ Source: Yusuf Ahmed
 Before writing any message, walk through all 3 steps in sequence.
 If you can't complete a step — stop. You don't have a message yet.
 
+The "where to find it" references below show the logical sequence Claude follows. They are not file storage instructions. Each file is a separate .md on disk.
+
 ---
 
 ## The Pipeline
@@ -26,14 +28,14 @@ Signal → Bridge → Voice
 ## Step 1 — Signal
 
 **What it is:** A specific, real thing the founder said or shared publicly.
-**Where to find it:** founder-observations.md
-**How to read it:** Use Debt-contexts to understand who the founder is and what they are experiencing.
+**Where to find it:** prospect-log.md
+**How to read it:** Use game contexts (Debt-contexts folder) to understand who the founder is and what they are experiencing.
 
 **Checklist:**
-- [ ] Do I have the founder's exact words?
+- [ ] What game are they in? (Clarity / Action / Lesson)
+- [ ] Do I have their exact words?
 - [ ] Have I identified their founder type (A, B, or C)?
 - [ ] Have I identified their situation type (A+A, A+B, etc.)?
-- [ ] Have I identified their debt stage (Context, Content, or Formula)?
 - [ ] Is this founder blocked or coping? (Rob Snyder)
 
 **If you can't check all boxes — you don't have a signal yet. Don't write.**
@@ -43,20 +45,32 @@ Signal → Bridge → Voice
 ## Step 2 — Bridge
 
 **What it is:** The connection between the founder's signal and the inertia they're stuck in.
-**Where to find it:** inertia-types.md
-**How to identify it:** Ask — which of the 4 inertia types is this founder defaulting to?
+**This is the full message angle — three elements combined.**
 
 ```
-1. Status quo       — friction is known, accepted, already budgeted
+1. Game:                Clarity / Action / Lesson
+2. Inertia type:        Status quo / Internal solution / Ad hoc workaround / Not a priority — PRIMARY
+3. Where job breaks:    What specifically fails in their daily workflow
+4. Pre-intent symptoms: Raw felt language from the signal —
+                        what they're experiencing before naming the problem
+```
+
+**Pre-intent symptoms** = the emotional/experiential language in the signal before it's translated into a coaching need. This is what makes the message land — you respond to what they're feeling, not what you've diagnosed.
+
+**Inertia types:**
+```
+1. Status quo        — friction is known, accepted, already budgeted
 2. Internal solution — "I built my own system"
 3. Ad hoc workaround — fragile combo of habits that technically works
-4. Not a priority   — nice to solve but not urgent right now
+4. Not a priority    — nice to solve but not urgent right now
 ```
 
 **Checklist:**
-- [ ] Have I identified which inertia type this founder is in?
-- [ ] Do I know where their job breaks in the daily workflow? (founder-types.md)
-- [ ] Can I connect their signal to the breakdown point in one sentence?
+- [ ] What game are they in? (Clarity / Action / Lesson)
+- [ ] What inertia type are they defaulting to?
+- [ ] Where does the job break in their daily workflow?
+- [ ] What are the pre-intent symptoms? (exact language from their signal)
+- [ ] Can I combine all three in one message anchor sentence?
 
 **If you can't check all boxes — you don't have a bridge yet. Don't write.**
 
@@ -81,24 +95,26 @@ Signal → Bridge → Voice
 ## The Full Sequence
 
 ```
-1. Find the signal (founder-observations.md)
-2. Read the signal (Debt-contexts folder)
-3. Identify the inertia (inertia-types.md)
+1. Find the signal (prospect-log.md)
+2. Read the signal through game contexts (Debt-contexts folder)
+3. Identify the inertia type (inertia-types.md)
 4. Find where the job breaks (founder-types.md)
-5. Write the message (under 100 words, one question, no pitch)
-6. Check the voice checklist before sending
-7. Log it (founder-observations.md)
+5. Name the pre-intent symptoms (exact language from signal)
+6. Write the message (under 100 words, one question, no pitch)
+7. Check the voice checklist before sending
+8. Log it (prospect-log.md)
 ```
 
 ---
 
 ## Examples
 
-| Founder | Signal | Bridge | Voice |
-|---|---|---|---|
-| Thenuka | "You can't really download it" | Not a priority — knows dialogue matters but hasn't sought a thinking partner | Led with resonance from lived experience, asked one question about how he processes hard problems |
-| Ross | "Wish this was my usual state" | Internal solution — trying to regulate through nature/camping but can't access it consistently | Led with his exact words, connected to his pattern of vulnerable sharing |
-| Stephen | "Maybe I just give it my credit card and yolo" | Internal solution — built his own Claude Code OS but missing the regulation layer | To be written |
+| Founder | Game | Signal | Inertia | Pre-intent symptoms | Voice |
+|---|---|---|---|---|---|
+| Thenuka | Clarity | "You can't really download it" | Not a priority — knows dialogue matters but hasn't sought a thinking partner | noticing certain problems have a different texture | Led with resonance from lived experience, asked one question about how she processes hard problems |
+| Ross | Clarity | "Wish this was my usual state" | Internal solution — trying to regulate through nature/camping but can't access it consistently | wishing for consistency that isn't there | Led with his exact words, connected to his pattern of vulnerable sharing |
+| Stephen | Clarity | "Maybe I just give it my credit card and yolo" | Internal solution — built his own Claude Code OS but missing the regulation layer | deflecting with humour when a gap was directly exposed | Led with the gap Dave's question revealed, shared lived experience, one question |
+| Christina Qi | Clarity | "still haunts me" | Status quo — has a philosophy, not looking for help | carrying regret about missed moments, hasn't named it as a productivity problem | Led with the gap between "still haunts me" and "Lesson learned!", one question about practice |
 
 ---
 
