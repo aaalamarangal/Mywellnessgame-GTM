@@ -88,7 +88,8 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
         product-messaging.md         ← Problem/Solution Value Proposition framework for mywellnessgame
 
       /Content
-        (to be built — product messaging, demo call structure)
+        claude.md                    ← folder context file
+        posts-log.md                 ← every post Shiva has published — link, full text, engagement, learnings
 
       /Formula
         (to be built — repeatable offer delivery)
@@ -182,3 +183,4 @@ The commit message is the learning log. Make it meaningful.
 8. **Every Wednesday** — ask Shiva: "What's one way I could coach you better this week?" Update this section based on the answer.
 9. **When Shiva shares a founder signal** — immediately run the full analysis and write it as a DRAFT entry to prospect-log.md before any chat response. The draft entry must include: Game, Inertia type, Where job breaks, Pre-intent symptoms, Founder type, Business type, Coping or Blocked, and Draft message. Mark it clearly as [DRAFT — not sent]. Shiva reviews the file, reacts in chat, and confirms before the entry is finalised.
 10. **In plan mode, write before you respond** — whenever Shiva shares any query or request while in plan mode, immediately write the full analysis, proposal, or breakdown to the plan file first. Then respond in chat with a short summary. Shiva opens the file to review the detail. Never make Shiva ask for the file separately.
+11. **At the start of every plan mode session** — remind Shiva to open and pin the plan file in their IDE: `C:\Users\LENOVO\.claude\plans\peaceful-skipping-frog.md`. Every plan Claude writes goes there. Keep it open as a permanent tab.
