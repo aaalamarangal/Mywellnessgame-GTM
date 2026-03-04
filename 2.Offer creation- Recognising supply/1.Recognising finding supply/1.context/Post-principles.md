@@ -20,6 +20,26 @@ Understanding how these posts work helps you:
 
 ---
 
+## The One Goal — Get on the Founder's Mental Shortlist
+
+Don't write to convince. Write to exist in the right founder's awareness.
+
+The goal is not to win the argument today.
+It is to be on the list when they are ready.
+
+> "Make sure anyone who is in the market for a solution like ours knows that we exist."
+> — T. Bruining, HowdyGo
+
+For mywellnessgame: a post doesn't need to close anyone.
+It needs to reach the right founder at the right moment —
+so that when the regulation gap becomes undeniable, your name is already there.
+
+The principles below are HOW to write posts that earn a place on that list.
+
+Source: https://www.linkedin.com/posts/tbruining_this-shift-in-our-mentality-since-we-started-activity-7427598170408312832-krpi/
+
+---
+
 ## Stephen Whitworth — Post Anatomy
 
 **Post type:** "Here's what I built and why it works"
@@ -106,6 +126,7 @@ This structure is transferable. Name the old way. Name the new way. Let the read
 |---|---|---|---|
 | Stephen Whitworth | Personal OS with Claude Code | "Mini coach + chief of staff", "gentle accountability" | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7432396771709947904/) |
 | Gaurav Verma (Senior Software Engineer) | Claude Code as thinking amplifier | "Clarity of intent", "amplifies the quality of thinking", "junior architect who never gets tired" | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7431910630011469825/) |
+| T. Bruining (HowdyGo) | Marketing mindset shift — convincing vs existing | "Make sure anyone in the market knows we exist", "at least be on the list" | [Post](https://www.linkedin.com/posts/tbruining_this-shift-in-our-mentality-since-we-started-activity-7427598170408312832-krpi/) |
 
 ---
 
