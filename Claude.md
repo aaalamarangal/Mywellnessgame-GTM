@@ -90,6 +90,7 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
       /Content
         claude.md                    ← folder context file
         posts-log.md                 ← every post Shiva has published — link, full text, engagement, learnings
+        post-inspiration.md          ← raw material that feeds posts (GTM posts, client value, messaging signals)
 
       /Formula
         (to be built — repeatable offer delivery)

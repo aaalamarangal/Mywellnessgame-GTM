@@ -20,18 +20,6 @@ Understanding how these posts work helps you:
 
 ---
 
-## Where Post Inspiration Comes From
-
-Three inputs that feed every post. Use at least one before writing anything.
-
-1. **Daily messaging** — what you notice in founder signals. Each message is raw material. The gap you named, the inertia you wrote against, the exact words they used — all of it is a post waiting to happen. (Proven: Post 1 and Post 2 came directly from messaging work.)
-
-2. **Client value delivery** — when a client like Sujith gets a result from the work, that experience is a post. Not a case study — a lived moment. What shifted, what they said, what you noticed. This is the strongest signal that the offer is working.
-
-3. **GTM posts from other founders** — posts about go-to-market, systems, and operating that give principles and language. Read them to extract what applies to mywellnessgame. (Example: T. Bruining's mental shortlist insight came from a HowdyGo GTM post.)
-
----
-
 ## The One Goal — Get on the Founder's Mental Shortlist
 
 Don't write to convince. Write to exist in the right founder's awareness.
