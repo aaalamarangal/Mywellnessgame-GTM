@@ -173,6 +173,7 @@ The post confirms their use case and points toward restoration without pitching.
 | Stephen Whitworth | Personal OS with Claude Code | "Mini coach + chief of staff", "gentle accountability" | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7432396771709947904/) |
 | Gaurav Verma (Senior Software Engineer) | Claude Code as thinking amplifier | "Clarity of intent", "amplifies the quality of thinking", "junior architect who never gets tired" | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7431910630011469825/) |
 | T. Bruining (HowdyGo) | Marketing mindset shift — convincing vs existing | "Make sure anyone in the market knows we exist", "at least be on the list" | [Post](https://www.linkedin.com/posts/tbruining_this-shift-in-our-mentality-since-we-started-activity-7427598170408312832-krpi/) |
+| Will Leatherman | Content as pre-sell — warm outbound through founder posts | "Content is the pre-sell. Outbound is the close." "I felt like I already knew you." "Outreach stops feeling like an interruption and starts feeling like recognition." | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7434235934138667008/) |
 
 ---
 
