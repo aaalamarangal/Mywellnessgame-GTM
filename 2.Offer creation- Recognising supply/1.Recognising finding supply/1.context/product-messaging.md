@@ -69,25 +69,26 @@ Updated as positioning sharpens through field observations and messaging sprints
 
 ## Current Way (Because we handle)
 
-*What we know so far:*
-- Some founders journal but never review patterns
-- Some use AI assistants for thinking but context resets every session
-- Some have coaches but the coaching doesn't connect to daily execution
-- Most founders have no regulation system — they push through until they burn out
+Founders are not doing nothing. They have already built something.
+The question is: what does it not do for them?
 
-**Field insight — how to read the current way from LinkedIn:**
-When a founder comments on a post about a tool they use, they reveal their inertia type directly. They describe exactly what their internal solution does and does not do for them.
-- Distance language ("I really don't care what an AI thinks of me") = internal solution with emotional gap — the human regulation layer is missing
-- Workaround framing = ad hoc workaround that technically works but doesn't compound
-- Positive routine description = status quo — friction is budgeted, not solved
+| Current way | What it does | What it misses |
+|---|---|---|
+| AI assistant (ChatGPT, Claude) | Thinking partner in the moment | No memory across days, no framework, no coach |
+| Journaling (Notion, paper) | Records thoughts | No pattern recognition, no feedback loop |
+| Executive coach | Accountability and reflection | Doesn't connect to daily execution tools |
+| Therapy | Emotional regulation | Not productivity-specific, no system layer |
+| No system | Nothing to maintain | Push through until burnout |
 
-Use these comments to update this section as new current ways are observed in the field.
+**What all of these miss:**
+The regulation layer that connects daily execution to internal state.
+Not just thinking — but knowing why some days flow and others don't.
+Not just accountability — but the one commitment that actually holds before the day pulls you apart.
 
-*Field example — Jordan Peace (CEO, Fringe):*
+*Field observation — Jordan Peace (CEO, Fringe):*
 > "I really don't care what an AI thinks of me. A useful paradigm in this case!"
 
-His own post: resolved philosophy about radical transparency and being real.
-His comment on Brandon Sammut's AI accountability post: revealed he already uses AI for accountability — but only for "trends/tendencies," not deep regulation. The emotional distance ("I really don't care") signals the human regulation layer is missing.
+Uses AI for accountability but only for "trends/tendencies." The emotional distance ("I really don't care") shows the human regulation layer is absent. He has the tool. He doesn't have the system underneath.
 
 ---
 
