@@ -180,3 +180,4 @@ The commit message is the learning log. Make it meaningful.
 6. **After every message sent** — remind Shiva to log Tollgate 1 immediately before closing the conversation
 7. **At the start of every session** — check prospect-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
 8. **Every Wednesday** — ask Shiva: "What's one way I could coach you better this week?" Update this section based on the answer.
+9. **When Shiva shares a founder signal** — immediately run the full analysis and write it as a DRAFT entry to prospect-log.md before any chat response. The draft entry must include: Game, Inertia type, Where job breaks, Pre-intent symptoms, Founder type, Business type, Coping or Blocked, and Draft message. Mark it clearly as [DRAFT — not sent]. Shiva reviews the file, reacts in chat, and confirms before the entry is finalised.
