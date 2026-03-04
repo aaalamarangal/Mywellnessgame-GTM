@@ -120,7 +120,53 @@ This structure is transferable. Name the old way. Name the new way. Let the read
 
 ---
 
-## Posts to Observe
+## Game-Specific Post Templates
+
+These templates are for writing posts that speak directly to a founder's breaking game.
+The founder reads it and recognises themselves — without being named.
+The post confirms their use case and points toward restoration without pitching.
+
+---
+
+### Clarity Game Post Template
+
+**What's breaking:** The founder can't name what's wrong. They blame external factors — the stage, the team, the environment. The problem feels like the enemy is out there.
+
+**What the post does:** Names the invisible thing. Gives them the concept they were missing. They read it and think "that's exactly what's happening to me."
+
+**Structure:**
+1. Name the symptom — what founders notice on the outside ("everything feels harder than it should")
+2. Name the gap — what's actually missing underneath ("it's not the problem, it's the story attached to it")
+3. Name what restoration looks like — not the product, the state ("when the concept lands, the problem doesn't change — your relationship to it does")
+4. One question that opens self-recognition ("What story are you attaching to the hardest thing on your list right now?")
+
+**What to avoid:** Naming the framework. Naming the product. Giving the answer before the question lands.
+
+**Field signals to draw from (prospect-log.md):**
+- Jordan Peace: "Nothing saves us but being real" — external honesty solved, internal regulation not
+- Stephen Whitworth: "yolo" — humour covering the gap when regulation layer was exposed
+- Christina Qi: "still haunts me" — philosophy present, practice inconsistent
+
+---
+
+### Lesson Game Post Template
+
+**What's breaking:** The founder has discipline but no visibility. They show up every day but can't see what it adds up to. They feel productive but can't confirm it.
+
+**What the post does:** Names the gap between showing up and knowing. Helps them see that the discipline is not the problem — the absence of a pattern layer is.
+
+**Structure:**
+1. Name the discipline — what they're already doing ("you show up. every day. 5am or not.")
+2. Name the blind spot — what they can't see ("but do you know which days moved the needle and which ones just felt like movement?")
+3. Name what visibility looks like — not the product, the shift ("when you can see the pattern, the effort changes — it stops being blind discipline")
+4. One question that opens self-recognition ("What would change if you could see which of your habits are actually working?")
+
+**What to avoid:** Suggesting their discipline is wrong. Adding complexity. Pitching a system.
+
+**Field signals to draw from (prospect-log.md):**
+- Nick Ang: "I have no system for knowing if I'm actually doing what I say I do, or where the gaps are"
+
+---
 
 | Person | Post topic | Language worth noting | Link |
 |---|---|---|---|
