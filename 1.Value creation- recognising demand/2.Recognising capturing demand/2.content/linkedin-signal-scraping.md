@@ -48,6 +48,21 @@ Watch for: moments where the founder drops the polished voice and speaks directl
 
 ---
 
+## Where to Post Your Comment
+
+Not all comment placements are equal.
+
+- **If your message quotes a specific reply from the founder** — post in that comment thread, not as a standalone comment on the post.
+- It reads as a direct response to what they just said, not a random observation.
+- It shows you read the full conversation, not just the post.
+- The founder gets a notification in the thread they were already active in.
+
+**Jordan Peace example:** Message opened with "nothing saves us but being real" — posted as a reply in Carson Sweezy's thread where Jordan had said exactly that. The quote felt earned because it came from the same thread.
+
+**Default:** Standalone comment if the signal comes from the post itself. Thread reply if the signal comes from a comment exchange.
+
+---
+
 ## How to Scan
 
 1. Open the founder's LinkedIn profile

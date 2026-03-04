@@ -246,4 +246,40 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - T3 (reply received):
 
 **What I learned:**
+
+---
+## Jordan Peace — March 4, 2026
+
+**Profile:** https://www.linkedin.com/in/jordan-peace-fringe/
+**Signal link:** https://www.linkedin.com/posts/jordan-peace-fringe_leadership-employeeexperience-trust-activity-7432061976555610112-zmu3/
+
+**Signal**
+> "I'm a flawed, overwhelmed human with five kids and ADHD trying to run a startup."
+> "'Great things, at scale, for a long period of time' sounds like a life mission statement I can get behind."
+> "In an age of fake content, fake images, fake videos, fake news — nothing is going to save us but being REAL."
+
+**Game:** Clarity
+
+**Message angle**
+- Inertia type: Ad hoc workaround — therapy + radical transparency is the system. Fragmented, not compounding.
+- Where job breaks: External honesty is solved. Internal consistency at scale is not.
+- Pre-intent symptoms: naming overwhelm and ADHD in present tense, conviction that REAL is survival ("save us"), orienting toward "great things at scale for a long period of time" without a system underneath
+
+**Context**
+- Founder type: A
+- Business type: B (Fringe — employee experience startup, has traction)
+- Situation: A+B
+- Coping or Blocked: Coping — resolved philosophy, not asking for help. Sustainability gap is live.
+
+**Message sent**
+> "Nothing saves us but being real — I felt that. You've built the external version: therapy on the calendar, no persona, full visibility. But you're also 'overwhelmed' — five kids, ADHD, startup. What does the internal version of being real look like for you on the days it's hardest to hold?"
+
+**Where posted:** Reply to Carson Sweezy's comment thread — where Jordan said "nothing saves us but being real." Opening line quotes directly from that reply.
+
+**Tollgates**
+- T1 (sent March 4): Led with what I sensed ✅ — opened with his conviction ("nothing saves us but being real"), surfaced the internal gap, one question
+- T2 (check March 6):
+- T3 (reply received):
+
+**What I learned:**
 ---
