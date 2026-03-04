@@ -42,14 +42,23 @@ Bridge → connect the signal to the inertia they're stuck in
 Voice  → express it naturally with no pitch
 ```
 
+### linkedin-signal-scraping.md
+How to find founder signals on LinkedIn before writing any message.
+Four signal sources — ranked by honesty:
+1. Founder's own posts (most performative)
+2. Founder's replies on other people's posts (more honest)
+3. Founder's replies to their own readers' comments (real-time candour)
+4. Founder's comments on tool/system posts (reveals inertia type directly)
+
 ---
 
 ## How to Use This Folder
 
-1. Read signal-bridge-voice.md — walk through all 3 steps before writing anything
-2. Read inertia-types.md — identify which of the 4 mental models you are writing against
-3. Read sources.md — identify which source principle is most relevant to this founder's signal
-4. Write the message — under 100 words, one question, lead with what you sensed
+1. Read linkedin-signal-scraping.md — find the signal before anything else
+2. Read signal-bridge-voice.md — walk through all 3 steps before writing anything
+3. Read inertia-types.md — identify which of the 4 mental models you are writing against
+4. Read sources.md — identify which source principle is most relevant to this founder's signal
+5. Write the message — under 100 words, one question, lead with what you sensed
 
 ---
 

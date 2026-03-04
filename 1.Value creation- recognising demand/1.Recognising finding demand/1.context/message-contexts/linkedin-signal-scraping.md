@@ -1,5 +1,5 @@
 # LinkedIn Signal Scraping
-Parent: CLAUDE.md | Recognising capturing demand
+Parent: CLAUDE.md | Recognising finding demand | message-contexts
 
 ## Purpose
 This file documents how to find founder signals on LinkedIn.

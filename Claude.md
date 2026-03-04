@@ -71,10 +71,10 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
           sources.md                 ← lessons from coaches, mentors, influencers
           signal-bridge-voice.md     ← translation pipeline: Signal → Bridge → Voice
           inertia-types.md           ← 4 mental models founders use to justify doing nothing
+          linkedin-signal-scraping.md ← how to find signals on LinkedIn (4 sources, ranked by honesty)
 
       /Capturing (content layer — sending messages, logging interactions)
         prospect-log.md              ← master log: one entry per founder per message (signal, analysis, message, tollgates)
-        linkedin-signal-scraping.md  ← how to find signals on LinkedIn (3 sources)
         demand-tollgates.md          ← tollgate framework: what to sense at each checkpoint
 
       /Fulfilling (formula layer — repeatable patterns, to be built over time)
