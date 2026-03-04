@@ -19,9 +19,15 @@ Updated each time a post is published.
 **Post text:**
 [exact text as published]
 
-**What worked:**
-**What to improve:**
 **Engagement:**
+
+**What worked:**
+- Lesson:
+- Next step:
+
+**What didn't work:**
+- Lesson:
+- Next step:
 ---
 ```
 
@@ -59,9 +65,21 @@ They just haven't found the right thinking partner yet.
 
 Sound familiar? What breaks your usual state?
 
+**Engagement:** 5 likes
+
 **What worked:**
-**What to improve:**
-**Engagement:**
+- Took insights directly from daily messaging and turned them into a post — the field work fed the content
+- Lesson: Messaging one founder a day is not just outreach. It is the raw material for posting.
+- Next step: Continue to message one founder a day — every message is a potential post
+
+**What didn't work:**
+- Unsure if the post is restoring the prospect's game or just describing it — the post may be observing the problem without connecting to what breaks it
+- Lesson: Start tracking which founders are liking the posts — they are signalling demand without replying
+- Next step: List the founders who liked this post and check if any are prospects worth messaging
+
+**Founders who liked this post:**
+- Aannya S Vashishth — https://www.linkedin.com/in/aannya-s-vashishthlegal/
+- Sujith Ayyappan — https://www.linkedin.com/in/sujith-ayyappan/
 
 ---
 ## Post 2 — March 4, 2026
@@ -102,8 +120,14 @@ That's the gap I'm building for.
 
 One founder at a time.
 
-**What worked:**
-**What to improve:**
 **Engagement:**
+
+**What worked:**
+- Lesson:
+- Next step:
+
+**What didn't work:**
+- Lesson:
+- Next step:
 
 ---
