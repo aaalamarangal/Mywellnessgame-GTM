@@ -25,10 +25,28 @@ This is where blocked language surfaces most clearly.
 
 Her own post had resolved philosophy. Her reply had the real cost.
 
+**Jordan Peace example (comment on Brandon Sammut's AI accountability post):**
+> "I really don't care what an AI thinks of me. A useful paradigm in this case!"
+
+His own post: resolved philosophy about radical transparency and being real.
+His comment on someone else's AI post: revealed he already uses AI for accountability — but only for "trends/tendencies," not deep regulation. The emotional distance ("I really don't care") signals the human layer is missing.
+
+**Pattern:** When a founder comments on a post about a tool they use — they reveal their inertia type directly. They describe exactly what their internal solution does and does not do for them.
+
 ### Source 3 — Founder's replies to their own readers' comments
 When a reader comments on the founder's post and the founder replies back.
 The founder is responding in real time, often more candid than the original post.
 Watch for: moments where the founder drops the polished voice and speaks directly.
+
+### Source 4 — Founder comments on posts about tools, systems, or frameworks they use
+
+When a founder engages with content about AI, productivity tools, or systems — they are describing their current solution. This is the clearest window into their inertia type.
+
+- Distance language ("I really don't care what an AI thinks of me") = internal solution with an emotional gap — the human regulation layer is missing
+- Workaround framing ("I journal sometimes / talk to friends") = ad hoc workaround
+- Positive routine description ("I already have a system for this") = status quo
+
+Watch for: what they say the tool does well AND what they leave unspoken about what it cannot do.
 
 ---
 
