@@ -75,6 +75,20 @@ Updated as positioning sharpens through field observations and messaging sprints
 - Some have coaches but the coaching doesn't connect to daily execution
 - Most founders have no regulation system — they push through until they burn out
 
+**Field insight — how to read the current way from LinkedIn:**
+When a founder comments on a post about a tool they use, they reveal their inertia type directly. They describe exactly what their internal solution does and does not do for them.
+- Distance language ("I really don't care what an AI thinks of me") = internal solution with emotional gap — the human regulation layer is missing
+- Workaround framing = ad hoc workaround that technically works but doesn't compound
+- Positive routine description = status quo — friction is budgeted, not solved
+
+Use these comments to update this section as new current ways are observed in the field.
+
+*Field example — Jordan Peace (CEO, Fringe):*
+> "I really don't care what an AI thinks of me. A useful paradigm in this case!"
+
+His own post: resolved philosophy about radical transparency and being real.
+His comment on Brandon Sammut's AI accountability post: revealed he already uses AI for accountability — but only for "trends/tendencies," not deep regulation. The emotional distance ("I really don't care") signals the human regulation layer is missing.
+
 ---
 
 ## ICP's Objections
