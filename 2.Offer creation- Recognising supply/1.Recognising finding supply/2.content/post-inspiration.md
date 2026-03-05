@@ -73,6 +73,23 @@ Brainwave states:
 
 ---
 
+## Field Observations — To Build Later
+
+---
+### Types of Regulation Systems — March 5, 2026
+
+**Triggered by:** Leta Lista's reply — "I work with very different founders... some are chaotic, some are super disciplined, some are neurodivergent. No one-size-fits-all."
+
+**The instinct:** Build a framework for types of regulation systems so founders can see where they sit.
+
+**Why not now:** Not enough real interactions to build a grounded typology. Build from validated patterns, not theory. Need 20-30 founder conversations before the types reveal themselves.
+
+**What to track from here:** When founders describe their own systems in replies or posts — log the exact words and note the type (chaotic / disciplined / neurodivergent / ad hoc). The typology builds itself from the field.
+
+**Post angle (when ready):** Most founders have a regulation system. The problem isn't having one — it's not being able to see where it breaks.
+
+---
+
 ## Client Value Delivery Log
 
 ---
