@@ -282,4 +282,37 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - T3 (reply received):
 
 **What I learned:**
+
+---
+## Leta Lista — March 5, 2026
+
+**Profile:** https://www.linkedin.com/in/leta-lista/
+**Signal link:** https://www.linkedin.com/posts/leta-lista_weve-been-told-that-we-have-to-project-confidence-share-7435013946723426304-ASbt/
+
+**Signal**
+> "the founders who struggle most are usually stuck on one setting → either performing certainty they don't have, or over-sharing doubt without a comeback."
+> "the ones who close are the ones who can walk in high, drop the status when it matters, and pick it back up before they leave the room."
+
+**Game:** Clarity
+
+**Message angle**
+- Inertia type: Internal solution — has her own status games framework, may not see the regulation layer underneath it
+- Where job breaks: concept → application in the moment (founders she works with can't translate the theory into fluid action under pressure)
+- Pre-intent symptoms: naming "stuck on one setting" as both a negotiation and an internal regulation problem — performing certainty and over-sharing doubt are both dysregulation showing up externally
+
+**Context**
+- Founder type: A (provisional)
+- Business type: B (provisional)
+- Situation: A+B
+- Coping or Blocked: Coping — sharing resolved insight from a position of strength, not expressing active pain
+
+**Message sent**
+> "The part that landed — 'stuck on one setting.' I've been building a regulation system for myself as a founder — the thing that makes the range actually accessible, not just understood. What you're describing as external fluidity in the room... I've found it breaks first when the internal state isn't stable. Where do you see it break first for the founders you work with?"
+
+**Tollgates**
+- T1 (sent March 5, 2026): Led with what I sensed ✅ — referenced her exact words, shared lived experience ("building for myself"), one question, no pitch. Entered from curiosity not diagnosis. Under 100 words.
+- T2 (check March 7, 2026):
+- T3 (reply received):
+
+**What I learned:**
 ---

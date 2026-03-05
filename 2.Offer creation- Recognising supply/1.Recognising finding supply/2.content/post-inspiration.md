@@ -34,6 +34,45 @@ Three inputs. Use at least one before writing anything.
 
 ---
 
+## Video & Podcast Inspiration
+
+---
+### Dr. Joe Dispenza — Raj Shamani Interview — March 2026
+
+**Source:** https://www.youtube.com/watch?v=90lLQVZe2Nc
+**Topic:** Neuroscience of learning, memory, and brainwave states
+
+**Key findings:**
+
+Eric Kandel (Nobel Prize researcher):
+- One hour of focused attention on one piece of information doubles synaptic connections
+- Without review or repetition, those circuits prune within hours or days
+- Learning = making new connections. Remembering = maintaining them.
+
+Brainwave states:
+- Beta: outer focus, conscious, awake. High beta = stress, alarm, fight-or-flight.
+- Alpha: attention off outer environment. Entry point to subconscious.
+- Theta: body asleep, mind awake. Changes beyond the analytical mind become possible.
+- Delta: deep restorative sleep. Immune system and body repair.
+- Gamma: super-awareness. Very alert, very clear, relaxed yet awake — not running on automatic.
+
+"When nothing is left to superstition or dogma, and a person understands what they are doing and why they are doing it, the how becomes easier. When the how gets easier because they understand the what and the why, they assign meaning to the task."
+
+**Key insights for mywellnessgame:**
+
+1. ONE THING has a neuroscience basis — one hour of focused attention doubles the connections. Scattered attention builds nothing.
+2. The journal and assessment are not optional — without review, the circuits prune. Review is how learning becomes remembering.
+3. Clarity game → Action game: understanding the what and why makes the how easier. Clarity is not a soft skill — it is the prerequisite for action.
+4. Gamma is the regulated state — clear, relaxed, alert. Not stressed, not running on automatic. This is the state that makes fluid action possible. Founders stuck in high beta freeze.
+
+**Post angles (when ready):**
+- The ONE THING is not productivity advice — it is neuroscience. One hour on one concept doubles the circuits. Fragmented attention builds nothing.
+- What you don't review, you lose. The journal is not reflection — it is maintenance of what you built.
+- "The how becomes easier when you understand the what and why" — Clarity is not a luxury. It is what makes action possible.
+- Gamma state: the state where founders close deals and make clear decisions. High beta is where they freeze and perform certainty they don't have.
+
+---
+
 ## Client Value Delivery Log
 
 ---

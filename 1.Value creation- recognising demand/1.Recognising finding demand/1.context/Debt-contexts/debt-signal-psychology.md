@@ -29,6 +29,9 @@ Clarity debt feels like the problem is external. Resolution comes when the right
 > "That groundedness isn't a distraction from success, but rather a prerequisite for it."
 — Christina Qi
 
+> "the founders who struggle most are usually stuck on one setting → either performing certainty they don't have, or over-sharing doubt without a comeback."
+— Leta Lista
+
 ---
 
 ## Action — How it feels
