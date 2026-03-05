@@ -311,8 +311,8 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Tollgates**
 - T1 (sent March 5, 2026): Led with what I sensed ✅ — referenced her exact words, shared lived experience ("building for myself"), one question, no pitch. Entered from curiosity not diagnosis. Under 100 words.
-- T2 (check March 7, 2026):
-- T3 (reply received):
+- T2 (check March 7, 2026): Not needed — reply came same day.
+- T3 (reply received March 5, 2026): She went deeper ✅ — two replies. First: connected internal calm to having external alternatives (BATNA framing — "2-3 options on the table that make you feel calm"). Second: "tell me more about your regulation system and how it works?" — direct ask.
 
-**What I learned:**
+**What I learned:** "Walked the walk" framing worked. Sharing lived experience opened the door. She tested with a BATNA reply, then went direct. The internal/external tension is live — her calm is built on alternatives, the system builds it from inside. That's the conversation.
 ---
