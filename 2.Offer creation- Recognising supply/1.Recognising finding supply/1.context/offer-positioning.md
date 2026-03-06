@@ -136,8 +136,24 @@ One data point — but a clean one.
 
 ---
 
+**Pricing — the entry point is not a price, it is a question**
+
+The question that surfaces the gap:
+> "What's the one thing your current system still can't tell you — no matter how well you use it?"
+
+This does not blame the tool. It assumes the founder already has something. It opens the gap from inside their own experience.
+
+When a founder can answer this — they have already diagnosed themselves. They are no longer comparing you to a free tool. They are asking who can fill what the tool can't. At that point price stops being the comparison.
+
+**Confirmed — Leta Lista, March 5, 2026**
+The message surfaced what her framework couldn't do. She named the gap herself. Then asked about the regulation system. The question opened the door — she walked through it.
+
+**Hypothesis — not yet tested in the field**
+Once the gap is named, price becomes irrelevant to the comparison. The founder is no longer choosing between you and a free tool. They are choosing whether to fill the gap or leave it.
+
+---
+
 ## Open Questions
 
-- How do you price against "free" alternatives like ChatGPT and journaling apps?
 - At what point does a founder realize they need a person, not a tool?
 - As more founders build their own AI operating systems (Stephen, Whitworth, Gaurav), does your offer become the prerequisite layer — the regulation that makes those systems work?
