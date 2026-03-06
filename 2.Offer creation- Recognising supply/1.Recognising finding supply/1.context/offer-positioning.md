@@ -196,6 +196,65 @@ Sujith crossed that line. He is paying. And the template is delivering.
 
 ---
 
+---
+
+## Demo Messaging — The Step That Sets Up the Call
+
+The demo call is set up by the demo messaging — not by the call itself.
+
+If a founder arrives asking "what exactly do you do?" — the messaging hasn't done its job yet.
+If a founder arrives asking "how does this fit with my Claude Code setup?" — the messaging worked.
+
+**The question is never: "is this founder ready for the demo call?"**
+**The question is: "has my messaging done the work that sets up the call?"**
+
+### Three Jobs Demo Messaging Must Complete
+
+**Job 1 — Surface the gap (not explain the offer)**
+Messaging must make the founder name their own gap.
+The question that does this:
+> "What's the one thing your current system still can't tell you — no matter how well you use it?"
+When they answer, they have diagnosed themselves. Job 1 done.
+
+Indicator: Their reply names a gap (not curiosity).
+- Gap: "I can name tasks but I never pick one and commit."
+- Curiosity: "interesting, tell me more."
+
+**Job 2 — Tie the gap to a specific situation**
+Founder must connect the gap to their current reality — not just acknowledge it in the abstract.
+Generic curiosity = messaging stopped at surface. Specific use case = messaging reached the gap.
+
+Indicator: Their next message includes a real situation.
+- Use case: "I'm building my GTM right now and I freeze every morning at the task list."
+- Generic: "yeah I struggle with productivity sometimes."
+
+**Job 3 — Move the founder from problem to fit question**
+The founder stops asking about the problem and starts asking about fit.
+Indicator: Tone shifts from "is this relevant to me?" to "how would this work for me?"
+- Ready: "I'm in Claude Code all day — where does your layer sit in my workflow?"
+- Not ready: "How is this different from ChatGPT?"
+
+### The Filter Principle
+
+Every message in the demo sequence is either a filter or a push.
+- **Filter** — names what is breaking for THIS founder. Invites self-recognition.
+- **Push** — explains what mywellnessgame does. Attracts everyone, including wrong-fit founders.
+
+Demo messaging never switches from filtering to explaining.
+A founder who reaches Job 3 has filtered themselves all the way in.
+The demo call starts from that self-selection — not from zero.
+
+### The Demo Call (when Jobs 1–3 are complete)
+
+The call does not explain the offer. It starts at the gap the founder already named.
+Run the Macro → Micro → Nano template live on their real situation.
+The founder feels regulation happen in real time. That is the close.
+
+**Source insight — Nemanja Zivkovic (LinkedIn, March 2026):**
+> "The best indicator the messaging is working is that they arrive with use case + implementation questions on the call and it directly affects lead velocity."
+
+---
+
 ## Open Questions
 
 - As more founders build their own AI systems, how do you scale the template as the entry point without losing the coaching layer underneath?

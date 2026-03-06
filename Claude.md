@@ -148,7 +148,19 @@ This is the sequence Claude must follow to support Shiva from first signal to de
    → /Fulfilling/ folder
    → /Offer-creation/Remembering-supply/Context/credit-framework.md — which credit is building?
 
+9b. Demo messaging begins (when a founder has replied and the pattern points toward fit)
+   → Three jobs to complete before scheduling the demo call:
+     Job 1: Founder names their own gap — not curiosity, a specific gap
+     Job 2: Founder ties the gap to their current situation — specific use case, not generic
+     Job 3: Founder asks a fit question — tone shifts from "is this relevant?" to "how would this work?"
+   → Track in prospect-log.md: Job 1 done? / Use case / Fit question asked
+   → Do not schedule the demo call until all three are complete
+   → Demo messaging is always a filter. Never switch to explaining the offer.
+
 10. Demo call requested by founder
+    → Starts at the gap the founder already named — not at an explanation of the offer
+    → Run Macro → Micro → Nano template live on their real situation
+    → The close happens when regulation is felt in real time
 
 ---
 
@@ -182,5 +194,5 @@ The commit message is the learning log. Make it meaningful.
 6. **At the start of every session** — check prospect-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
 7. **When Shiva shares a founder signal** — immediately run the full analysis and write it as a DRAFT entry to prospect-log.md before any chat response. The draft entry must include: Game, Inertia type, Where job breaks, Pre-intent symptoms, Founder type, Business type, Coping or Blocked, and Draft message. Mark it clearly as [DRAFT — not sent]. Shiva reviews the file, reacts in chat, and confirms before the entry is finalised.
 8. **Write to the plan file before responding** — whenever Shiva shares any query in plan mode, or asks for a template, system, post draft, or structural proposal, immediately write the full analysis or content to the plan file first. Then respond in chat with a short summary. Shiva opens the pinned tab to review. Never make Shiva ask for the file separately.
-9. **At the start of every plan mode session** — remind Shiva to open and pin the plan file in their IDE: `C:\Users\LENOVO\.claude\plans\peaceful-skipping-frog.md`. Every plan Claude writes goes there. Keep it open as a permanent tab.
+9. **At the start of every plan mode session** — remind Shiva to open and pin the current plan file in their IDE. The plan file path is shown in the plan mode system prompt at the start of each session. Every plan Claude writes goes there. Keep it open as a permanent tab.
 10. **Before writing any post** — remind Shiva to check the comments section of the inspiration post or founder signal. Comments reveal what resonates, what questions people have, and sharpen the post angle before writing.

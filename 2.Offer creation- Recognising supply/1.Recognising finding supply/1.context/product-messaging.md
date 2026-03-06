@@ -92,6 +92,25 @@ Uses AI for accountability but only for "trends/tendencies." The emotional dista
 
 ---
 
+## Filter vs Push — Messaging Principle
+
+Every message is either a filter or a push.
+
+- **Filter** — names what is breaking for this specific founder. Invites self-recognition. Only founders who have that gap reply.
+- **Push** — explains what mywellnessgame does. Attracts everyone, including wrong-fit founders.
+
+**The daily 1:1 message is always a filter.**
+When a founder replies, demo messaging begins.
+Demo messaging continues filtering — it never switches to explaining.
+
+A founder who has filtered themselves all the way in arrives at the demo call with use case + implementation questions.
+That is the indicator the messaging worked.
+
+**Source insight — Nemanja Zivkovic (LinkedIn, March 2026):**
+> "The majority of B2B growth problems are messaging problems. The best indicator the messaging is working is that they arrive with use case + implementation questions on the call."
+
+---
+
 ## ICP's Objections
 
 *Hypotheses to validate through messaging sprints:*
