@@ -96,9 +96,48 @@ to do the regulation work that makes everything else sustainable.
 
 ---
 
+## Positioning Philosophy — How the Offer Shows Up
+
+> "The relationships that have lasted in my life started much more simply: I tried to be useful before I ever needed anything."
+
+This is the operating principle behind how mywellnessgame enters a founder's life.
+
+Not as a product looking for a buyer.
+Not as a coach with a framework to sell.
+
+As someone who tried to be useful — before needing anything in return.
+
+**What this means in practice:**
+- The daily message asks nothing. It gives the founder something that names what they're experiencing.
+- The offer only surfaces when the founder asks.
+- Usefulness first. Always. The relationship earns the right to go deeper.
+
+This is not a growth hack. It is how real relationships start — and stay.
+
+---
+
+## Field Findings
+
+**Productivity language vs regulation language**
+Founders need both — in sequence.
+Productivity language gets the door open. It is familiar. It matches how they describe their problem.
+Regulation language is what does the work underneath.
+
+Lead with productivity. Do regulation work. This is the same logic as the offer itself:
+the to do looks like a task list but does regulation work.
+
+**Evidence — Leta Lista, March 5, 2026**
+Message led with her framework: status fluidity, external performance (productivity language).
+Then introduced: "I've been building a regulation system for myself as a founder."
+Her reply: "tell me more about your regulation system and how it works?"
+
+She walked through the productivity door first. Then asked directly about regulation.
+One data point — but a clean one.
+
+---
+
 ## Open Questions
 
 - How do you price against "free" alternatives like ChatGPT and journaling apps?
-- Does the regulation framing resonate with founders, or do they need productivity language first?
 - At what point does a founder realize they need a person, not a tool?
 - As more founders build their own AI operating systems (Stephen, Whitworth, Gaurav), does your offer become the prerequisite layer — the regulation that makes those systems work?

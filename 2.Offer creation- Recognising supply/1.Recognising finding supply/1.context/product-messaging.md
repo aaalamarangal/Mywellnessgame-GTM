@@ -72,13 +72,13 @@ Updated as positioning sharpens through field observations and messaging sprints
 Founders are not doing nothing. They have already built something.
 The question is: what does it not do for them?
 
-| Current way | What it does | What it misses |
-|---|---|---|
-| AI assistant (ChatGPT, Claude) | Thinking partner in the moment | No memory across days, no framework, no coach |
-| Journaling (Notion, paper) | Records thoughts | No pattern recognition, no feedback loop |
-| Executive coach | Accountability and reflection | Doesn't connect to daily execution tools |
-| Therapy | Emotional regulation | Not productivity-specific, no system layer |
-| No system | Nothing to maintain | Push through until burnout |
+| Current way | What it does | What it misses | Founder example |
+|---|---|---|---|
+| AI assistant (ChatGPT, Claude) | Thinking partner in the moment | No memory across days, no framework, no coach | Stephen Whitworth — built a full Claude Code OS. Has the system. Regulation layer is visibly missing. Deflects when asked about it. |
+| Journaling (Notion, paper) | Records thoughts | No pattern recognition, no feedback loop | Nick Ang — shows up at 5am for a year. Discipline is there. No system to see what it's adding up to or where the gaps are. |
+| Executive coach / framework | Accountability and reflection | Doesn't connect to daily execution tools | Leta Lista — has a status fluidity framework. Coaches founders on external performance. Asked directly: "tell me more about your regulation system." The underneath layer is what she doesn't have. |
+| Therapy | Emotional regulation | Not productivity-specific, no system layer | Jordan Peace — therapy on the calendar, radical transparency as the operating system. Still "overwhelmed." External honesty is solved. Internal consistency at scale is not. |
+| No system | Nothing to maintain | Push through until burnout | Ross Geiger — uses nature and camping to regulate. Can't access it consistently. "Wish this was my usual state." Manaal Maniyar — motherhood anchor kept him going through 4 years of invisible building. Real and profound. Can't be deployed on demand. |
 
 **What all of these miss:**
 The regulation layer that connects daily execution to internal state.
