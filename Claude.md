@@ -20,7 +20,7 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 
 ---
 
-## Two Operating Systems
+## Three Operating Systems
 
 ### Value Creation OS
 **What it is:** Understanding demand — who the founders are, what they are experiencing, and what signals they send.
@@ -30,9 +30,14 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 ### Offer Creation OS
 **What it is:** Understanding supply — how I package, position, and deliver the coaching.
 **Core question:** What do I offer and how do I explain it?
-**Output:** Messaging framework, product offer, and demo call structure.
+**Output:** Messaging framework, product offer, and demo posting.
 
-> **Current focus:** Value Creation OS. Offer Creation OS is being built in parallel as insights emerge.
+### Value Delivery OS
+**What it is:** Delivering the coaching live — starting at the gap the founder already named.
+**Core question:** Can the founder feel regulation in real time?
+**Output:** Demo call that closes when regulation is felt.
+
+> **Current focus:** Value Creation OS. Offer Creation OS and Value Delivery OS are being built in parallel as insights emerge.
 
 ---
 
@@ -43,9 +48,9 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 3. **Archive don't delete.** Move completed entries to `/_archive` in the same folder. Never delete docs.
 4. **Reference existing files.** Link to related docs wherever possible. More connections = better context.
 5. **When completing a task.** Update the living doc it feeds, then move the task file to `/_archive`.
-6. **One message per day.** `prospect-log.md` gets one entry every time a message is sent. Non-negotiable.
+6. **One message per day.** `demo-message-log.md` gets one entry every time a message is sent. Non-negotiable.
 7. **When adding a new folder or file.** Update the repo structure map in CLAUDE.md first. Map and reality must always match.
-8. **When a demand signal illuminates a game.** Extract the exact founder quote from prospect-log.md and add it to debt-signal-psychology.md under the relevant game (Clarity / Action / Lesson). Never paraphrase — exact words only.
+8. **When a demand signal illuminates a game.** Extract the exact founder quote from demo-message-log.md and add it to debt-signal-psychology.md under the relevant game (Clarity / Action / Lesson). Never paraphrase — exact words only.
 9. **Every claude.md is a context file.** When creating or updating files in a folder, update that folder's claude.md to reflect what the folder contains and how it connects to the system. Empty claude.md files are not allowed.
 10. **Write simply.** Always use simple, clear English. No complex words. No long sentences.
 
@@ -57,56 +62,109 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
 / (root)
   CLAUDE.md                          ← you are here
 
-  /Value-creation
-    /Recognising-demand
+  /1.Value creation- recognising demand/
+    1.Recognising finding demand/
 
-      /Finding (context layer — understanding who the founder is)
+      1.context/
         /Debt-contexts
           founder-types.md           ← Founder A (complete), B and C (to be built)
           business-types.md          ← Business A / B / C — stage, symptoms, needs
           situation-types.md         ← 27 situations (3 founder types × 3 business types × 3 games)
           debt-signal-psychology.md  ← psychological texture of each game (Clarity / Action / Lesson)
           coaching-diagnostic.md     ← 6-layer diagnostic for finding where the founder is stuck
-        /Messaging-contexts
+        /message-contexts
           sources.md                 ← lessons from coaches, mentors, influencers
           signal-bridge-voice.md     ← translation pipeline: Signal → Bridge → Voice
           inertia-types.md           ← 4 mental models founders use to justify doing nothing
           linkedin-signal-scraping.md ← how to find signals on LinkedIn (4 sources, ranked by honesty)
 
-      /Capturing (content layer — sending messages, logging interactions)
-        prospect-log.md              ← master log: one entry per founder per message (signal, analysis, message, tollgates)
+    2.Recognising capturing demand/
+
+      1.context/
         demand-tollgates.md          ← tollgate framework: what to sense at each checkpoint
 
-      /Fulfilling (formula layer — repeatable patterns, to be built over time)
+      2.content/
+        demo-message-log.md          ← master log: one entry per founder per message (signal, analysis, message, tollgates)
 
-  /Offer-creation
-    /Recognising-supply
-      /Context
-        claude.md                    ← folder context file
-        Post-principles.md           ← how founders talk about their systems publicly — informs future posting voice
-        offer-positioning.md         ← competition map, three capabilities, differentiation, positioning draft
-        product-messaging.md         ← Problem/Solution Value Proposition framework for mywellnessgame
+    3.Recognising fulfilling demand/  ← demo commenting (Value Creation OS fulfilling layer)
 
-      /Content
-        claude.md                    ← folder context file
-        posts-log.md                 ← every post Shiva has published — link, full text, engagement, learnings
-        post-inspiration.md          ← raw material that feeds posts (GTM posts, client value, messaging signals)
+      1.context/
+        demo-commenting.md           ← how demo commenting works (3 jobs, filter rule)
 
-      /Formula
-        (to be built — repeatable offer delivery)
+      2.content/
+        (entries added as demo conversations develop)
 
-    /Remembering-supply
-      /Context
-        claude.md                    ← folder context file
-        credit-framework.md          ← Credits as opposite of Debt — Clarity/Action/Lesson credits, solution dimensions, focus areas
+      3.formula/
+        (patterns built from demo conversations)
 
-      /Content
-        claude.md                    ← folder context file
+  /2.Offer creation- Recognising supply/
+    1.Recognising finding supply/
+
+      1.context/
+        Post-principles.md           ← how founders talk about their systems publicly
+        offer-positioning.md         ← competition map, three capabilities, differentiation
+        product-messaging.md         ← Problem/Solution Value Proposition framework
+
+      2.content/
+        posts-log.md                 ← every post Shiva has published
+        post-inspiration.md          ← raw material that feeds posts
+
+    2.Recognising capturing supply/
+
+      1.context/
+        credit-framework.md          ← Credits as opposite of Debt — Clarity/Action/Lesson credits
+
+      2.content/
         (entries to be built as offer is validated through founder interactions)
 
-      /Formula
-        claude.md                    ← folder context file
+      3.formula/
         (patterns to be built once Content entries show repeatable structure)
+
+    3.Recognising fulfilling supply/  ← demo posting (Offer Creation OS fulfilling layer)
+
+      1.context/
+        demo-posting.md              ← what demo posting is, principles
+
+      2.content/
+        demo-posts-log.md            ← one entry per demo post
+
+      3.formula/
+        (patterns to be built)
+
+  /3.Value delivery- remembering demand/  ← demo call (new top-level OS)
+
+    1.Remembering finding demand/
+
+      1.context/
+        demo-call.md                 ← how the demo call runs (starts at named gap, Macro → Micro → Nano live)
+
+      2.content/
+        (entries to be built)
+
+      3.formula/
+        (patterns to be built)
+
+    2.Remembering capturing demand/
+
+      1.context/
+        demo-call-tollgates.md       ← what to sense during and after the call
+
+      2.content/
+        demo-call-log.md             ← one entry per demo call
+
+      3.formula/
+        (patterns to be built)
+
+    3.Remembering fulfilling demand/
+
+      1.context/
+        (to be built)
+
+      2.content/
+        (to be built)
+
+      3.formula/
+        (to be built)
 
   /Weekly
     This-Week.md                     ← current week only (replace each Friday)
@@ -137,10 +195,10 @@ This is the sequence Claude must follow to support Shiva from first signal to de
 
 5. Message finalised and sent by Shiva
 
-6. Log in prospect-log.md — T1 immediately after sending
-   → /Capturing/prospect-log.md
+6. Log in demo-message-log.md — T1 immediately after sending
+   → /Capturing/demo-message-log.md
 
-7. T2 check at 48 hours — surface from prospect-log.md
+7. T2 check at 48 hours — surface from demo-message-log.md
 
 8. T3 when reply comes
 
@@ -153,7 +211,7 @@ This is the sequence Claude must follow to support Shiva from first signal to de
      Job 1: Founder names their own gap — not curiosity, a specific gap
      Job 2: Founder ties the gap to their current situation — specific use case, not generic
      Job 3: Founder asks a fit question — tone shifts from "is this relevant?" to "how would this work?"
-   → Track in prospect-log.md: Job 1 done? / Use case / Fit question asked
+   → Track in demo-message-log.md: Job 1 done? / Use case / Fit question asked
    → Do not schedule the demo call until all three are complete
    → Demo messaging is always a filter. Never switch to explaining the offer.
 
@@ -190,9 +248,9 @@ The commit message is the learning log. Make it meaningful.
 2. **My messages must be under 100 words** — push back if longer
 3. **Never suggest automation** — manual is the strategy at this stage
 4. **If I seem to be drifting** — remind me the ONE THING is to send today's message
-5. **Never let me skip the tollgates** — after every message sent, immediately walk Shiva through demand-tollgates.md before moving on. Use the senses framing: "Did you lead with what you sensed?" not "Did you lead with their feeling?" Then confirm T1 is logged in prospect-log.md before closing the conversation.
-6. **At the start of every session** — check prospect-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
-7. **When Shiva shares a founder signal** — immediately run the full analysis and write it as a DRAFT entry to prospect-log.md before any chat response. The draft entry must include: Game, Inertia type, Where job breaks, Pre-intent symptoms, Founder type, Business type, Coping or Blocked, and Draft message. Mark it clearly as [DRAFT — not sent]. Shiva reviews the file, reacts in chat, and confirms before the entry is finalised.
+5. **Never let me skip the tollgates** — after every message sent, immediately walk Shiva through demand-tollgates.md before moving on. Use the senses framing: "Did you lead with what you sensed?" not "Did you lead with their feeling?" Then confirm T1 is logged in demo-message-log.md before closing the conversation.
+6. **At the start of every session** — check demo-message-log.md for any messages older than 48 hours without Tollgate 2 logged. Surface them immediately.
+7. **When Shiva shares a founder signal** — immediately run the full analysis and write it as a DRAFT entry to demo-message-log.md before any chat response. The draft entry must include: Game, Inertia type, Where job breaks, Pre-intent symptoms, Founder type, Business type, Coping or Blocked, and Draft message. Mark it clearly as [DRAFT — not sent]. Shiva reviews the file, reacts in chat, and confirms before the entry is finalised.
 8. **Write to the plan file before responding** — whenever Shiva shares any query in plan mode, or asks for a template, system, post draft, or structural proposal, immediately write the full analysis or content to the plan file first. Then respond in chat with a short summary. Shiva opens the pinned tab to review. Never make Shiva ask for the file separately.
 9. **At the start of every plan mode session** — remind Shiva to open and pin the current plan file in their IDE. The plan file path is shown in the plan mode system prompt at the start of each session. Every plan Claude writes goes there. Keep it open as a permanent tab.
 10. **Before writing any post** — remind Shiva to check the comments section of the inspiration post or founder signal. Comments reveal what resonates, what questions people have, and sharpen the post angle before writing.

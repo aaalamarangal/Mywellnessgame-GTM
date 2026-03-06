@@ -142,7 +142,7 @@ The post confirms their use case and points toward restoration without pitching.
 
 **What to avoid:** Naming the framework. Naming the product. Giving the answer before the question lands.
 
-**Field signals to draw from (prospect-log.md):**
+**Field signals to draw from (demo-message-log.md):**
 - Jordan Peace: "Nothing saves us but being real" — external honesty solved, internal regulation not
 - Stephen Whitworth: "yolo" — humour covering the gap when regulation layer was exposed
 - Christina Qi: "still haunts me" — philosophy present, practice inconsistent
@@ -163,7 +163,7 @@ The post confirms their use case and points toward restoration without pitching.
 
 **What to avoid:** Suggesting their discipline is wrong. Adding complexity. Pitching a system.
 
-**Field signals to draw from (prospect-log.md):**
+**Field signals to draw from (demo-message-log.md):**
 - Nick Ang: "I have no system for knowing if I'm actually doing what I say I do, or where the gaps are"
 
 ---

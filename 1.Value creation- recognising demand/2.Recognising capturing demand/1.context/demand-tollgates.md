@@ -1,5 +1,5 @@
 # Demand Tollgates
-Parent: CLAUDE.md | prospect-log.md
+Parent: CLAUDE.md | demo-message-log.md
 
 ## Purpose
 Tollgates are checkpoints that position you to observe what happens after a message is sent.
@@ -71,5 +71,5 @@ The orientation: trust what your senses pick up. Not analyzing the founder from 
 
 ## Tollgate Log
 
-Tollgate entries live in prospect-log.md — one entry per founder per message sent.
-The T1, T2, T3, T4 fields in each prospect-log.md entry are the log.
+Tollgate entries live in demo-message-log.md — one entry per founder per message sent.
+The T1, T2, T3, T4 fields in each demo-message-log.md entry are the log.

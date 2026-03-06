@@ -1,4 +1,4 @@
-# Prospect Log
+# Demo Message Log
 Parent: CLAUDE.md | Recognising capturing demand
 
 ## Purpose

@@ -68,7 +68,7 @@ If you can't answer this — you don't have a message yet.
 ## How This Connects to Signal → Bridge → Voice
 
 ```
-Signal  — what the founder said (prospect-log.md)
+Signal  — what the founder said (demo-message-log.md)
 Bridge  — which inertia are you writing against? (this file)
 Voice   — express it naturally with no pitch (under 100 words, one question)
 ```

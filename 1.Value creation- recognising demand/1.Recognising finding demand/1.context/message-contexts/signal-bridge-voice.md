@@ -28,7 +28,7 @@ Signal → Bridge → Voice
 ## Step 1 — Signal
 
 **What it is:** A specific, real thing the founder said or shared publicly.
-**Where to find it:** prospect-log.md
+**Where to find it:** demo-message-log.md
 **How to read it:** Use game contexts (Debt-contexts folder) to understand who the founder is and what they are experiencing.
 
 **Checklist:**
@@ -95,14 +95,14 @@ Signal → Bridge → Voice
 ## The Full Sequence
 
 ```
-1. Find the signal (prospect-log.md)
+1. Find the signal (demo-message-log.md)
 2. Read the signal through game contexts (Debt-contexts folder)
 3. Identify the inertia type (inertia-types.md)
 4. Find where the job breaks (founder-types.md)
 5. Name the pre-intent symptoms (exact language from signal)
 6. Write the message (under 100 words, one question, no pitch)
 7. Check the voice checklist before sending
-8. Log it (prospect-log.md)
+8. Log it (demo-message-log.md)
 ```
 
 ---

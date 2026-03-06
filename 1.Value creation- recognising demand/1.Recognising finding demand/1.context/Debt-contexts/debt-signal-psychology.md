@@ -1,5 +1,5 @@
 # Debt Signal Psychology
-Parent: CLAUDE.md | founder-types.md | prospect-log.md
+Parent: CLAUDE.md | founder-types.md | demo-message-log.md
 
 ## Purpose
 This file captures the psychological texture of each game — not just what the debt is, but how it feels from the inside.

@@ -115,4 +115,4 @@ Brainwave states:
 
 ## Daily Messaging Log
 
-*(Covered in prospect-log.md — pull signals from there when writing posts)*
+*(Covered in demo-message-log.md — pull signals from there when writing posts)*
