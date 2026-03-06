@@ -43,7 +43,9 @@ Clarity debt feels like the problem is external. Resolution comes when the right
 *(to be added)*
 
 **From the field:**
-*(to be added as signals come in)*
+> "the experience of doing this is wild"
+> "it is building courage"
+— Sujith (paying client, March 6, 2026 — WhatsApp, mid-build using the Macro → Micro → Nano template)
 
 ---
 

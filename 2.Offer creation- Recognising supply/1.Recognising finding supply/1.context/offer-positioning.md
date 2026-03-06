@@ -177,6 +177,25 @@ He proved the need. He just solved the wrong layer.
 
 ---
 
+**The template is the entry point — not the coaching conversation**
+
+When the game is visible, courage builds. The founder can see what is breaking — not just feel it.
+The template does regulation work before the coach even shows up.
+
+**Evidence — Sujith (paying client), March 6, 2026**
+Used the Macro → Micro → Nano template to run his own GTM. Mid-build, he sent:
+"the experience of doing this is wild"
+"it is building courage"
+
+He did not say "this is useful." He said the experience was wild and it built courage.
+That is regulation language. The template changed his relationship to doing the work — not just organised it.
+
+This also answers the last open question:
+"At what point does a founder realize they need a person, not a tool?"
+Sujith crossed that line. He is paying. And the template is delivering.
+
+---
+
 ## Open Questions
 
-- At what point does a founder realize they need a person, not a tool?
+- As more founders build their own AI systems, how do you scale the template as the entry point without losing the coaching layer underneath?

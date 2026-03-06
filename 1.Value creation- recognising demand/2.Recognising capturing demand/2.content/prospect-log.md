@@ -51,6 +51,32 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 ## Entries
 
 ---
+## Sujith — March 6, 2026 (Paying Client — WhatsApp)
+
+**Note:** Sujith is the only paying client. This is not a prospect entry — it is a client result log. Signal came via WhatsApp after using the Macro → Micro → Nano template Shiva shared with him.
+
+**Signal**
+> "Wow."
+> "the experience of doing this is wild"
+> "it is building courage"
+
+**Game:** Action
+**Context:** Used the template to run his own GTM — Macro → Micro → Nano structure. All three nano rows mapped to Action game. Template made the game visible. That visibility built courage mid-build.
+
+**What the template showed:**
+- Macro: write a message to a founder and get a call
+- Micro: find leads, understand use case, restore concepts/workflows
+- Nano: scraping qualified founders, building content, cleaning LinkedIn feed
+- Constraints across all rows: Action — tasks not yet done, interns not executing, content not documented
+
+**Tollgates**
+- T1 (March 6, 2026): Signal received — he used it and it moved him. First client result logged.
+- T2:
+- T3:
+
+**What I learned:** The template does regulation work before the coach shows up. When the game is visible, courage builds. The founder sees what is breaking — not just feels it.
+
+---
 ## Thenuka Karunaratne — February 2026 (Interaction 1)
 
 **Profile:** https://www.linkedin.com/in/thenuka/
