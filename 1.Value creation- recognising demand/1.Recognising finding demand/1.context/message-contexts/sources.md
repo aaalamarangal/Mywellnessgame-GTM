@@ -55,7 +55,7 @@ Use this pattern for every source added:
 **How to apply:** Find exactly where the founder's job breaks down. Start the message at that breakdown point.
 **Example in action:** *(to be added)*
 **Links:**
-- Where the job breaks: https://www.linkedin.com/posts/aleksandar-radosevic-b2b-saas-copywriting_writing-headlines-is-always-about-tradeoffs-share-7431692968010412034-UvCW/
+- Where the job breaks: https://www.linkedin.com/posts/aleksandar-radosevic-b2b-saas-copywriting_writing-headlines-is-always-about-tradeoffs-activity-7431692970468425728-w30g/
 
 ---
 
