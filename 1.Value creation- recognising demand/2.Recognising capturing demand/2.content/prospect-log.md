@@ -177,7 +177,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Tollgates**
 - T1 (sent Feb 28): Led with his feeling ✅ — referenced exact words, one question, under 100 words
-- T2 (check March 3): No reply yet — still waiting
+- T2 (check March 3): Silence. No reply received. What do my senses tell me about the silence? The question was long — 76 words — and asked two things (which habits move the needle vs just feeling productive). May have asked for more thinking than a comment thread invites. Signal itself was strong. Translation may have been the issue.
 - T3 (reply received):
 
 **What I learned:** First Lesson game signal observed. All previous signals were Clarity. New data — the framework now has field evidence for two games.
@@ -209,7 +209,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Tollgates**
 - T1 (sent March 1): Led with what I sensed ✅ — noticed the gap Dave's question exposed, shared lived experience, one question, no pitch
-- T2 (check March 3): No reply yet — still waiting
+- T2 (check March 3): Silence. No reply received. What do my senses tell me about the silence? The message led with his words and sensed the gap — but it was 55 words in a comment on a public post. May have been too personal a question for a public thread. Dave's dynamic with him is already established; entering on that thread may have felt like a third wheel. Signal was real. Placement may have been wrong.
 - T3 (reply received):
 
 **What I learned:**
@@ -242,7 +242,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Tollgates**
 - T1 (sent March 3): Led with what I sensed ✅
-- T2 (check March 5):
+- T2 (check March 5): Silence. No reply received. What do my senses tell me about the silence? The signal was indirect — a reply on someone else's post. "Still haunts me" was a raw moment, but the message may have felt like it was surfacing something she wasn't signalling as a problem. Coping founder — not expressing active pain. The gap between concept and holding it may not feel urgent to her right now.
 - T3 (reply received):
 
 **What I learned:**
@@ -278,7 +278,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Tollgates**
 - T1 (sent March 4): Led with what I sensed ✅ — opened with his conviction ("nothing saves us but being real"), surfaced the internal gap, one question
-- T2 (check March 6):
+- T2 (check March 6): Due today. No reply received yet. What do my senses tell me about the silence? The message was strong — led with his exact language, surfaced the internal/external gap, one question. But Jordan is at a milestone moment (new post, conviction energy). The question asks about hard days — he may not be in that mode right now. Still within range. Monitor.
 - T3 (reply received):
 
 **What I learned:**
@@ -315,4 +315,44 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - T3 (reply received March 5, 2026): She went deeper ✅ — two replies. First: connected internal calm to having external alternatives (BATNA framing — "2-3 options on the table that make you feel calm"). Second: "tell me more about your regulation system and how it works?" — direct ask.
 
 **What I learned:** "Walked the walk" framing worked. Sharing lived experience opened the door. She tested with a BATNA reply, then went direct. The internal/external tension is live — her calm is built on alternatives, the system builds it from inside. That's the conversation.
+---
+
+## Manaal Maniyar — March 6, 2026
+
+**Profile:** https://www.linkedin.com/in/manaalmaniyar/
+**Signal link:** https://www.linkedin.com/posts/manaalmaniyar_as-a-founder-i-almost-quit-more-times-than-ugcPost-7433091370355048449-6rT8/
+**Where posted:** Reply on Robert Groenendijk's comment thread — where Manaal said "milestones are just a rare blip in the otherwise pretty messy journey."
+
+**Signal**
+> "I almost quit more times than I can count. Not in theory. The real kind."
+> "stare at the ceiling at 3:12 am and wonder if building a company is just a socially-accepted way of burning your life"
+> "What kept me going was not ambition. It was the 'motherhood' that rewired me."
+> "You build silently for years… and then one day, the world notices for 30 minutes."
+> "And we have just started, haven't we?"
+
+**Signal shift — from post to his reply to Robert Groenendijk:**
+> "Yes Robert, these milestones are just a rare blip in the otherwise pretty messy journey. But we only go in one direction from here! (:"
+
+**Game:** Lesson
+
+**Message angle**
+- Inertia type: Ad hoc workaround — the emotional mission (Einstein's illness → motherhood anchor) was the regulation system. Real and profound, but not compound. Can't be deployed on demand — it activates when life tests it.
+- Where job breaks: Staying → Finishing — they could sustain 16-17 hours a day for 4 years, but nearly couldn't hold the will to continue. The gap isn't Starting. It's the internal state during the long, invisible build phase. "You build silently for years" — isolation of building without external signal is where founders with no system break.
+- Pre-intent symptoms: "stare at the ceiling at 3:12 am", "almost quit more times than I can count", "not ambition... the 'motherhood' that rewired me", "build silently for years", "we have just started" — re-entering the build phase now
+
+**Context**
+- Founder type: A (chronic stress pattern — 4 years of invisible building, tired without a system)
+- Business type: C (established — SAPL Pets is one of India's leading pet care setups; now launching TailBlaze, a consumer brand)
+- Situation: A+C
+- Coping or Blocked: Coping — milestone moment (Amazon feature, Einstein thriving). But actively re-entering the build phase. The pattern is live again.
+
+**Message sent**
+> "'Milestones are just a rare blip' — you said that to Robert, not in the post. That's the real line. The messy journey is the default. What does going in one direction actually look like for you on the messy days?"
+
+**Tollgates**
+- T1 (sent March 6, 2026): Led with what I sensed ✅ — quoted his exact words from the Robert thread (not the post), surfaced the real signal ("messy journey is the default"), one question, under 100 words (42 words). Differentiated from Robert's comment — he used the 3:12am image. This message leads from his reply to Robert, not from the post. No pitch.
+- T2 (check March 8, 2026):
+- T3 (reply received):
+
+**What I learned:**
 ---
