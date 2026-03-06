@@ -414,14 +414,14 @@ The comment Shiva left on Rana's post was: "You caught it at firing. How do you 
 **Tollgates**
 - T1 (sent March 6, 2026): Led with his words ✅ — brought universal observation back to his specific situation (ownership drift = state tracking failure), one question, no pitch. 48 words.
 - T2 (check March 8, 2026):
-- T3 (reply received):
+- T3 (reply received March 6, 2026): He answered — "When enthusiasm fades, feedback turns sparse, or they stop volunteering ideas, it might be time to check in." Described real signals from last month's experience. Still speaking universally. Not personal yet.
 
 **Demo jobs tracker**
 - Job 1 done? Partial — named the gap generally, not personally. Not yet claimed.
 - Use case: Ownership drift / team state tracking
 - Fit question asked: No
 
-**What I learned:**
+**What I learned:** He knows what to look for. The gap is timing — he knows the signals but still caught it at firing. He hasn't named that gap in himself yet.
 ---
 
 ## Rana Naskar — March 6, 2026
@@ -463,7 +463,46 @@ Post 1 is resolved insight — delegation worked, lesson learned. Post 2 has liv
 **Tollgates**
 - T1 (sent March 6, 2026): Led with what I sensed ✅ — opened with his exact words, shared lived experience ("I've felt that too"), one question, no pitch. 56 words.
 - T2 (check March 8, 2026):
+- T3 (reply received March 6, 2026): He replied on Shiva's post thread — "When enthusiasm fades, feedback turns sparse, or they stop volunteering ideas, it might be time to check in." Real signals from his experience. Still universal framing — not personal yet.
+
+**What I learned:** Comment on his post moved him to engage on Shiva's post. He answered the question with real observed signals. The conversation is flowing. Next step: pull the observation into his specific experience (last month) to move Job 1 from partial to done.
+---
+
+## Rana Naskar — Interaction 3 — March 6, 2026
+
+**Signal link:** https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/
+**Signal type:** Reply on Shiva's own post (continuing Interaction 2 thread)
+
+**Signal**
+> "When enthusiasm fades, feedback turns sparse, or they stop volunteering ideas, it might be time to check in."
+
+**Game:** Lesson
+
+**Message angle**
+- Inertia type: Status quo — believes he now knows the signals. Gap (timing — saw them too late) is still invisible.
+- Where job breaks: Staying → Finishing — knows what to look for but caught it at firing, not before
+- Pre-intent symptoms: describing behavioral signals in the third person — universal, not personal
+
+**Context**
+- Founder type: B (provisional)
+- Business type: B (provisional)
+- Coping or Blocked: Coping — reflecting on last month's experience from a position of resolution, not live pain
+
+**Connection to Interaction 2:**
+He answered "how do you see it early?" with real signals — but still universally framed. He hasn't named that he missed these signals in time last month. The hindsight gap is the real one.
+
+**Message sent**
+> "Those signals make sense — enthusiasm, feedback, ideas. With the person last month: did you notice them? Or did they only become visible in hindsight?"
+
+**Tollgates**
+- T1 (sent March 6, 2026): Led with his signal ✅ — one question, pulled universal observation into his specific situation (last month), no pitch. 27 words.
+- T2 (check March 8, 2026):
 - T3 (reply received):
+
+**Demo jobs tracker**
+- Job 1 done? Partial — if he says "hindsight," Job 1 is done. He will have named his own gap.
+- Use case: Ownership drift / team state tracking
+- Fit question asked: No
 
 **What I learned:**
 ---

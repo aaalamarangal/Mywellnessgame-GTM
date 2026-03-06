@@ -60,13 +60,13 @@ Brainwave states:
 
 **Key insights for mywellnessgame:**
 
-1. ONE THING has a neuroscience basis — one hour of focused attention doubles the connections. Scattered attention builds nothing.
+1. The Leverage Stack has a neuroscience basis — one hour of focused attention doubles the connections. Scattered attention builds nothing.
 2. The journal and assessment are not optional — without review, the circuits prune. Review is how learning becomes remembering.
 3. Clarity game → Action game: understanding the what and why makes the how easier. Clarity is not a soft skill — it is the prerequisite for action.
 4. Gamma is the regulated state — clear, relaxed, alert. Not stressed, not running on automatic. This is the state that makes fluid action possible. Founders stuck in high beta freeze.
 
 **Post angles (when ready):**
-- The ONE THING is not productivity advice — it is neuroscience. One hour on one concept doubles the circuits. Fragmented attention builds nothing.
+- The Leverage Stack is not productivity advice — it is neuroscience. One hour on one concept doubles the circuits. Fragmented attention builds nothing.
 - What you don't review, you lose. The journal is not reflection — it is maintenance of what you built.
 - "The how becomes easier when you understand the what and why" — Clarity is not a luxury. It is what makes action possible.
 - Gamma state: the state where founders close deals and make clear decisions. High beta is where they freeze and perform certainty they don't have.
@@ -102,10 +102,11 @@ Brainwave states:
 - "The one framework made me work for 1-2 hours straight without a smoke break today."
 - "its forcing me and inspiring me to be focussed as well to build thes conceptual framework"
 - "value delivery and hiring are feeling like cake walk"
+- "The ONE THING framework PULLED me." ← his words for what is now called the Leverage Stack
 
-**What this proves:** The ONE THING is not just a concept — it creates pull. Sujith used the word "PULLED me" in an earlier message. Here he confirmed it in action: 1-2 hours of straight work without breaking to a habit (smoke).
+**What this proves:** The Leverage Stack is not just a concept — it creates pull. Sujith confirmed it in action: 1-2 hours of straight work without breaking to a habit (smoke).
 
-**Post angle (when ready):** The framework doesn't add discipline — it removes the friction that was stopping it. The smoke break wasn't laziness. It was the absence of a clear pull. When the ONE THING is defined, the pull replaces the escape.
+**Post angle (when ready):** The Leverage Stack doesn't add discipline — it removes the friction that was stopping it. The smoke break wasn't laziness. It was the absence of a clear pull. When the highest leverage move is defined, the pull replaces the escape.
 
 **Confidentiality note:** Sujith shared personal details (smoking habit, addiction context). Do not post without explicit permission. The insight is usable — the personal detail is not.
 

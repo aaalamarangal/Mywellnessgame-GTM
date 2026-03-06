@@ -39,8 +39,8 @@ Credit maps to the solution dimension.
 **Game:** Micro
 **Solution dimension:** Length — the founder can see the full sequence and know what to do next
 **Focus area:** Leverage
-**What leverage means here:** Do less to move more. The ONE thing, done well, moves the whole sequence forward.
-**What it unlocks:** The founder moves from knowing to doing — picks the ONE thing and executes it
+**What leverage means here:** Do less to move more. The highest leverage move, done well, moves the whole sequence forward.
+**What it unlocks:** The founder moves from knowing to doing — picks the highest leverage move (the Leverage Stack) and executes it
 **What it feels like when present:** The paralysis lifts. The founder stops overthinking and starts. One committed action compounds into the next.
 
 ---
@@ -61,7 +61,7 @@ Credit maps to the solution dimension.
 | Credit | Focus | Offer tool | Coach role |
 |---|---|---|---|
 | Clarity Credit | Speed | To do | Thinking partner — names what is actually weighing on the founder |
-| Action Credit | Leverage | Assessment | Accountability partner — holds the founder to the ONE thing |
+| Action Credit | Leverage | Assessment | Accountability partner — holds the founder to the highest leverage move (Leverage Stack) |
 | Lesson Credit | Multiplier | Journal | Coaching partner — makes the invisible visible over time |
 
 ---

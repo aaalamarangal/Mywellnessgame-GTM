@@ -25,7 +25,7 @@ Updated as positioning sharpens through field observations and messaging sprints
 
 ## Product Capabilities (By using)
 
-1. To do — finish the ONE thing fast before the day pulls you apart
+1. To do — finish the highest leverage move fast before the day pulls you apart (the Leverage Stack)
 2. Assessment — one commitment that holds you accountable before execution begins
 3. Journal — patterns that show you why some weeks drain you and others don't
 

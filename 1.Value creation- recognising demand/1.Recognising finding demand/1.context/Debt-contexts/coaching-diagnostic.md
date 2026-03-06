@@ -1,8 +1,8 @@
-# ONE THING Coaching Diagnostic
+# Leverage Stack Coaching Diagnostic
 Parent: CLAUDE.md | founder-types.md | situation-types.md | debt-psychology.md
 
 ## Purpose
-This is the diagnostic framework for finding where a founder is stuck on their ONE THING.
+This is the diagnostic framework for finding where a founder is stuck on their highest leverage move (the Leverage Stack).
 The coach's job: find the constraint on this path. That's the bottleneck. Everything else is downstream.
 
 ---
@@ -10,7 +10,7 @@ The coach's job: find the constraint on this path. That's the bottleneck. Everyt
 ## The Path
 Goal → Concepts → Qualities → Tasks → Tactics → Workflows → Capabilities
 
-This is the path from being to doing to having for any ONE THING a founder wants to get done.
+This is the path from being to doing to having for any highest leverage move a founder wants to get done.
 
 ---
 

@@ -48,7 +48,7 @@ One reply at a time. Skills get packaged from validated patterns, not theory.
 
 ## The Offer (Draft — to be validated through demand)
 
-Enabling founders to finish the ONE THING that moves the needle for the day — using their todo, assessment, and journal as a thinking/accountability/coaching partner — with a custom MCP layer added to their Claude Code.
+Enabling founders to finish their highest leverage move for the day (the Leverage Stack) — using their todo, assessment, and journal as a thinking/accountability/coaching partner — with a custom MCP layer added to their Claude Code.
 
 **How the offer maps to the framework:**
 

@@ -85,6 +85,34 @@ Use this pattern for every source added:
 
 ---
 
+## Niko Noll — Post Structure Modeling
+
+**Source:** Niko Noll
+**LinkedIn:** https://www.linkedin.com/in/niko-noll/
+**Core concept:** Field evidence before opinion. Earn the claim by showing daily practice — then tell the reader what you see.
+**Where it applies:** Offer Creation OS — structuring GTM posts that land without pitching
+**How to apply:** Before writing a post — do you have something you observed from real work? If not, you don't have a post yet.
+**Example in action:** Niko's post "Agents will never have agency" — opened with what he sees every day working with agents, named three specific things agents can't do, then gave the synthesis. No pitch. P.S. bio separate.
+**Post structure (11 steps):**
+1. Provocative one-liner (the hook)
+2. One-word reframe (names what the post is really about)
+3. Field evidence — what you see from daily practice
+4. The BUT — three specific gaps, not vague claims
+5. The root cause — point to the human as the origin of value
+6. Three named skills — where the human moat actually lives
+7. External validation — borrow credibility, give credit
+8. The synthesis — who is thriving and why (parallel structure, three items)
+9. The implication — two-sentence clean close on the main claim
+10. Engagement question — honest "(yet)" not "never"
+11. P.S. bio — short, specific, separate from the post
+**Link:** https://www.linkedin.com/posts/niko-noll_agents-will-never-have-agency-that-is-the-share-7434216379928489984-NBsu/
+
+**Key comment to study — Gary Jarvis:**
+"Comprehension debt — the gap between how complex your situation is and how well anyone in your organisation actually understands it. AI tools used as a replacement for human judgment accumulate it fast, quietly, and in ways nobody notices until something goes wrong."
+This maps to Clarity Debt in Shiva's framework. Comments confirmed the LOSS framing resonates most.
+
+---
+
 ## How These Sources Connect
 
 ```
@@ -93,6 +121,7 @@ Yusuf Ahmed        → WHAT the pipeline looks like (signal → bridge → voice
 Aleksander         → WHERE to start the message (where the job breaks)
 Robert Kaminski    → HOW to make the message stand out (differentiation)
 Stephen Whitworth  → WHO you compete against (DIY AI systems, not other coaches)
+Niko Noll          → HOW to structure a GTM post (field evidence → contrast → three specifics → synthesis → no pitch)
 ```
 
-Together they answer: When to message, what the pipeline is, where to start, how to stand out, and who you're really competing with.
+Together they answer: When to message, what the pipeline is, where to start, how to stand out, who you're really competing with, and how to structure posts that land without pitching.

@@ -38,7 +38,7 @@ The job: **Stay regulated, focused, and productive as a founder under stress.**
 | Credit | Your capability | Offer tool | What the founder sees | What it does underneath |
 |---|---|---|---|---|
 | Clarity Credit | Speed | To do | "Name what matters and finish it fast" | Regulation — the founder orients before reacting |
-| Action Credit | Leverage | Assessment | "Pick the ONE THING before the day pulls you" | Focus — prevents scattered execution |
+| Action Credit | Leverage | Assessment | "Pick the highest leverage move before the day pulls you" | Focus — prevents scattered execution |
 | Lesson Credit | Multiplier | Journal | "See why some weeks drain and others don't" | Coaching — makes the invisible visible |
 
 ### The Key Insight
