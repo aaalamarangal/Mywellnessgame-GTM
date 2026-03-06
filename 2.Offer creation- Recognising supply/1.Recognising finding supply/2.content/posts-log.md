@@ -121,13 +121,15 @@ That's the gap I'm building for.
 One founder at a time.
 
 **Engagement:**
+- Rana Naskar (existing prospect) replied unprompted: "Most founders can track their output. Almost none can track their state. That gap is quietly running the show."
+- Field confirmation from a founder already in the prospect log — he validated the thesis from the outside, not in response to a direct message
 
 **What worked:**
-- Lesson:
-- Next step:
+- Lesson: The thesis landed, not just the message. Rana was not in direct conversation with Shiva when he replied — he responded to the public argument. That is a different quality of signal.
+- Next step: Track which prospects engage with posts. Post engagement is a demand signal, separate from direct messaging.
 
 **What didn't work:**
-- Lesson:
-- Next step:
+- Lesson: Engagement section and learnings still being filled — only one reply observed so far.
+- Next step: Check if Nick, Stephen, or Jordan (the three founders named in the post) have engaged.
 
 ---

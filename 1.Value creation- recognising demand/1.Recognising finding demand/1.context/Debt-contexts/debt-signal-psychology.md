@@ -59,7 +59,10 @@ Clarity debt feels like the problem is external. Resolution comes when the right
 
 **From the field:**
 > "I have no system for knowing if I'm actually doing what I say I do, or where the gaps are."
-— Nick Ang
+— Nick Ang (personal signal, absence of self-visibility)
+
+> "Most founders can track their output. Almost none can track their state. That gap is quietly running the show."
+— Rana Naskar (comment on Shiva's post, March 6, 2026 — structural gap named from the outside, unprompted field confirmation)
 
 ---
 

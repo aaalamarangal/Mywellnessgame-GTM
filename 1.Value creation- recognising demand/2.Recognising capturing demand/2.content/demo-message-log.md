@@ -381,6 +381,47 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - T3 (reply received):
 
 **What I learned:**
+
+---
+
+## Rana Naskar — Interaction 2 — March 6, 2026 (Post reply)
+
+**Signal link:** https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/
+**Signal type:** Reply on Shiva's own post
+
+**Signal**
+> "Most founders can track their output. Almost none can track their state. That gap is quietly running the show."
+
+**Game:** Lesson
+
+**Message angle**
+- Inertia type: Status quo — frames gap as universal observation, not personal
+- Where job breaks: Staying → Finishing — output tracked, state not tracked, crisis caught too late
+- Pre-intent symptoms: "quietly running the show" — unseen thing already has consequences
+
+**Context**
+- Founder type: B (provisional)
+- Business type: B (provisional)
+- Situation: B+B
+- Coping or Blocked: Coping — making an observation, not expressing pain. But the observation is about his own game.
+
+**Connection to Interaction 1:**
+The comment Shiva left on Rana's post was: "You caught it at firing. How do you actually see it coming before it gets there?" — this reply is his answer, displaced onto all founders. He's not ready to claim it as his own yet. The observation IS the signal.
+
+**Message sent (reply on Shiva's post)**
+> "That's the exact gap. You named it better than I did. You saw it at the ownership drift — that was a state drop before the output dropped. The firing was the output event. The state was already gone. How do you see it early?"
+
+**Tollgates**
+- T1 (sent March 6, 2026): Led with his words ✅ — brought universal observation back to his specific situation (ownership drift = state tracking failure), one question, no pitch. 48 words.
+- T2 (check March 8, 2026):
+- T3 (reply received):
+
+**Demo jobs tracker**
+- Job 1 done? Partial — named the gap generally, not personally. Not yet claimed.
+- Use case: Ownership drift / team state tracking
+- Fit question asked: No
+
+**What I learned:**
 ---
 
 ## Rana Naskar — March 6, 2026
