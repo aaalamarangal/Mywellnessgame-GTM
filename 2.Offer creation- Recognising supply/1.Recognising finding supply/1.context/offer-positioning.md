@@ -153,7 +153,30 @@ Once the gap is named, price becomes irrelevant to the comparison. The founder i
 
 ---
 
+**For founders building their own AI systems — you are not another tool. You are what makes the tool work.**
+
+A founder builds a Claude Code system. It helps them think faster, move faster, execute faster.
+But it only works when their thinking is already clear.
+
+When they are stressed, overwhelmed, or stuck — the system amplifies that. They get faster at the wrong things.
+
+Your coaching gets them to clear thinking first.
+
+The sequence: Shiva's coaching → clear thinking → Claude Code works better.
+
+Without the coaching — Claude Code amplifies whatever state the founder is in. Good or bad.
+With the coaching — the founder shows up regulated and clear. The system does what it's supposed to do.
+
+**Your coaching is the layer that makes their AI system worth having.**
+
+**Evidence — Stephen Whitworth, March 1, 2026**
+Built a full Claude Code OS. Tracks whether his week moves against what actually matters.
+When asked about the wellbeing layer — deflected with humour ("yolo").
+The system is there. The regulation underneath is not.
+He proved the need. He just solved the wrong layer.
+
+---
+
 ## Open Questions
 
 - At what point does a founder realize they need a person, not a tool?
-- As more founders build their own AI operating systems (Stephen, Whitworth, Gaurav), does your offer become the prerequisite layer — the regulation that makes those systems work?
