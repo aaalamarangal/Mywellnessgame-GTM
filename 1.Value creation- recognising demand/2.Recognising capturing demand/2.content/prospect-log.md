@@ -382,3 +382,47 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **What I learned:**
 ---
+
+## Rana Naskar — March 6, 2026
+
+**Profile:** https://www.linkedin.com/in/rananaskar/
+**Signal link (Post 1 — delegation):** https://www.linkedin.com/posts/rananaskar_the-biggest-mistake-i-made-as-a-founder-was-activity-7433010166507323392-AuMa/
+**Signal link (Post 2 — firing a top performer):** https://www.linkedin.com/posts/rananaskar_last-month-i-fired-one-of-the-best-performers-activity-7435553664531890176-q5-p/
+
+**Signal — Post 1 (delegation — resolved insight)**
+> "if everything depends on me, the startup can only grow at my speed. And that's not growth. That's just me becoming the bottleneck."
+> "Yes, they made mistakes. Some things took longer than I expected."
+
+**Signal — Post 2 (ownership — active fear) — PRIMARY SIGNAL**
+> "Last month, I fired one of the best performers on my team."
+> "I noticed a change in his mindset. He stopped taking ownership."
+> "That scared me way more than any revenue drop."
+> "You can't fix someone who has lost the willingness to fight."
+> "One person who has stopped caring will slow down everyone else."
+
+**Why Post 2 is the stronger signal:**
+Post 1 is resolved insight — delegation worked, lesson learned. Post 2 has live fear. "That scared me" is present tense. "Last month" is recent. He caught the ownership drift at the firing stage — not before it. That's the gap: no early warning system. He learns at crisis.
+
+**Game:** Lesson
+
+**Message angle**
+- Inertia type: Status quo — believes he now has the framework ("I have learned this over time"). The gap (catching drift before crisis) is invisible to him.
+- Where job breaks: Staying → Finishing — stays in build mode but can't see if the team's ownership is drifting until it's already a firing decision
+- Pre-intent symptoms: "that scared me way more than any revenue drop", "last month" — fear is fresh, crisis just resolved but the vigilance is live. He caught it at the end, not at the beginning.
+
+**Context**
+- Founder type: B (provisional — has a team, in mid-build phase)
+- Business type: B (provisional)
+- Situation: B+B
+- Coping or Blocked: Coping with active fear — just resolved a crisis, but the culture anxiety is live. "One person who has stopped caring will slow down everyone else" — he's watching for contagion.
+
+**Message sent**
+> "'That scared me way more than any revenue drop' — I've felt that too. Building something where one person's drift can slow everyone else. You caught it at firing. How do you actually see it coming before it gets there?"
+
+**Tollgates**
+- T1 (sent March 6, 2026): Led with what I sensed ✅ — opened with his exact words, shared lived experience ("I've felt that too"), one question, no pitch. 56 words.
+- T2 (check March 8, 2026):
+- T3 (reply received):
+
+**What I learned:**
+---
