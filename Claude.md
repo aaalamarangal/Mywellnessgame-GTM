@@ -184,7 +184,7 @@ This is the sequence Claude must follow to support Shiva from first signal to de
 
 2. Claude reads signal through game contexts
    → /Finding/Debt-contexts/
-   → /Finding/Messaging-contexts/writing-pipeline.md
+   → /Finding/Messaging-contexts/signal-comment.md
 
 3. Claude outputs full analysis:
    - Game (Clarity / Action / Lesson)
