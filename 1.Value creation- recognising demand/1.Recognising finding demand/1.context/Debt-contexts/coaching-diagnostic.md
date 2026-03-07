@@ -7,6 +7,21 @@ The coach's job: find the constraint on this path. That's the bottleneck. Everyt
 
 ---
 
+## The Four Job Break Stages
+
+Where does the founder's highest leverage move actually break?
+
+| Stage | What it means | Game | Debt |
+|---|---|---|---|
+| Recognising | Can't name what's wrong. Problem feels external. | Clarity / Macro | Context Debt |
+| Remembering | Sees it but can't hold to it. Knows but doesn't do. | Action / Micro | Content Debt |
+| Reviewing | Acts but can't see patterns. Effort doesn't compound. | Lesson / Nano | Formula Debt |
+| Rewiring | Pattern is visible. Structural change hasn't happened. | 4th stage | Beyond current games |
+
+The diagnostic questions below identify exactly which layer within each stage is the constraint.
+
+---
+
 ## The Path
 Goal → Concepts → Qualities → Tasks → Tactics → Workflows → Capabilities
 

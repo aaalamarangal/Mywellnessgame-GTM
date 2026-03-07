@@ -16,16 +16,21 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 ## [Founder Name] — [Date]
 
 **Profile:** [LinkedIn URL]
-**Signal link:** [Post/Comment URL]
+**Post link:** [URL of the post where signal was found]
+**Comment link:** [URL of the specific comment Shiva posted]
+**Influencer profile:** [URL — if found via influencer; leave blank if not applicable]
+**Influencer post link:** [URL of influencer's post — if applicable]
+**Influencer comment link:** [URL of influencer's comment — if applicable]
 
 **Signal**
 > "[exact quote]"
 
 **Game:** Clarity / Action / Lesson
+**Credit building:** Clarity Credit / Action Credit / Lesson Credit
 
 **Message angle**
 - Inertia type: [Status quo / Internal solution / Ad hoc workaround / Not a priority]
-- Where job breaks: [one sentence]
+- Where job breaks: Recognising / Remembering / Reviewing / Rewiring — [one sentence on why]
 - Pre-intent symptoms: [raw felt language from signal — what they're experiencing before naming the problem]
 
 **Context**
@@ -100,11 +105,19 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Coping or Blocked: Blocked — expressing active difficulty with how she relates to hard problems
 
 **Message sent**
-> [Multiple questions about how she reframes — journal/AI? — and who she talks to — team/friend? Message was too long with multiple questions and introduced own framing]
+> "This is lived experience and its meaningful that you are vulnerably sharing with us
+>
+> "The things that have helped most are pretty simple: noticing what's actually bothering me, reframing the situation instead of fighting it, and talking it through with people who can help me see it differently."
+>
+> As part of understanding how founders regulate themselves, I have few questions:
+>
+> How do you reframe the situation (Do you journal physically or provide context to your AI assistant)?
+>
+> When you talk through with people, is it like a team culture there where you process challenging situations in a team meet, or do you talk to a friend?"
 
 **Tollgates**
-- T1 (sent Feb 2026): Mixed — quoted her words but asked multiple questions, introduced own framing
-- T2: Silence. Translation issue — too long, multiple questions, own language instead of hers
+- T1 (sent Feb 2026): Mixed — quoted his words but asked multiple questions, introduced own framing
+- T2: Silence. Translation issue — too long, multiple questions, own language instead of his
 - T3: No reply
 
 **What I learned:** Multiple questions dilute the message. One question only. Stay in their language.
@@ -130,7 +143,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Founder type: A
 - Business type: B
 - Situation: A+B
-- Coping or Blocked: Blocked — recognising a gap she hasn't filled
+- Coping or Blocked: Blocked — recognising a gap he hasn't filled
 
 **Message sent**
 > "I had asked you a question for your earlier post... most of my high friction challenges were handled through people and they can not be downloaded as well!"

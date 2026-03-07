@@ -11,7 +11,7 @@ Updates periodically — only when a signal reveals something genuinely new abou
 
 ---
 
-## Clarity — How it feels
+## Clarity — Recognising
 *(Context Debt — absence of qualities and/or concepts)*
 
 **Definition:** The founder can't name what's wrong because they don't have the concept to name it with. The problem feels like the enemy — themselves, others, or the environment.
@@ -32,9 +32,18 @@ Clarity debt feels like the problem is external. Resolution comes when the right
 > "the founders who struggle most are usually stuck on one setting → either performing certainty they don't have, or over-sharing doubt without a comeback."
 — Leta Lista
 
+> "Wish this was my usual state!"
+— Ross Geiger (comment on Thenuka Karunaratne's post — regulation exists in nature/camping but can't be accessed consistently; wishing for a state that appears only sometimes)
+
+> "maybe I just give it my credit card and yolo"
+— Stephen Whitworth (deflecting with humour when Dave's question exposed the gap between his Claude Code OS and the regulation layer underneath it — the joke is doing the work the answer should do)
+
+> "I'm a flawed, overwhelmed human with five kids and ADHD trying to run a startup."
+— Jordan Peace (naming overwhelm in present tense while holding the conviction that being REAL is survival — the external honesty is solved, the internal system is absent)
+
 ---
 
-## Action — How it feels
+## Action — Remembering
 *(Content Debt — absence of tasks and/or tactics)*
 
 **Definition:** The founder knows what's wrong but doesn't know what to do about it.
@@ -49,7 +58,7 @@ Clarity debt feels like the problem is external. Resolution comes when the right
 
 ---
 
-## Lesson — How it feels
+## Lesson — Reviewing
 *(Formula Debt — absence of workflows and/or capabilities)*
 
 **Definition:** The founder knows what to do but has no system to repeat it or see if it's working.
@@ -63,6 +72,24 @@ Clarity debt feels like the problem is external. Resolution comes when the right
 
 > "Most founders can track their output. Almost none can track their state. That gap is quietly running the show."
 — Rana Naskar (comment on Shiva's post, March 6, 2026 — structural gap named from the outside, unprompted field confirmation)
+
+> "I almost quit more times than I can count. Not in theory. The real kind."
+> "stare at the ceiling at 3:12 am and wonder if building a company is just a socially-accepted way of burning your life"
+> "You build silently for years… and then one day, the world notices for 30 minutes."
+— Manaal Maniyar (4 years of invisible building; the motherhood anchor was the regulation system — real and profound, but can't be deployed on demand; now re-entering the build phase with TailBlaze)
+
+---
+
+## Rewiring — How it feels
+*(Beyond Formula Debt — pattern is visible but structural change hasn't happened)*
+
+**Definition:** The founder can see the pattern through Reviewing. They know what repeats. But the underlying structure hasn't shifted. Awareness alone doesn't break the loop.
+
+**Shiva's lived experience:**
+*(to be added)*
+
+**From the field:**
+*(to be added as field evidence emerges)*
 
 ---
 
