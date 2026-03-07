@@ -10,10 +10,31 @@ Read this before supporting any delivery session.
 
 ---
 
+## The Foundation
+
+**What:** Choose the one thing that can make everything simpler in life.
+
+**How:** Five first principles — every coaching session is built on all five.
+
+| Principle | Source | What it does in coaching |
+|---|---|---|
+| One Thing | https://the1thing.com/ | Forces a single point of focus — not a list, one thing |
+| TOC (Theory of Constraints) | | Find the constraint that is blocking everything else — remove it first |
+| Inner Game of Work | | The internal state (regulation) determines the external output |
+| Habits Formation | | Change happens through consistent small actions, not one-off efforts |
+| JTBD = M Framework | | Look at existing and possible painways and pathways — where is the job breaking and what does the client want instead |
+
+These five principles work together. One Thing sets the focus. TOC finds what is blocking it. Inner Game addresses the regulation underneath. Habits builds the consistency. JTBD/M Framework makes sure the focus is on the right gap.
+
+---
+
 ## What coaching does
 
-Coaching starts at what the client already named — their situation, their constraints, their reflection.
-The coach does not introduce new problems. The coach reads what is already there and helps the client see it clearly.
+Coaching is demand-driven. It starts when the client asks a question — not before.
+Shiva does not push coaching at Sujith. Sujith pulls it by asking.
+
+When Sujith asks — the coach reads what he has already named (situation, constraints, reflection) and helps him see it clearly.
+The coach does not introduce new problems. The coach responds to the question that was asked.
 
 Three steps. In sequence.
 
