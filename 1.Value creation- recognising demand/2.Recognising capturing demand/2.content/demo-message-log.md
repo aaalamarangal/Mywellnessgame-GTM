@@ -346,7 +346,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 ## Manaal Maniyar — March 6, 2026
 
 **Profile:** https://www.linkedin.com/in/manaalmaniyar/
-**Signal link:** https://www.linkedin.com/posts/manaalmaniyar_as-a-founder-i-almost-quit-more-times-than-ugcPost-7433091370355048449-6rT8/
+**Signal link:** https://www.linkedin.com/posts/manaalmaniyar_as-a-founder-i-almost-quit-more-times-than-activity-7433091371537870848--T_6/
 **Where posted:** Reply on Robert Groenendijk's comment thread — where Manaal said "milestones are just a rare blip in the otherwise pretty messy journey."
 
 **Signal**
