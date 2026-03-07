@@ -237,6 +237,7 @@ Claude reads the folder it points to and runs the workflow defined there.
 | `> POST` | Write a GTM post | `3.Recognising fulfilling supply/CLAUDE.md` |
 | `> T2` | Check 48h follow-ups | `2.Recognising capturing demand/CLAUDE.md` |
 | `> LOG` | Confirm message sent, run T1 | `2.Recognising capturing demand/CLAUDE.md` |
+| `> REVIEW: [name]` | Pull daily inputs for a client, read against coaching context, update delivery-log | `3.Remembering fulfilling demand/CLAUDE.md` |
 
 Adding a new tag: update the relevant folder's CLAUDE.md + add one line to this table.
 
