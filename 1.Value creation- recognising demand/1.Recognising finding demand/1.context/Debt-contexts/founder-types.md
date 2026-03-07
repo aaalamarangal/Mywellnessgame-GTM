@@ -90,8 +90,9 @@ Coaching must come before accountability at the Nano level.
 ```
 Daily workflow: Wake up → Look at todo list → Pick → Start → Stay → Execute ONE THING
 
-Where it breaks: Picking → Starting
+Where it breaks: Picking → Starting → Recognising
 The breakdown: Picks the ONE THING but can't start it — overthinks, waits for clarity
+The game: Clarity / Macro — can't name what's actually wrong, problem feels external
 ```
 
 ---
@@ -154,8 +155,9 @@ Nano (Chronic)
 ```
 Daily workflow: Wake up → Look at todo list → Pick → Start → Stay → Execute ONE THING
 
-Where it breaks: Starting → Staying
+Where it breaks: Starting → Staying → Remembering
 The breakdown: Starts but unsure if it's the RIGHT one thing — second guesses mid-execution
+The game: Action / Micro — knows what to do but can't hold to the one thing when the day pulls
 ```
 
 ---
@@ -168,6 +170,7 @@ The breakdown: Starts but unsure if it's the RIGHT one thing — second guesses 
 ```
 Daily workflow: Wake up → Look at todo list → Pick → Start → Stay → Execute ONE THING
 
-Where it breaks: Staying → Finishing
+Where it breaks: Staying → Finishing → Reviewing
 The breakdown: Stays on it but unsure if it's moving the needle — can't see if it's working
+The game: Lesson / Nano — acts consistently but patterns are invisible, effort doesn't compound
 ```

@@ -12,56 +12,72 @@ If you can't answer this — you don't have a message yet.
 
 ## The 4 Inertia Types
 
-| # | Inertia Type | What the founder says | Your counter |
-|---|---|---|---|
-| **1** | Status quo | "I already have a routine" | Show what the routine is costing them invisibly |
-| **2** | Internal solution | "I built my own system" | Show what the system can't see about themselves |
-| **3** | Ad hoc workaround | "I journal sometimes / talk to friends" | Show why fragmented regulation doesn't compound |
-| **4** | Not a priority | "I'll sort this when things calm down" | Show that things won't calm down without this |
+Ordered by stage — Recognising → Remembering → Reviewing.
+
+| # | Inertia Type | What the founder says | Stage | Founder type | Your counter |
+|---|---|---|---|---|---|
+| **1** | Internal solution | "I built my own system" | Recognising | Founder A (Macro) | Show what the system can't see about themselves |
+| **2** | Ad hoc workaround | "I journal sometimes / talk to friends" | Remembering | Founder B | Show why fragmented regulation doesn't compound |
+| **3** | Not a priority | "I'll sort this when things calm down" | Remembering | Founder A (Micro) | Show that things won't calm down without this |
+| **4** | Status quo | "I already have a routine" | Reviewing | Founder C | Show what the routine is costing them invisibly |
+
+**Why two types map to Remembering:**
+Types 2 and 3 both operate at the Remembering stage — the founder knows regulation matters but doesn't hold to it when the day pulls. The difference is surface justification: ad hoc workaround uses fragments to cope, not a priority defers to a calmer future. Underneath both: knows but doesn't do.
+
+**No inertia type maps to Rewiring yet.** Rewiring requires a founder who has seen the pattern through Reviewing but can't structurally change it. Not yet observed in field data.
 
 ---
 
-## Inertia Type 1 — Status Quo
-
-**What the founder says:** "I already have a routine"
-**What it means:** The friction is known, accepted, and already budgeted. It's inefficient but familiar.
-**Your counter:** Show what the routine is costing them invisibly — not the inefficiency they can see, but the pattern they can't.
-**Founder type most likely here:** Founder C — has been doing the same thing for a long time, patterns invisible
-**LinkedIn signal examples:**
-- [ ] Example 1
-
----
-
-## Inertia Type 2 — Internal Solution
+## Inertia Type 1 — Internal Solution
 
 **What the founder says:** "I built my own system" / "I could build this myself"
-**What it means:** Perceived control feels safer than buying. They believe they've already solved it.
+**Stage:** Recognising
+**What it means:** The gap in their system is invisible to them. They believe the problem is solved.
 **Your counter:** Show what the system can't see about themselves — the regulation layer underneath that no system captures.
-**Founder type most likely here:** Founder A — acute stress, has tried to solve it themselves, still can't access the regulated state consistently
+**Founder type most likely here:** Founder A at Macro — acute stress, has tried to solve it themselves, still can't access the regulated state consistently
 **LinkedIn signal examples:**
-- [ ] Example 1
+- Stephen Whitworth: "maybe I just give it my credit card and yolo" — built a full Claude Code OS, deflects when Dave's question exposed the regulation gap underneath it
+- Ross Geiger: "Wish this was my usual state!" — nature/camping is the internal solution, can't access it on demand
+- Leta Lista: "the founders who struggle most are usually stuck on one setting" — has her own status games framework, regulation layer underneath it is missing
 
 ---
 
-## Inertia Type 3 — Ad Hoc Workaround
+## Inertia Type 2 — Ad Hoc Workaround
 
 **What the founder says:** "I journal sometimes" / "I talk to friends when things get hard"
-**What it means:** A fragile combo of habits and people that technically gets the job done. It avoids change and new decisions.
+**Stage:** Remembering
+**What it means:** A fragile combo of habits and people that technically gets the job done. Avoids change and new decisions. The founder knows it's fragmented — they just don't hold to one thing consistently.
 **Your counter:** Show why fragmented regulation doesn't compound — occasional journaling without structure doesn't build patterns.
 **Founder type most likely here:** Founder B — has some tactics but no consistent system
 **LinkedIn signal examples:**
-- [ ] Example 1
+- Jordan Peace: "I'm a flawed, overwhelmed human with five kids and ADHD trying to run a startup." — therapy + radical transparency is the system. Fragmented, not compounding.
+- Manaal Maniyar: "What kept me going was not ambition. It was the 'motherhood' that rewired me." — emotional mission was the workaround. Real and profound, but can't be deployed on demand.
 
 ---
 
-## Inertia Type 4 — Not a Priority
+## Inertia Type 3 — Not a Priority
 
 **What the founder says:** "I'll sort this when things calm down"
-**What it means:** Nice to solve but not urgent compared to everything else on fire. Attention is spent elsewhere.
+**Stage:** Remembering
+**What it means:** The founder knows regulation matters — they're not denying the problem. They defer it because fires feel more urgent. When the moment comes, they don't hold to it.
 **Your counter:** Show that things won't calm down without this — the regulation layer is what makes everything else sustainable.
-**Founder type most likely here:** Founder A — acute stress, too many fires, regulation feels like a luxury
+**Founder type most likely here:** Founder A at Micro — too many fires, regulation feels like a luxury right now
 **LinkedIn signal examples:**
-- [ ] Example 1
+- Thenuka Karunaratne: "Most of what feels hard hasn't actually been about the stage of the company, or even the problem we're facing." — frames difficulty as relational/external, regulation not yet named as the lever
+- Christina Qi: "That groundedness isn't a distraction from success, but rather a prerequisite for it." — has the concept framed as a belief, hasn't connected it as an active present gap
+
+---
+
+## Inertia Type 4 — Status Quo
+
+**What the founder says:** "I already have a routine"
+**Stage:** Reviewing
+**What it means:** The friction is known, accepted, and already budgeted. It's inefficient but familiar. The routine runs — but what it's costing invisibly is hidden.
+**Your counter:** Show what the routine is costing them invisibly — not the inefficiency they can see, but the pattern they can't.
+**Founder type most likely here:** Founder C — has been doing the same thing for a long time, patterns invisible
+**LinkedIn signal examples:**
+- Nick Ang: "I have no system for knowing if I'm actually doing what I say I do, or where the gaps are." — shows up at 5am for a year, the routine is real, the visibility is absent
+- Rana Naskar: "Most founders can track their output. Almost none can track their state. That gap is quietly running the show." — frames it universally, gap is live personally
 
 ---
 
@@ -80,6 +96,14 @@ It tells you what mental model you need to break before the founder will even co
 
 ## Observed Inertia Types (add as you observe)
 
-| Founder | Inertia Type | Signal | Date |
-|---|---|---|---|
-| Stephen Whitworth | Internal solution — built his own Claude Code OS | "maybe I just give it my credit card and yolo" | March 2026 |
+| Founder | Inertia Type | Stage | Signal | Date |
+|---|---|---|---|---|
+| Stephen Whitworth | Internal solution | Recognising | "maybe I just give it my credit card and yolo" | March 2026 |
+| Ross Geiger | Internal solution | Recognising | "Wish this was my usual state!" | Feb 2026 |
+| Leta Lista | Internal solution | Recognising | "the founders who struggle most are usually stuck on one setting" | March 2026 |
+| Jordan Peace | Ad hoc workaround | Remembering | "flawed, overwhelmed human with five kids and ADHD trying to run a startup" | March 2026 |
+| Manaal Maniyar | Ad hoc workaround | Remembering | "What kept me going was not ambition. It was the 'motherhood' that rewired me." | March 2026 |
+| Thenuka Karunaratne | Not a priority | Remembering | "how I relate to the problem... it comes from the story we attach to it" | Feb 2026 |
+| Christina Qi | Not a priority | Remembering | "That groundedness isn't a distraction from success, but a prerequisite" | March 2026 |
+| Nick Ang | Status quo | Reviewing | "I have no system for knowing if I'm actually doing what I say I do" | Feb 2026 |
+| Rana Naskar | Status quo | Reviewing | "Most founders can track their output. Almost none can track their state." | March 2026 |
