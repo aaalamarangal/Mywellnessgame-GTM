@@ -3,7 +3,7 @@ Parent: CLAUDE.md | message-contexts
 
 ## Purpose
 WHERE to find founders before reading or engaging with their signals.
-This file maps the 6 sourcing methods ranked by reply rate.
+This file maps the 7 sourcing methods ranked by reply rate.
 Read this before signal-reading.md.
 
 ---
@@ -18,9 +18,9 @@ signal-comment.md  → how to express it as a comment
 
 ---
 
-## 6 Sourcing Methods — Ranked by Reply Rate
+## 7 Sourcing Methods — Ranked by Reply Rate
 
-All 6 are currently active.
+All 7 are currently active.
 
 ### 1. LinkedIn Algorithm — No Connection
 LinkedIn surfaces founders to Shiva based on productivity coaching relevance.
@@ -57,6 +57,12 @@ Feeds them into Google search.
 Finds founder posts that match that language.
 Goes to their LinkedIn and checks for personal productivity posts.
 
+### 7. Trusted Contact Referral
+Someone in Shiva's network runs their own adjacent scraping or content process.
+They find a founder's personal productivity posts and share them directly.
+Signal comes inbound — no searching required.
+Example: Sujith found Tim Scheuer's posts while running his GTM process and shared them.
+
 ---
 
 ## Finding Techniques
@@ -72,4 +78,8 @@ How to apply: [one question to ask yourself]
 Post: [URL]
 ```
 
-(entries added via > FINDING)
+Source: Sujith
+Core technique: Trusted contacts running adjacent GTM processes surface founder signals and share them directly.
+Where it applies: Sourcing method 7 — Trusted Contact Referral
+How to apply: Who in your network is doing similar scraping or content work? Are you sharing signals with each other?
+Post: https://www.linkedin.com/posts/tim-scheuer-91b005237_i-accidentally-became-a-1-person-ai-saas-activity-7416736135135260672-Qmzx/
