@@ -9,10 +9,11 @@ It covers what happens after the demo call leads to a yes — onboarding, early 
 ## Three sub-folders
 
 - **1.context/** — (to be built)
-- **2.content/** — (entries to be built as first clients arrive)
-- **3.formula/** — (patterns to be built from early client work)
+- **2.content/** — delivery-log.md — 12-input Macro → Micro → Nano sessions, tagged by person type / leverage / game
+- **3.formula/** — (patterns to be built from delivery entries)
 
 ## Status
 
-To be built when first paying client arrives.
-See: /Clients folder.
+Active. delivery-log.md is live.
+Three person types: Sujith (CLIENT), Shiva (SELF), Vinotha (TEAM).
+Tags allow filtering by person, leverage level, and active game.

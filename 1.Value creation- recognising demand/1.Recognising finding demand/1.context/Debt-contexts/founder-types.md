@@ -148,7 +148,8 @@ Nano (Chronic)
 ---
 
 ## Founder B
-*To be built from real founder observations*
+*Being built from Sujith's coaching data — see client-sujith.md*
+*Path: `/3.Value delivery- remembering demand/3.Remembering fulfilling demand/1.context/client-sujith.md`*
 
 ### Founder B — Where the Job Breaks
 
@@ -159,6 +160,16 @@ Where it breaks: Starting → Staying → Remembering
 The breakdown: Starts but unsure if it's the RIGHT one thing — second guesses mid-execution
 The game: Action / Micro — knows what to do but can't hold to the one thing when the day pulls
 ```
+
+### Founder B — Patterns Observed (from Sujith)
+
+- Regulation breaks execution — knows what to do, but dysregulated states (mornings, events, nights) prevent time blocking and honouring commitments
+- Delegates before doing the work himself first — sends interns without having built the qualification criteria from direct observation
+- Concepts not yet internalised — tries to execute without having the framework in a working document
+- Time blocking identified but not honoured — high-leverage outcomes named but not protected on calendar
+- Pressure not yet owned as a reflex — recognises it intellectually but doesn't act on it immediately
+
+*Add to this section as more Founder B observations emerge from delivery-log.md*
 
 ---
 

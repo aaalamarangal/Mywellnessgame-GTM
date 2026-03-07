@@ -50,7 +50,7 @@ Claude does:
 4. Confirm in chat: one-line summary of what changed
 
 ### > ANGLE: [Influencer Name]
-Shiva shares: influencer name, angle or lesson, post URL (optional), which step it applies to (Signal / Bridge / Voice)
+Shiva shares: influencer name, angle or lesson, post URL (required), which step it applies to (Signal / Bridge / Voice)
 
 Claude does:
 1. Open signal-angle.md

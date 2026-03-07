@@ -560,6 +560,47 @@ He answered "how do you see it early?" with real signals — but still universal
 **What I learned:**
 ---
 
+## Tim Scheuer — March 7, 2026
+
+**Profile:** https://www.linkedin.com/in/tim-scheuer-91b005237/
+**Post link:** https://www.linkedin.com/posts/tim-scheuer-91b005237_i-accidentally-became-a-1-person-ai-saas-activity-7416736135135260672-Qmzx/
+**Comment link:** https://www.linkedin.com/feed/update/urn:li:activity:7416736135135260672?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7416736135135260672%2C7436041175712813056%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287436041175712813056%2Curn%3Ali%3Aactivity%3A7416736135135260672%29
+**Reference post (Post 1):** https://www.linkedin.com/posts/tim-scheuer-91b005237_im-now-working-solo-on-prospera-ai-things-activity-7414028785890566144-e8L5/
+**Source:** Sujith (well-wisher sharing posts — running same GTM scraping process)
+
+**Signal**
+> "I started doubting myself."
+> "Then I went looking for proof this model can work and found builders like Marc Lou already doing it."
+> "I know I'm essentially building a founder's prison."
+
+**Game:** Action
+**Credit building:** Action Credit
+
+**Message angle**
+- Inertia type: Ad hoc workaround — external proof-seeking (Marc Lou) is the response when doubt hits. Managed the state once. Not a system.
+- Where job breaks: Reviewing — routine is in place (agents, solo build, shipping). Gap invisible until doubt lands on something with no external example to point to.
+- Pre-intent symptoms: "started doubting myself", "completely neglected sales and marketing", "went looking for proof", "founder's prison"
+- ICP Motivator: SPEED — velocity and distribution as the moat
+- Real threat: Doubt lands again with no Marc Lou available → workaround fails → context switching + neglected work compounds → solo model breaks at its weakest moment
+- Expected outcome: Hold the build steady when doubt hits — not dependent on external proof
+
+**Context**
+- Founder type: A
+- Business type: B (Prospera AI — building in public, has customers, still in build phase)
+- Situation: A+B
+- Coping or Blocked: Coping — resolved framing ("let's see how far I can push this solo"). Doubt mechanism is live and visible.
+
+**Message sent**
+> 'I started doubting myself' — and you went looking for Marc Lou to find proof. That worked. What happens the next time doubt lands and there's no example out there yet to point to?
+
+**Tollgates**
+- T1 (sent March 7, 2026): Led with his exact words ✅ — "I started doubting myself" quoted directly, named the specific mechanism (Marc Lou as external proof), one question, no pitch. 35 words. Every other comment on the post was validation energy — this was the only one that went into the signal.
+- T2 (check March 9, 2026):
+- T3 (reply received):
+
+**What I learned:**
+---
+
 ## Jordan Peace — Interaction 2 — March 7, 2026
 
 **Profile:** https://www.linkedin.com/in/jordan-peace-fringe/
