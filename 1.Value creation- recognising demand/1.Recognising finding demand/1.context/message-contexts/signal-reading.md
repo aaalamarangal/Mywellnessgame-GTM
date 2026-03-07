@@ -1,8 +1,16 @@
-# LinkedIn Signal Scraping
-Parent: CLAUDE.md | Recognising finding demand | message-contexts
+# Signal Reading
+Parent: CLAUDE.md | message-contexts
+
+## Where This Fits
+```
+signal-sources.md  → WHERE to find founders
+signal-reading.md  → HOW to read what you find (this file)
+signal-angle.md    → what angle to take on the signal
+signal-comment.md  → how to express it as a comment
+```
 
 ## Purpose
-This file documents how to find founder signals on LinkedIn.
+Once you have found a founder signal, this file tells you how to read it.
 Not all signal sources are equal. Replies are more honest than posts.
 
 ---

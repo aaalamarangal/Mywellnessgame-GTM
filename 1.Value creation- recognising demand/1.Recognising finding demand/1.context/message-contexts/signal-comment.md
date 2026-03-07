@@ -1,15 +1,21 @@
-# Signal → Bridge → Voice
-Parent: CLAUDE.md | Message-contexts
+# Signal Comment
+Parent: CLAUDE.md | message-contexts
+
+## Where This Fits
+```
+signal-sources.md  → WHERE to find founders
+signal-reading.md  → HOW to read what you find
+signal-angle.md    → what angle to take on the signal
+signal-comment.md  → how to express it as a comment (this file)
+```
 
 ## Purpose
 Great outreach is a pipeline, not an art.
-This file is the translation layer — how to go from a founder signal to a message that creates a reply.
+This file is the execution layer — how to go from a signal and an angle to a comment that creates a reply.
 Source: Yusuf Ahmed
 
-Before writing any message, walk through all 3 steps in sequence.
-If you can't complete a step — stop. You don't have a message yet.
-
-The "where to find it" references below show the logical sequence Claude follows. They are not file storage instructions. Each file is a separate .md on disk.
+Before writing any comment, walk through all 3 steps in sequence.
+If you can't complete a step — stop. You don't have a comment yet.
 
 ---
 

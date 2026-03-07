@@ -23,7 +23,7 @@ The Having layer — the result of Founder (Being) + Business (Doing).
 9 base situations (3 founder types × 3 business types).
 Each situation can be in one of 3 debt stages — producing 27 total situations.
 
-### debt-psychology.md
+### debt-signal-psychology.md
 The psychological texture of each debt stage — not just what the debt is, but how it feels from the inside.
 Built from Shiva's lived experience as Founder A and exact words from founders observed in the field.
 

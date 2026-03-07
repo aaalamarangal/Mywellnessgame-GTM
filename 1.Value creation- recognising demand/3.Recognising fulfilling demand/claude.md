@@ -27,3 +27,17 @@ Job 2: Founder ties the gap to their current situation
 Job 3: Founder asks a fit question
 
 All three must be complete before a demo call is scheduled.
+
+---
+
+## Task Workflows
+
+### > FOLLOW-UP
+Shiva shares: founder name, their reply (exact text), Job stage (Job 1 / Job 2 / Job 3 — done or in progress)
+
+Claude does:
+1. Open demo-message-log.md and find this founder's existing entry
+2. Read conversation state and Jobs 1, 2, 3 status
+3. Draft the next message — go deeper into the gap, do not explain the offer
+4. Update the log entry with the new exchange
+5. Name which job was just completed (if any)

@@ -1,70 +1,60 @@
-# Message-contexts — claude.md
+# Message-contexts — CLAUDE.md
 Parent: CLAUDE.md | Recognising finding demand
 
 ## Purpose
-This folder contains the translation layer.
-After reading Debt-contexts to understand the founder, Claude reads this folder to understand HOW to write the message.
+This folder contains the full signal-to-comment sequence.
+After reading Debt-contexts to understand the founder, Claude reads this folder to find, read, angle, and write.
 
 ---
 
-## What Lives Here
-
-### sources.md
-Lessons from coaches, mentors and influencers that directly shape how Shiva recognises demand and messages founders.
-Each source answers a specific question in the thinking path:
+## What Lives Here — in sequence
 
 ```
-Rob Snyder        → WHEN to message (blocked vs coping)
-Yusuf Ahmed       → WHAT the pipeline looks like (signal → bridge → voice)
-Aleksander        → WHERE to start the message (where the job breaks)
-Robert Kaminski   → HOW to make the message stand out (differentiation)
-Stephen Whitworth → WHO you compete against (DIY AI systems, not other coaches)
+signal-sources.md  → WHERE to find founders (6 ranked sourcing methods)
+signal-reading.md  → HOW to read what you find (honesty levels, blocked vs coping, how to scan)
+signal-angle.md    → what angle to take on the signal (one entry per influencer — grows via > ANGLE)
+signal-comment.md  → how to express the angle as a comment (Signal → Bridge → Voice)
+inertia-types.md   → 4 mental models founders use to justify doing nothing
 ```
-
-### inertia-types.md
-The 4 mental models founders use to justify doing nothing.
-Every message is written against one of these — not against another tool or coach.
-
-```
-1. Status quo        — friction is known, accepted, already budgeted
-2. Internal solution — "I could build this myself"
-3. Ad hoc workaround — fragile combo of tools that technically works
-4. Not a priority    — nice to solve but not urgent right now
-```
-
-### signal-bridge-voice.md
-The translation pipeline from founder signal to message.
-Great outreach is a pipeline, not an art. (Yusuf Ahmed)
-
-```
-Signal → find something specific about the founder
-Bridge → connect the signal to the inertia they're stuck in
-Voice  → express it naturally with no pitch
-```
-
-### linkedin-signal-scraping.md
-How to find founder signals on LinkedIn before writing any message.
-Four signal sources — ranked by honesty:
-1. Founder's own posts (most performative)
-2. Founder's replies on other people's posts (more honest)
-3. Founder's replies to their own readers' comments (real-time candour)
-4. Founder's comments on tool/system posts (reveals inertia type directly)
 
 ---
 
 ## How to Use This Folder
 
-1. Read linkedin-signal-scraping.md — find the signal before anything else
-2. Read signal-bridge-voice.md — walk through all 3 steps before writing anything
-3. Read inertia-types.md — identify which of the 4 mental models you are writing against
-4. Read sources.md — identify which source principle is most relevant to this founder's signal
-5. Write the message — under 100 words, one question, lead with what you sensed
+For > COMMENT:
+1. Read signal-sources.md — know where the signal came from
+2. Read signal-reading.md — read the signal at the right honesty level
+3. Read inertia-types.md — identify which mental model you are writing against
+4. Read signal-angle.md — identify which angle principle applies
+5. Follow signal-comment.md — walk through Signal → Bridge → Voice before writing
 
 ---
 
 ## The Core Logic
-Signal → Bridge → Voice
-Every message breaks one specific mental model of doing nothing.
-If you don't know which inertia you're writing against — you don't have a message yet.
-If you don't have a real signal — you don't have a message yet.
+Every comment breaks one specific mental model of doing nothing.
+If you don't know which inertia you're writing against — you don't have a comment yet.
+If you don't have a real signal — you don't have a comment yet.
 If your voice has more than one question or exceeds 100 words — rewrite before sending.
+
+---
+
+## Task Workflows
+
+### > FINDING: [Influencer Name]
+Shiva shares: influencer name, technique or insight, post URL (required), which signal source it applies to
+
+Claude does:
+1. Open signal-sources.md
+2. Go to the Finding Techniques section
+3. Add new entry under the influencer's name (or update if they already have one)
+4. Confirm in chat: one-line summary of what changed
+
+### > ANGLE: [Influencer Name]
+Shiva shares: influencer name, angle or lesson, post URL (optional), which step it applies to (Signal / Bridge / Voice)
+
+Claude does:
+1. Open signal-angle.md
+2. If influencer already has an entry — update it. Never create a duplicate.
+3. If new influencer — add a new entry using the Angle Template
+4. Update the "How These Angles Connect" summary at the bottom
+5. Confirm in chat: one-line summary of what changed

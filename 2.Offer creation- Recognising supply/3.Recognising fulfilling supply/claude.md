@@ -20,3 +20,16 @@ Both lead to demo calls.
 
 - Incoming: insights from 1.Recognising finding supply/ and 2.Recognising capturing supply/
 - Outgoing: demo posts that attract founders who self-select into a demo call conversation
+
+---
+
+## Task Workflows
+
+### > POST
+Shiva shares: post topic or field observation, inspiration post link (if applicable)
+
+Claude does:
+1. Remind Shiva to check the comments on the inspiration post before writing
+2. Apply Niko Noll's 11-step post structure (from messaging-angles.md)
+3. Write full draft to plan file
+4. Summarize in chat — one line per structural element

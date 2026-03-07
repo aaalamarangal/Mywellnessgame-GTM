@@ -73,10 +73,11 @@ The daily non-negotiable: Send ONE message to ONE founder. Every day. No excepti
           debt-signal-psychology.md  ← psychological texture of each game (Clarity / Action / Lesson)
           coaching-diagnostic.md     ← 6-layer diagnostic for finding where the founder is stuck
         /message-contexts
-          sources.md                 ← lessons from coaches, mentors, influencers
-          signal-bridge-voice.md     ← translation pipeline: Signal → Bridge → Voice
+          signal-sources.md          ← WHERE to find founders — 6 ranked sourcing methods (grows via > FINDING)
+          signal-reading.md          ← HOW to read signals — honesty levels, blocked vs coping, how to scan
+          signal-angle.md            ← what angle to take — one entry per influencer (grows via > ANGLE)
+          signal-comment.md          ← how to express the angle — Signal → Bridge → Voice (used in > COMMENT)
           inertia-types.md           ← 4 mental models founders use to justify doing nothing
-          linkedin-signal-scraping.md ← how to find signals on LinkedIn (4 sources, ranked by honesty)
 
     2.Recognising capturing demand/
 
@@ -183,7 +184,7 @@ This is the sequence Claude must follow to support Shiva from first signal to de
 
 2. Claude reads signal through game contexts
    → /Finding/Debt-contexts/
-   → /Finding/Messaging-contexts/signal-bridge-voice.md
+   → /Finding/Messaging-contexts/writing-pipeline.md
 
 3. Claude outputs full analysis:
    - Game (Clarity / Action / Lesson)
@@ -219,6 +220,25 @@ This is the sequence Claude must follow to support Shiva from first signal to de
     → Starts at the gap the founder already named — not at an explanation of the offer
     → Run Macro → Micro → Nano template live on their real situation
     → The close happens when regulation is felt in real time
+
+---
+
+## Session Opening Tags
+
+Type one tag at the start of every task.
+Claude reads the folder it points to and runs the workflow defined there.
+
+| Tag | What it does | Workflow lives in |
+|---|---|---|
+| `> COMMENT` | Analyze founder post, draft comment or DM | `2.Recognising capturing demand/CLAUDE.md` |
+| `> FOLLOW-UP` | Continue existing founder conversation | `3.Recognising fulfilling demand/CLAUDE.md` |
+| `> FINDING: [name]` | Post-finding lesson from influencer | `message-contexts/CLAUDE.md` |
+| `> ANGLE: [name]` | Messaging angle lesson from influencer | `message-contexts/CLAUDE.md` |
+| `> POST` | Write a GTM post | `3.Recognising fulfilling supply/CLAUDE.md` |
+| `> T2` | Check 48h follow-ups | `2.Recognising capturing demand/CLAUDE.md` |
+| `> LOG` | Confirm message sent, run T1 | `2.Recognising capturing demand/CLAUDE.md` |
+
+Adding a new tag: update the relevant folder's CLAUDE.md + add one line to this table.
 
 ---
 
