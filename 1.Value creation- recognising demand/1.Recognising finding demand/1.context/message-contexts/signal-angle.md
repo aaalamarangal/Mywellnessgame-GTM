@@ -53,9 +53,27 @@ Use this pattern for every source added:
 **Core concept:** Where the job breaks — write the message there. Not at your solution.
 **Where it applies:** Step 3 of thinking path — translating signal into message
 **How to apply:** Find exactly where the founder's job breaks down. Start the message at that breakdown point.
-**Example in action:** *(to be added)*
+**Example in action:** Rana Naskar — "That scared me way more than any revenue drop." Job breaks at catching ownership drift before it becomes a firing decision. Message started there: "You caught it at firing. How do you actually see it coming before it gets there?"
 **Links:**
 - Where the job breaks: https://www.linkedin.com/posts/aleksandar-radosevic-b2b-saas-copywriting_writing-headlines-is-always-about-tradeoffs-activity-7431692970468425728-w30g/
+
+### Additional lesson — Friction + ICP Motivator + Real threat
+
+**Core concept:** Pain points alone don't drive action. Action happens when friction threatens something the founder is already under internal pressure to fix, speed up, or prove.
+**Where it applies:** Bridge step — after finding where the job breaks, connect it to what's actually at stake
+**How to apply:** Ask two questions before writing the anchor sentence:
+- What does this friction threaten? (real threat — specific KPI, deadline, goal)
+- What does the founder want instead? (expected outcome)
+
+**4 ICP motivators — read the signal to find which one is under pressure:**
+- **CONTROL** (founders managing teams, Ops, Product) — Friction: workarounds, inconsistency, drift they can't see early. Motivation: restore structure, build systems that hold without daily crisis management
+- **SPEED** (Founders, Growth, Sales) — Friction: slow loops, scattered execution, no feedback on what's working. Motivation: shorten loops, move faster without burning out
+- **CERTAINTY** (Finance, Strategy, founders who wait for clarity) — Friction: no attribution, guesswork, can't act without resolving the story first. Motivation: make confident decisions without waiting for certainty
+- **RECOGNITION** (coaches, Marketing, founders who share resolved insight publicly) — Friction: work disappears, insight doesn't translate, theory not proven in practice. Motivation: prove influence and earn trust, not just praise
+
+**The rule:** Read the post to find which motivator is under threat. Do not default to SPEED. The signal tells you.
+
+**Link:** https://www.linkedin.com/posts/aleksandar-radosevic-b2b-saas-copywriting_the-more-i-work-on-b2b-messaging-the-more-share-7435673763414765568-1y9h/
 
 ---
 
@@ -118,10 +136,10 @@ This maps to Clarity Debt in Shiva's framework. Comments confirmed the LOSS fram
 ```
 Rob Snyder         → WHEN to message (blocked vs coping)
 Yusuf Ahmed        → WHAT the pipeline looks like (signal → bridge → voice)
-Aleksander         → WHERE to start the message (where the job breaks)
+Aleksander         → WHERE to start the message (where the job breaks) + WHAT makes it urgent (friction → real threat → expected outcome)
 Robert Kaminski    → HOW to make the message stand out (differentiation)
 Stephen Whitworth  → WHO you compete against (DIY AI systems, not other coaches)
 Niko Noll          → HOW to structure a GTM post (field evidence → contrast → three specifics → synthesis → no pitch)
 ```
 
-Together they answer: When to message, what the pipeline is, where to start, how to stand out, who you're really competing with, and how to structure posts that land without pitching.
+Together they answer: When to message, what the pipeline is, where to start, what makes it urgent, how to stand out, who you're really competing with, and how to structure posts that land without pitching.

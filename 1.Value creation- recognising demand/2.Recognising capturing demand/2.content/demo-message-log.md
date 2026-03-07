@@ -32,6 +32,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: [Status quo / Internal solution / Ad hoc workaround / Not a priority]
 - Where job breaks: Recognising / Remembering / Reviewing / Rewiring — [one sentence on why]
 - Pre-intent symptoms: [raw felt language from signal — what they're experiencing before naming the problem]
+- ICP Motivator: [CONTROL / SPEED / CERTAINTY / RECOGNITION]
+- Real threat: [what does this friction threaten? — KPI, deadline, goal they need to prove]
+- Expected outcome: [what does the founder want instead?]
 
 **Context**
 - Founder type: A / B / C
@@ -97,6 +100,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Not a priority — knows dialogue matters but hasn't sought a thinking partner
 - Where job breaks: Picking → Starting (overthinks, waits for clarity before acting)
 - Pre-intent symptoms: framing difficulty as external (company stage) when it's internal (the story attached to it)
+- ICP Motivator: CERTAINTY — needs to feel confident before acting; can't move until the story resolves
+- Real threat: Keeps waiting for clarity that doesn't come → stays stuck at the start → company pace stays slow
+- Expected outcome: Act without needing to resolve the story first — move before certainty arrives
 
 **Context**
 - Founder type: A
@@ -138,6 +144,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Not a priority — knows dialogue matters but hasn't sought a thinking partner
 - Where job breaks: Picking → Starting
 - Pre-intent symptoms: noticing that certain problems have a different texture — "unusually hard" — and that the solution can't be replicated
+- ICP Motivator: CERTAINTY — knows the gap exists but can't act on it without a thinking partner who holds the space
+- Real threat: Gap stays unfilled → certain problems stay unresolved → company decisions made without the right dialogue
+- Expected outcome: A reliable thinking partner for the problems that can't be downloaded
 
 **Context**
 - Founder type: A
@@ -171,6 +180,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Internal solution — trying to regulate through nature/camping but can't access it consistently
 - Where job breaks: Picking → Starting (regulation is sometimes there, sometimes not — can't reliably access the state)
 - Pre-intent symptoms: wishing for consistency that isn't there — "my usual state" implies the good state exists but isn't reliable
+- ICP Motivator: CONTROL — needs internal regulation to hold reliably, not just appear when conditions allow
+- Real threat: Regulation stays condition-dependent → some days functional, some days not → can't lead or build consistently
+- Expected outcome: Access a regulated state on demand — not only when nature or camping creates it
 
 **Context**
 - Founder type: A
@@ -204,6 +216,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Status quo — has habits (showing up at 5am for a year) but no system to see what they add up to
 - Where job breaks: Staying → Finishing (discipline is there but can't see if it's working or where the gaps are)
 - Pre-intent symptoms: feeling productive while being blind to whether the effort is moving the needle
+- ICP Motivator: CERTAINTY — needs to know if the effort is justified before he can trust the system
+- Real threat: A year of 5am discipline with no visibility → could be building the wrong habits → effort wasted at scale
+- Expected outcome: Clear sight of which habits move the needle vs which ones just feel productive
 
 **Context**
 - Founder type: C
@@ -236,6 +251,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Internal solution — built his own Claude Code OS, believes he's solved the system problem, but the wellbeing/regulation layer is visibly missing
 - Where job breaks: Picking → Starting (has the system but the regulation underneath it isn't there — shows up as deflection when directly asked)
 - Pre-intent symptoms: deflecting with humour ("yolo") when Dave's question exposed a gap — the joke is doing a lot of work
+- ICP Motivator: CONTROL — built a sophisticated OS but the regulation layer underneath is missing; system holds the tasks, not the person
+- Real threat: OS breaks when state drops → the whole system he built becomes unreliable under pressure
+- Expected outcome: A complete system where regulation is built in, not absent when he needs it most
 
 **Context**
 - Founder type: A
@@ -269,6 +287,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Status quo — has a philosophy, not looking for help
 - Where job breaks: maintaining practices when startup urgency spikes
 - Pre-intent symptoms: carrying regret about missed moments — "still haunts me" — hasn't named it as a productivity problem
+- ICP Motivator: RECOGNITION — wants groundedness proven as the real prerequisite for success, not just a philosophy she holds
+- Real threat: Philosophy stays at concept level → "still haunts me" moments keep happening → the conviction never becomes a practice
+- Expected outcome: A way to hold the groundedness when the startup pulls hardest — making the belief real
 
 **Context**
 - Founder type: A
@@ -304,6 +325,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Ad hoc workaround — therapy + radical transparency is the system. Fragmented, not compounding.
 - Where job breaks: External honesty is solved. Internal consistency at scale is not.
 - Pre-intent symptoms: naming overwhelm and ADHD in present tense, conviction that REAL is survival ("save us"), orienting toward "great things at scale for a long period of time" without a system underneath
+- ICP Motivator: CONTROL — has the external structure (therapy, transparency) but no internal system holding the build steady
+- Real threat: Scale ambition stays fragile — overwhelm (ADHD, 5 kids, startup) eventually wins without the internal regulation layer
+- Expected outcome: Internal system that holds the build steady without depending on external structures alone
 
 **Context**
 - Founder type: A
@@ -339,6 +363,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Internal solution — has her own status games framework, may not see the regulation layer underneath it
 - Where job breaks: concept → application in the moment (founders she works with can't translate the theory into fluid action under pressure)
 - Pre-intent symptoms: naming "stuck on one setting" as both a negotiation and an internal regulation problem — performing certainty and over-sharing doubt are both dysregulation showing up externally
+- ICP Motivator: RECOGNITION — needs the internal regulation layer proven as the real foundation for external fluidity; validates her coaching approach
+- Real threat: Founders understand the theory but can't access it under pressure → her framework loses its proof point in the room
+- Expected outcome: Founders translate understanding into fluid action — which proves the internal state is what makes external fluency real
 
 **Context**
 - Founder type: A (provisional)
@@ -379,6 +406,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Ad hoc workaround — the emotional mission (Einstein's illness → motherhood anchor) was the regulation system. Real and profound, but not compound. Can't be deployed on demand — it activates when life tests it.
 - Where job breaks: Staying → Finishing — they could sustain 16-17 hours a day for 4 years, but nearly couldn't hold the will to continue. The gap isn't Starting. It's the internal state during the long, invisible build phase. "You build silently for years" — isolation of building without external signal is where founders with no system break.
 - Pre-intent symptoms: "stare at the ceiling at 3:12 am", "almost quit more times than I can count", "not ambition... the 'motherhood' that rewired me", "build silently for years", "we have just started" — re-entering the build phase now
+- ICP Motivator: SPEED — under pressure to build again; "we only go in one direction from here" signals urgency to move faster this time
+- Real threat: Re-enters the build without a system → same 4-year grind of silent building with no feedback loop → another long invisible phase
+- Expected outcome: Move through the build with a system that makes progress visible — not just survive it
 
 **Context**
 - Founder type: A (chronic stress pattern — 4 years of invisible building, tired without a system)
@@ -412,6 +442,9 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - Inertia type: Status quo — frames gap as universal observation, not personal
 - Where job breaks: Staying → Finishing — output tracked, state not tracked, crisis caught too late
 - Pre-intent symptoms: "quietly running the show" — unseen thing already has consequences
+- ICP Motivator: CONTROL — knows the gap is real but frames it universally; not yet claiming the system he needs
+- Real threat: State tracking stays blind → output drops before he sees it coming → catches the next crisis at the end again
+- Expected outcome: A system that tracks state before output drops — not just observes the pattern after
 
 **Context**
 - Founder type: B (provisional)
@@ -464,6 +497,9 @@ Post 1 is resolved insight — delegation worked, lesson learned. Post 2 has liv
 - Inertia type: Status quo — believes he now has the framework ("I have learned this over time"). The gap (catching drift before crisis) is invisible to him.
 - Where job breaks: Staying → Finishing — stays in build mode but can't see if the team's ownership is drifting until it's already a firing decision
 - Pre-intent symptoms: "that scared me way more than any revenue drop", "last month" — fear is fresh, crisis just resolved but the vigilance is live. He caught it at the end, not at the beginning.
+- ICP Motivator: CONTROL — responsible for a team that holds under pressure; ownership drift is the threat he can't see early enough
+- Real threat: Next drift also caught at firing → team culture contagion risk stays live → "one person who has stopped caring will slow everyone else"
+- Expected outcome: Early warning system that surfaces drift before it becomes a decision
 
 **Context**
 - Founder type: B (provisional — has a team, in mid-build phase)
@@ -496,6 +532,9 @@ Post 1 is resolved insight — delegation worked, lesson learned. Post 2 has liv
 - Inertia type: Status quo — believes he now knows the signals. Gap (timing — saw them too late) is still invisible.
 - Where job breaks: Staying → Finishing — knows what to look for but caught it at firing, not before
 - Pre-intent symptoms: describing behavioral signals in the third person — universal, not personal
+- ICP Motivator: CONTROL — same as Interaction 1; gap is the hindsight lag between signal and action
+- Real threat: Knows the signals but still caught it too late → next time the same lag → crisis-catching stays the pattern
+- Expected outcome: See ownership drift in real time, not in hindsight
 
 **Context**
 - Founder type: B (provisional)
@@ -538,6 +577,9 @@ He answered "how do you see it early?" with real signals — but still universal
 - Inertia type: Ad hoc workaround — AI for pattern data, therapy for processing, radical transparency for external honesty. None of it stings. None of it moves the internal state.
 - Where job breaks: Recognising — can see the pattern (AI shows trends) but pattern-visible ≠ pattern-changed. Data ≠ regulation. Knowing the tendency doesn't break it.
 - Pre-intent symptoms: "I really don't care what an AI thinks of me" — has insulated himself from disruptive feedback; "helpful to spot trends/tendencies" — pattern data as substitute for actual change; "a useful paradigm" — coping resolution language, has made peace with a compromise
+- ICP Motivator: CONTROL — has built external structures (AI, therapy, transparency) but none of them move the internal state
+- Real threat: Patterns spotted but never broken → overwhelm continues under a veneer of self-awareness → "great things at scale" stays aspirational
+- Expected outcome: Feedback that actually changes the internal state — not just tracks the pattern
 
 **Context**
 - Founder type: A

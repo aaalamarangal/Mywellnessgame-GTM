@@ -50,8 +50,8 @@ Signal → Bridge → Voice
 
 ## Step 2 — Bridge
 
-**What it is:** The connection between the founder's signal and the inertia they're stuck in.
-**This is the full message angle — three elements combined.**
+**What it is:** The connection between the founder's signal and what's actually at stake for them.
+**This is the full message angle — five elements combined.**
 
 ```
 1. Game:                Clarity / Action / Lesson
@@ -59,9 +59,15 @@ Signal → Bridge → Voice
 3. Where job breaks:    What specifically fails in their daily workflow
 4. Pre-intent symptoms: Raw felt language from the signal —
                         what they're experiencing before naming the problem
+5. ICP Motivator:       CONTROL / SPEED / CERTAINTY / RECOGNITION
+6. Real threat:         What does this friction threaten? (KPI, deadline, goal they need to prove)
+7. Expected outcome:    What does the founder want instead?
 ```
 
 **Pre-intent symptoms** = the emotional/experiential language in the signal before it's translated into a coaching need. This is what makes the message land — you respond to what they're feeling, not what you've diagnosed.
+
+**Pain alone doesn't drive action. Pain connected to a real threat does.** (Aleksander Radosevic)
+The bridge is complete only when you can name what the friction threatens and what the founder wants instead.
 
 **Inertia types:**
 ```
@@ -71,12 +77,23 @@ Signal → Bridge → Voice
 4. Not a priority    — nice to solve but not urgent right now
 ```
 
+**ICP Motivators:**
+```
+CONTROL     — needs systems that hold under pressure (Ops, Product, founders managing teams)
+SPEED       — under pressure to hit goals faster (Founders, Growth, Sales)
+CERTAINTY   — needs to make confident decisions with clear data (Finance, Strategy)
+RECOGNITION — needs their work to be seen, valued, proven (Marketing, Enablement, coaches)
+```
+
 **Checklist:**
 - [ ] What game are they in? (Clarity / Action / Lesson)
 - [ ] What inertia type are they defaulting to?
 - [ ] Where does the job break in their daily workflow?
 - [ ] What are the pre-intent symptoms? (exact language from their signal)
-- [ ] Can I combine all three in one message anchor sentence?
+- [ ] Which ICP motivator is under pressure? (CONTROL / SPEED / CERTAINTY / RECOGNITION)
+- [ ] What does this friction threaten? (real threat — specific, not vague)
+- [ ] What does the founder want instead? (expected outcome)
+- [ ] Can I combine all of this in one message anchor sentence?
 
 **If you can't check all boxes — you don't have a bridge yet. Don't write.**
 
