@@ -291,6 +291,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Profile:** https://www.linkedin.com/in/jordan-peace-fringe/
 **Signal link:** https://www.linkedin.com/posts/jordan-peace-fringe_leadership-employeeexperience-trust-activity-7432061976555610112-zmu3/
+**Comment link:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7432061876206841858?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7432061876206841858%2C7432083654106853376%29&replyUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7432061876206841858%2C7434855702671683584%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287432083654106853376%2Curn%3Ali%3AugcPost%3A7432061876206841858%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287434855702671683584%2Curn%3Ali%3AugcPost%3A7432061876206841858%29
 
 **Signal**
 > "I'm a flawed, overwhelmed human with five kids and ADHD trying to run a startup."
@@ -317,7 +318,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Tollgates**
 - T1 (sent March 4): Led with what I sensed ✅ — opened with his conviction ("nothing saves us but being real"), surfaced the internal gap, one question
-- T2 (check March 6): Due today. No reply received yet. What do my senses tell me about the silence? The message was strong — led with his exact language, surfaced the internal/external gap, one question. But Jordan is at a milestone moment (new post, conviction energy). The question asks about hard days — he may not be in that mode right now. Still within range. Monitor.
+- T2 (check March 6 — logged March 7): No reply received. Silence likely timing — conviction energy in the original post, question about hard days didn't match his state. Message was technically clean (led with his words, internal/external gap, one question). Monitor for new signal. New signal appeared March 7 on Brandon Sammut's AI accountability post — Interaction 2 logged.
 - T3 (reply received):
 
 **What I learned:**
@@ -516,6 +517,46 @@ He answered "how do you see it early?" with real signals — but still universal
 - Job 1 done? Partial — if he says "hindsight," Job 1 is done. He will have named his own gap.
 - Use case: Ownership drift / team state tracking
 - Fit question asked: No
+
+**What I learned:**
+---
+
+## Jordan Peace — Interaction 2 — March 7, 2026
+
+**Profile:** https://www.linkedin.com/in/jordan-peace-fringe/
+**Influencer profile:** https://www.linkedin.com/in/brandon-sammut-8147b76/
+**Influencer post link:** https://www.linkedin.com/posts/brandon-sammut-8147b76_im-one-month-in-with-my-ai-accountability-share-7434389345064648704-ZwXm/
+**Comment link (Jordan's):** https://www.linkedin.com/feed/update/urn:li:activity:7434632434035453952?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7434632434035453952%2C7434751116145430528%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287434751116145430528%2Curn%3Ali%3Aactivity%3A7434632434035453952%29
+
+**Signal**
+> "Good point about the feedback not stinging as hard. There's a degree to which I care what an AI agent says to me about me (as it's helpful to spot trends/tendencies) but also I really don't care what an AI thinks of me. A useful paradigm in this case!"
+
+**Game:** Clarity
+**Credit building:** Clarity Credit
+
+**Message angle**
+- Inertia type: Ad hoc workaround — AI for pattern data, therapy for processing, radical transparency for external honesty. None of it stings. None of it moves the internal state.
+- Where job breaks: Recognising — can see the pattern (AI shows trends) but pattern-visible ≠ pattern-changed. Data ≠ regulation. Knowing the tendency doesn't break it.
+- Pre-intent symptoms: "I really don't care what an AI thinks of me" — has insulated himself from disruptive feedback; "helpful to spot trends/tendencies" — pattern data as substitute for actual change; "a useful paradigm" — coping resolution language, has made peace with a compromise
+
+**Context**
+- Founder type: A
+- Business type: B (Fringe — employee experience startup, has traction)
+- Situation: A+B
+- Coping or Blocked: Coping — "useful paradigm" framing shows resolution. But overwhelm from Interaction 1 is still live. Pattern-spotting without pattern-breaking.
+
+**Connection to Interaction 1 (March 4):**
+March 4 signal was about external honesty vs internal system. This new signal shows the mechanism he's using for the internal layer — AI accountability. It reveals exactly why the internal layer isn't working: the feedback is designed not to sting.
+
+**Message sent**
+> "'Helpful to spot trends, but I really don't care what it thinks of me' — that's a useful paradigm until the pattern needs to move. What kind of feedback actually changes things for you?"
+
+**Where posted:** Reply to Jordan's comment on Brandon Sammut's AI accountability post.
+
+**Tollgates**
+- T1 (sent March 7, 2026): Led with his exact words ✅ — surfaced the gap between pattern-visible and pattern-changed, one question, no pitch. 36 words.
+- T2 (check March 9, 2026):
+- T3 (reply received):
 
 **What I learned:**
 ---
