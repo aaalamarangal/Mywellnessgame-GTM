@@ -14,7 +14,7 @@ Before writing any post — read this file first.
 |---|---|---|---|---|
 | 1 | Founder replies — same pattern underneath | Value Creation — daily messaging | Published | [Post 1](https://www.linkedin.com/feed/update/urn:li:activity:7432100526374424576/) |
 | 2 | Regulation gap — founders track output, not state | Value Creation — daily messaging | Published | [Post 2](https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/) |
-| 3 | "It is building courage" — Sujith + Rana Naskar | Value Delivery — client breakthrough | Draft | — |
+| 3 | "It is building courage" — Sujith + Rana Naskar | Value Delivery — client breakthrough | Published | — |
 | 4 | Convincing vs existing — mental shortlist | GTM post — T. Bruining | Captured | — |
 | 5 | GTM filesystem — judgment vs execution | GTM post — Nico Druelle | Captured | — |
 | 6 | Automating tasks vs architecting systems | GTM post — Nemanja Stojisavljevic | Captured | — |

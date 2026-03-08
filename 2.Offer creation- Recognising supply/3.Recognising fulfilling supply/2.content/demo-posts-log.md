@@ -34,9 +34,9 @@ This tracks what was posted, what response it got, and what it taught.
 ## Entries
 
 ---
-## Post 3 — Draft C — "The discipline was always there. The visibility wasn't." — [DRAFT — not yet posted]
+## Post 3 — "The discipline was always there. The visibility wasn't." — March 8, 2026
 
-**Post link:** —
+**Post link:** https://www.linkedin.com/feed/update/urn:li:activity:7436424084780941312/
 **Game:** Action (the founder knows what to do — they can't see which one is the one)
 
 **Draft history:**

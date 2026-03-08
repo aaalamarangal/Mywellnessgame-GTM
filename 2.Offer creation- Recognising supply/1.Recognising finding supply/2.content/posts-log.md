@@ -206,6 +206,39 @@ What would your work look like if the one move was clear enough to pull you towa
 *(97 words)*
 
 ---
+## Post 3 — March 8, 2026
+
+**Link:** https://www.linkedin.com/feed/update/urn:li:activity:7436424084780941312/
+
+**Post text:**
+Most founders I talk to don't have a discipline problem.
+
+They show up. They have tools. Some at their desk at 5am.
+
+The problem: they cannot see which move matters today. Not generally. Specifically.
+
+When the move is visible — the pull replaces the push.
+
+A founder told me: "It is building courage."
+
+He didn't mean motivation. He meant he stopped pushing and started moving.
+
+The discipline was always there. The visibility wasn't.
+
+**Engagement:**
+- Impressions:
+- Comments:
+- Notable responses:
+
+**What worked:**
+- Lesson:
+- Next step:
+
+**What didn't work:**
+- Lesson:
+- Next step:
+
+---
 ## Post 2 — March 4, 2026
 
 **Link:** https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/
