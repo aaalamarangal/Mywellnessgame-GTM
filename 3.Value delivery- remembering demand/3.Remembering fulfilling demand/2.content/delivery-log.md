@@ -332,3 +332,102 @@ Tag 3 goes inline at Input 7, not in the header.
 **11. Journal (nano-focused):** (not yet complete)
 
 **12. Nano game progress:** (not yet complete)
+
+---
+
+## REVIEW SESSION — [SELF] Shiva — 2026-03-08
+
+**What was read:**
+- Rev-B (8th March) — 3 situations logged, planning game filled across all three leverage levels
+- Rem-B (8th March) — reflection columns not yet filled, day in progress
+
+**Step 1 — Recognise (Rev-B):**
+Three situations, three leverage levels — High-High (scraping), Medium (messaging OS), Low (inbound prep). Macro/Micro/Nano connected across all three. Constraint identification correct: [ACTION]/Tactics for scraping, [LESSON]/Workflows for messaging, [ACTION]/Tactics for documentation. Planning has sharpened — improvement from previous entries.
+
+Gap: Both High-High and Medium Pico outcomes are passive — "whichever provides the next post" and "when I get the post." Pico should be an action, not a readiness state. Next steps in the sheet ARE the actual Pico — should be written that way.
+
+**Step 2 — What actually happened (Rem-B):**
+8th March not yet filled — day in progress. Not a flag.
+
+**Step 3 — Journal:**
+Not yet filled. Day in progress.
+
+**Security flag:**
+GitHub password stored in Rem-B sheet — removed flag raised directly with Shiva.
+
+**Key observations:**
+1. Planning quality has improved — three leverage levels, correct constraints, connected game structure.
+2. Pico is passive — dependent on external input arriving rather than a defined action to take.
+3. Daily non-negotiable not yet confirmed — message sent status unknown at time of review.
+
+**Regulation state:** Cannot confirm from data. Planning is structured and clear — no signs of dysregulation in the setup.
+
+**Credits building:**
+- Clarity Credit: Building — game structure and constraint identification improving
+- Action Credit: Cannot assess — Rem-B not yet filled
+- Lesson Credit: In progress — [LESSON]/Workflows constraint correctly named for messaging
+
+---
+
+## REVIEW SESSION — [TEAM] Vinotha — 2026-03-08
+
+**What was read:**
+- Rev-B (7th March) — game structure filled but columns shifted
+- Rem-B (daily log since 22nd Jan) — work log format, not Q1/Q2 template
+
+**Step 1 — Recognise (Rev-B):**
+Macro/Micro/Nano connected. Work direction is right — building scraping system, converting tasks into skills. Constraint columns incorrectly filled — Pico outcome and Constraint type values are in wrong columns. She has not internalised the distinction between "what I will do today" (Pico) and "what is blocking me" (Constraint).
+
+**Step 2 — What actually happened (Rem-B):**
+Logging is happening daily since January — habit is present. Recent entries (3–7 March) show she is finding founders and posts on LinkedIn. Found Daniel Macros and Abdullah Al Noman from V-New list. Found 2 productivity posts (6 Mar). Found 5 founders from a post Shiva sent, identified 3 commenters (3 Mar). Also logged: posts found do not meet the defined parameters (founder + personal productivity + pre-intent symptoms).
+
+**Step 3 — Journal:**
+No separate journal column. Reflection is embedded in "What happened" column — descriptive, not learning-level.
+
+**Key observations:**
+1. Work is happening — unlike Sujith, the daily logging habit is built. But reflection is at description level, not learning level.
+2. Qualification gap is the constraint — she knows the parameters but cannot find posts with pre-intent symptoms. She has not seen enough real examples to recognise them on sight. Clarity constraint.
+3. Rev-B columns are shifted — Pico and Constraint fields filled incorrectly. Needs one walk-through to correct.
+
+**Regulation state:** Stable — consistent daily logging, no signs of dysregulation in language.
+
+**Two moves for Shiva:**
+1. Show Vinotha one qualifying post — not the parameters, the actual post. Let her see what a pre-intent symptom looks like in real language.
+2. Walk her through Rev-B column structure — difference between Pico outcome and Constraint type.
+
+**Credits building:**
+- Clarity Credit: In progress — scraping technique learned, but qualification criteria not yet internalised
+- Action Credit: Partial — daily tasks completed, posts found, but none qualifying yet
+- Lesson Credit: Weak — reflection is descriptive not pattern-level
+
+---
+
+## REVIEW SESSION — [CLIENT] Sujith — 2026-03-08
+
+**What was read:**
+- Rev-B (7th March) — 4 situations logged, planning game filled
+- Rem-B (7th March) — 14 tasks listed, zero reflection filled
+
+**Step 1 — Recognise:**
+Planning is happening. Two clear situations identified — both connected to Macro game. Constraint type correctly identified as [CLARITY] / Concepts across all entries. This is good. The game structure is being used.
+
+**Step 2 — What actually happened:**
+Rem-B reflection is completely empty. Q1, Q1a, Q1b, Q2, Q2a, Q2b — all blank. Diagnostic column (context/content/formula) not filled for any row. Status (Y/N) not filled. The assessment did not happen on 7th March.
+
+**Step 3 — Journal:**
+Cannot assess. The reflection loop broke before the journal was reached.
+
+**Key observations:**
+1. The list problem — 14 tasks logged for one day. No ONE THING identified. The sheet is being used as a todo list, not as a game structure.
+2. The reflection habit is not built yet — planning happened, assessment did not. Without Q1/Q2 there is no subtract/divide or add/multiply signal. No reflection = no learning loop.
+3. Matches Pattern 3 (concepts not internalised) and Pattern 4 (time blocking not happening) from client-sujith.md.
+
+**Regulation state:** Cannot confirm from data. Empty reflection is a possible dysregulation signal — the day may have run away from him.
+
+**Coaching question to surface to Sujith:**
+"You filled the plan. Did you fill the reflection? If not — what stopped you from coming back to the sheet after the day?"
+
+**Credits building:**
+- Clarity Credit: In progress — constraint identification is improving (correctly naming [CLARITY] / Concepts)
+- Action Credit: Cannot assess — no status filled
+- Lesson Credit: Blocked — no reflection = no learning extracted

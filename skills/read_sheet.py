@@ -44,7 +44,7 @@ def read_sheet(spreadsheet_id, tab_name):
     for row in rows[header_idx + 1:]:
         padded = row + [''] * (len(headers) - len(row))
         data.append(dict(zip(headers, padded)))
-    print(json.dumps(data, indent=2, ensure_ascii=False))
+    print(json.dumps(data, indent=2, ensure_ascii=True))
 
 
 if __name__ == '__main__':
