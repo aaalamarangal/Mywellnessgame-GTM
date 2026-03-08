@@ -83,3 +83,17 @@ Core technique: Trusted contacts running adjacent GTM processes surface founder 
 Where it applies: Sourcing method 7 — Trusted Contact Referral
 How to apply: Who in your network is doing similar scraping or content work? Are you sharing signals with each other?
 Post: https://www.linkedin.com/posts/tim-scheuer-91b005237_i-accidentally-became-a-1-person-ai-saas-activity-7416736135135260672-Qmzx/
+
+Source: Rob Snyder
+Core technique: Engaging with Rob Snyder's posts surfaces founders who are active in the productivity/GTM coaching space. Ross Geiger was found in Rob Snyder's comments — Thenuka was found through that same network circle.
+Where it applies: Sourcing method 2 — LinkedIn Algorithm Influencer Network Effect
+How to apply: Go to Rob Snyder's recent posts. Find founders commenting. Visit their profiles. Check for personal productivity signals.
+Founders found: Ross Geiger, Thenuka Karunaratne
+Profile: https://www.linkedin.com/in/rob-snyder/
+
+Source: Brandon Sammut
+Core technique: Engaging with Brandon Sammut's posts surfaces founders discussing AI productivity and accountability systems. Jordan Peace was found in Brandon's comments — twice.
+Where it applies: Sourcing method 2 — LinkedIn Algorithm Influencer Network Effect
+How to apply: Go to Brandon Sammut's recent posts. Find founders commenting on AI and productivity themes. Visit their profiles. Check for personal productivity signals.
+Founders found: Jordan Peace (Interaction 1 and Interaction 2)
+Profile: https://www.linkedin.com/in/brandon-sammut-8147b76/

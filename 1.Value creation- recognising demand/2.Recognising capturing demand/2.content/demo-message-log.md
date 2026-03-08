@@ -16,6 +16,8 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 ## [Founder Name] — [Date]
 
 **Profile:** [LinkedIn URL]
+**Sourcing method:** [Method 1 / 2 / 3 / 4 / 5 / 6 / 7 — name it]
+**Influencer / Event:** [Name — if Method 2, 4, or 5; leave blank otherwise]
 **Post link:** [URL of the post where signal was found]
 **Comment link:** [URL of the specific comment Shiva posted]
 **Influencer profile:** [URL — if found via influencer; leave blank if not applicable]
@@ -90,6 +92,8 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 **Profile:** https://www.linkedin.com/in/thenuka/
 **Signal link:** https://www.linkedin.com/posts/thenuka_running-a-company-doesnt-get-easier-or-harder-activity-7428128336528416769-r6JV/
 **Message link:** https://www.linkedin.com/feed/update/urn:li:activity:7428128336528416769?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7428128336528416769%2C7428177268222619649%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7428128336528416769%2C7432033974539071490%29
+**Sourcing method:** Method 2 — Influencer Network Effect
+**Influencer:** Rob Snyder — Ross Geiger was found engaging in Rob Snyder's posts. Thenuka was found through that same network circle.
 
 **Signal**
 > "Most of what feels hard hasn't actually been about the stage of the company, or even the problem we're facing. The bigger factor has been how I relate to the problem... it comes from the story we attach to it."
@@ -170,6 +174,8 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 **Profile:** https://www.linkedin.com/in/rossgeiger1/
 **Signal link:** https://www.linkedin.com/feed/update/urn:li:activity:7428128336528416769?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7428128336528416769%2C7428263854683414528%29
 **Message link (DM):** https://www.linkedin.com/messaging/thread/2-OWViNjE1M2EtOTI1OC00MTI5LWI2MzUtNWM4MTJmMmYxMmQzXzEwMA==/
+**Sourcing method:** Method 2 — Influencer Network Effect
+**Influencer:** Rob Snyder — found Ross engaging in Rob Snyder's posts.
 
 **Signal**
 > "Wish this was my usual state!"
@@ -313,6 +319,8 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 **Profile:** https://www.linkedin.com/in/jordan-peace-fringe/
 **Signal link:** https://www.linkedin.com/posts/jordan-peace-fringe_leadership-employeeexperience-trust-activity-7432061976555610112-zmu3/
 **Comment link:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7432061876206841858?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7432061876206841858%2C7432083654106853376%29&replyUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7432061876206841858%2C7434855702671683584%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287432083654106853376%2Curn%3Ali%3AugcPost%3A7432061876206841858%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287434855702671683584%2Curn%3Ali%3AugcPost%3A7432061876206841858%29
+**Sourcing method:** Method 2 — Influencer Network Effect
+**Influencer:** Brandon Sammut — found Jordan engaging in Brandon Sammut's posts.
 
 **Signal**
 > "I'm a flawed, overwhelmed human with five kids and ADHD trying to run a startup."
@@ -389,6 +397,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 **Profile:** https://www.linkedin.com/in/manaalmaniyar/
 **Signal link:** https://www.linkedin.com/posts/manaalmaniyar_as-a-founder-i-almost-quit-more-times-than-activity-7433091371537870848--T_6/
 **Where posted:** Reply on Robert Groenendijk's comment thread — where Manaal said "milestones are just a rare blip in the otherwise pretty messy journey."
+**Sourcing method:** Method 5 — Events (Magic AI Festival)
 
 **Signal**
 > "I almost quit more times than I can count. Not in theory. The real kind."
