@@ -82,6 +82,130 @@ Sound familiar? What breaks your usual state?
 - Sujith Ayyappan — https://www.linkedin.com/in/sujith-ayyappan/
 
 ---
+## Post Arc — 5 Drafts [DRAFT — not published]
+*Written March 8, 2026. Arc moves: Problem → Why solutions fail → Misdirected effort → The pivot → Proof.*
+*Writing order: Post 2 first (field-validated), then Post 1 (orchestrator), then 3 and 5.*
+
+---
+### Arc Post 2 — The Gap (Lesson Game) [DRAFT]
+**Source:** Rana Naskar — replied on Shiva's Post 2: "Most founders can track their output. Almost none can track their state."
+**Arc position:** Post 2 — names the problem without jargon
+
+**Draft text:**
+You show up. You ship. You track the metrics.
+
+Outputs — revenue, tasks, calls — these are measurable.
+
+But there's a layer underneath outputs that almost no one tracks.
+
+State.
+
+How you were when you built that. What preceded the sharp thinking. What drained the focus before it dropped.
+
+Most founders can track their output. Almost none can track their state.
+
+That gap is quietly running the show.
+
+What would change if you could see your state dropping before the output dropped?
+
+*(85 words)*
+
+---
+### Arc Post 1 — The Orchestrator (Action Game) [DRAFT]
+**Source:** Riccardo Pellegrini — swarm of agents vs unified product
+**Arc position:** Post 4 in arc sequence — the pivot from problem to concept
+
+**Draft text:**
+Most founders I talk to don't have too few habits.
+
+They have too many — with nothing orchestrating them.
+
+A morning routine. A goal tracker. A system for the system.
+
+Everything feels relevant. Nothing feels clear.
+
+That's not a habits problem. That's an orchestration problem.
+
+One move is what the situation is calling for right now. Not ten improvements — one move.
+
+The question isn't "what am I not doing?" It's "what is the situation actually asking for?"
+
+What is the one move your current situation is asking for?
+
+*(89 words)*
+
+---
+### Arc Post 3 — Tool-Shaped Systems (Clarity Game) [DRAFT]
+**Source:** Wade Foster (tool-shaped objects) + Stephen Whitworth (Claude Code OS, no wellbeing layer)
+**Arc position:** Post 3 in arc — why existing attempts fail
+
+**Draft text:**
+Most founders I know have a productivity system.
+
+The problem isn't the system.
+
+The system tracks tasks. It doesn't track the state that produces them.
+
+I've noticed something: on the days a founder's state drops, the system doesn't help. It adds friction.
+
+Old thinking: "I need a better system."
+
+What I'm experimenting with: "I need the regulation layer the system is sitting on."
+
+The system is only as strong as the state beneath it.
+
+What happens to your system on the days your state drops?
+
+*(88 words)*
+
+---
+### Arc Post 4 — The Wrong Hill (Clarity Game) [DRAFT]
+**Source:** Joe Rhew — outbound as hill climbing, local vs global maximum
+**Arc position:** Post 3 in arc — why the effort itself is misdirected
+
+**Draft text:**
+You've tried journaling. Time-blocking. The 5am start. The deep work block.
+
+Each one improved something.
+
+But here's what I've noticed: if your starting state is already compromised, every optimisation is a local maximum.
+
+You're climbing better — but you're on the wrong hill.
+
+Regulation doesn't improve your position. It changes your starting point.
+
+The question isn't "how can I work better?" It's "what state am I starting from — and is that state actually accurate?"
+
+What if the problem isn't how you're working — it's where you're starting from?
+
+*(93 words)*
+
+---
+### Arc Post 5 — The Pull (Action Game) [DRAFT]
+**Source:** Client result — Sujith (principle only, no personal detail)
+**Arc position:** Post 5 — proof it works
+**Confidentiality:** Do not name Sujith or the smoking detail. Principle only.
+
+**Draft text:**
+Most founders I work with think their problem is discipline.
+
+I've found it rarely is.
+
+What I've seen: when the highest leverage move is clear — genuinely clear — the pull replaces the escape.
+
+Not because motivation arrived. Because the friction disappeared.
+
+Before: scattered, looking for an exit. Every distraction wins because nothing is pulling harder.
+
+After: one move, defined. Two hours without needing an exit.
+
+The Leverage Stack doesn't add discipline. It removes what was stopping it.
+
+What would your work look like if the one move was clear enough to pull you toward it?
+
+*(97 words)*
+
+---
 ## Post 2 — March 4, 2026
 
 **Link:** https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/

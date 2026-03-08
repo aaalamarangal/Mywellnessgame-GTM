@@ -12,7 +12,11 @@ Before writing any post — read this file first.
 
 | # | Inspiration | Source type | Stage | Post link |
 |---|---|---|---|---|
-| 1 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | Captured | — |
+| 1 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | Draft | — |
+| 2 | Most founders track output, not state | Field signal — Rana Naskar | Draft | — |
+| 3 | Tool-shaped productivity systems | GTM post — Wade Foster + field signal Stephen Whitworth | Draft | — |
+| 4 | Optimising from a broken starting point — wrong hill | GTM post — Joe Rhew | Draft | — |
+| 5 | The pull replaces the escape | Client result — Sujith | Draft | — |
 
 ---
 
