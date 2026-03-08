@@ -118,6 +118,35 @@ The invisible ROI is not doing more or doing faster — it's doing the work that
 Gaurav: "Instead of thinking: 'Let me code this.' I now think: 'Let me define this properly.'"
 This structure is transferable. Name the old way. Name the new way. Let the reader feel the shift.
 
+### From Draft C — What Made It Work
+
+### 6. Earn the quote before using it
+Don't open with a founder quote as the hook. No context = no weight.
+Set up the observation first. Then let the quote arrive. It lands harder when earned.
+Draft B violated this: "It is building courage." — reader had no idea who said it or why it mattered.
+Draft C fixed it: observation first, quote in the middle, insight at the close.
+
+### 7. Describe experience, not architecture
+Never name framework terms until trust is earned.
+Describe what the founder feels — not what the system is called.
+"They cannot see which move matters" — not "Clarity game constraint at Nano level."
+Founders recognise the feeling. They don't recognise the label.
+
+### 8. One idea, under 100 words
+Long posts explain. Short posts land.
+One idea, fully arrived at, is stronger than three ideas half-developed.
+If it needs more than 100 words, the idea is not clear enough yet.
+
+### 9. No P.S., no CTA
+The post does all the work.
+A P.S. breaks the spell — it signals you were pitching all along.
+If the insight lands, the right founder reaches out. No invitation needed.
+
+### 10. Close with the insight — not a question
+A question at the close invites response but weakens the landing.
+The insight itself is the close: "The discipline was always there. The visibility wasn't."
+Let it rest there. Don't ask for anything.
+
 ---
 
 ## Game-Specific Post Templates
