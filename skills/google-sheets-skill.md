@@ -83,6 +83,54 @@ python skills/read_sheet.py <sheet_id> "Rem-B"
 
 ---
 
+---
+
+## How to write to a sheet (append rows)
+
+Run this command from the repo root:
+
+```bash
+python skills/write_sheet.py <sheet_id> <tab_name> '<json_rows>'
+```
+
+Where `json_rows` is a JSON array of arrays. Each inner array = one row. Each element = one cell.
+
+### Add a Q&A entry — Open mode (question only, Shiva answers himself)
+```bash
+python skills/write_sheet.py 1OYnAoSfx5AsYnwwDiBFfNlogwTla0jBRdwGjqaFLiJg "Rewire" '[["8 Mar","Coach","Your question here","","Open"]]'
+```
+
+### Add a Q&A entry — Answered mode (question + answer from coaching context)
+```bash
+python skills/write_sheet.py 1OYnAoSfx5AsYnwwDiBFfNlogwTla0jBRdwGjqaFLiJg "Rewire" '[["8 Mar","Coach","Your question here","Your answer here","Answered"]]'
+```
+Use Answered mode when the answer is already clear from patterns in client-[name].md or delivery-log.md. Shiva can edit the answer in the sheet anytime.
+
+### Edit an existing row manually
+Open the sheet, find the row, type directly in the cell.
+
+---
+
+## Q&A Section — Rewire Tab
+
+Appended at the bottom of the Rewire tab (rows 22–25 on Shiva's sheet).
+
+| Column | Label in Q&A section |
+|---|---|
+| A | Date |
+| B | Asked by |
+| C | Question |
+| D | Answer |
+| E | Status (Open / Answered) |
+| F | (unused) |
+
+**Open mode:** Q only, col D blank, col E = "Open". Shiva writes his own answer in the sheet.
+**Answered mode:** Q + A both filled from coaching context, col E = "Answered". Shiva confirms or edits.
+**To edit any entry:** Open the sheet, type directly in the cell.
+**To read all Q&A:** Ask Claude "Read the Q&A section from the Rewire tab."
+
+---
+
 ## First-time setup
 
 If the libraries are not installed, run:
@@ -90,4 +138,6 @@ If the libraries are not installed, run:
 pip install google-auth google-auth-httplib2 google-api-python-client
 ```
 
-Credentials file must be at: `credentials/google-sheets-key.json`
+Credentials file: `credentials/relaxedness-website-09b3a51b96a2.json`
+Service account: `claude-sheets@relaxedness-website.iam.gserviceaccount.com`
+Required permission: **Editor** on each sheet (not just Viewer).

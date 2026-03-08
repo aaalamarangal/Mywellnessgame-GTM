@@ -39,3 +39,7 @@ Claude does:
 7. Write new entries to `2.content/delivery-log.md` with correct tags
 8. Update `1.context/client-[name].md` if new patterns are emerging
 9. Surface key observations in chat — regulation state, credits building, patterns to flag
+10. Check if any pattern warrants a Q&A entry to the Rewire tab (Shiva's sheet only):
+    - Answer already clear from coaching context → use Answered mode (Q + A pre-filled, Status: Answered)
+    - Shiva needs to generate the answer → use Open mode (Q only, Status: Open)
+    - Run `write_sheet.py` to append. See `skills/google-sheets-skill.md` for commands.

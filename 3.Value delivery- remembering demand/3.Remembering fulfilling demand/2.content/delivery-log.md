@@ -335,6 +335,58 @@ Tag 3 goes inline at Input 7, not in the header.
 
 ---
 
+## REVIEW SESSION — [SELF] Shiva — 2026-03-08 (Session 2 — end of day)
+
+**What was read:**
+- Rev-B (8th March) — 3 situations, planning filled across all three leverage levels
+- Rem-B (8th March) — reflection not yet filled (empty for today)
+- Rev-B (7th March) — 2 journals filled, closing data from yesterday
+
+**Step 1 — Recognise (Rev-B 8th March):**
+
+Three situations logged — High, Medium, Low. Macro/Micro/Nano connected across all three. Constraint identification correct: Action/Tactics for High (scraping), Lesson/Workflows for Medium (messaging OS), Action/Tactics for Low (documentation).
+
+**Pico passive — recurring pattern (third session in a row):**
+- High Pico: "Which ever provides the next founder post, I can scrape them" — readiness state, not action
+- Medium Pico: "When I get the post, I can message using claude code" — readiness state, not action
+- Low Pico: "Study the post from Jason Gong and add them to scraping data" — this IS an action (correct)
+- In all three situations, the next step field contains the real Pico. The Pico field is where it belongs — not next steps.
+
+**Step 2 — What actually happened (Rem-B 8th March):**
+Reflection not filled. Day in progress or assessment not done. Cannot assess.
+
+**Step 3 — Journal (8th March):**
+Not filled. Day in progress. Cannot assess.
+
+**From 7th March closing data (most recent complete day):**
+
+Journal 1 (High-High — interns/scraping): "I can see that they are clearly committed to doing this and Im not yet making time to do this well. I have defined the parameters clearly for us to scrape new and old founder prospects and that was meaningful to do. She started doing them and we can continue to do them in the coming days."
+→ Learning is named: bottleneck is Shiva's own time, not team capability.
+→ But journal ends with delegation forward — "she started, we continue." No concrete action owned by Shiva.
+→ Status = Yes, Progress = No (Incomplete).
+
+Journal 2 (LinkedIn algorithm): "When I looking for tim post, I was able to get yogeswaran post and I can focus on messaging him tomo."
+→ Event description, not learning. What made the algorithm surface Yogeswaran? What will Shiva do to make this repeatable?
+→ Status = Yes, Progress = Yes (Complete).
+→ Important: "focus on messaging him tomo" = today (8th March). Is the message sent?
+
+**Key observations:**
+1. Pico passive problem persists — three sessions flagged, not yet corrected for High and Medium. Fix: write the next step AS the Pico. The Pico field and the next steps field should contain the same action.
+2. Lesson Credit building in journal 1 — he named the real constraint (his own time). But he didn't own a next step. The credit won't fully build unless the action follows.
+3. 7th March journal 2 surfaces Yogeswaran as a live lead. "Messaging him tomo" was written yesterday. Today's message status is unknown — flag to confirm.
+
+**Regulation state:** Stable — language in journals is clear and self-aware. No dysregulation signals.
+
+**Credits building:**
+- Clarity Credit: Building — constraint identification and game structure holding across sessions
+- Action Credit: Partial — one Pico completed (LinkedIn), one not (interns). Today's status unknown.
+- Lesson Credit: In progress — journal 1 names real constraint. Needs action to complete the loop.
+
+**One question for Shiva:**
+Did you send the message to Yogeswaran today?
+
+---
+
 ## REVIEW SESSION — [SELF] Shiva — 2026-03-08
 
 **What was read:**

@@ -34,4 +34,4 @@ Each suggestion connects to a pattern observed in delivery-log.md or Remember-Wo
 
 **Connected to:** Action constraint — Habits Formation (one of the 5 first principles). Regulation is the Inner Game of Work layer.
 
-**Status:** Not yet shared
+**Status:** Shared — 8 Mar 2026 (added to Rewire tab Q&A, Status: Open)
