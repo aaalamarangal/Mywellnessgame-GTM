@@ -483,3 +483,129 @@ Cannot assess. The reflection loop broke before the journal was reached.
 - Clarity Credit: In progress — constraint identification is improving (correctly naming [CLARITY] / Concepts)
 - Action Credit: Cannot assess — no status filled
 - Lesson Credit: Blocked — no reflection = no learning extracted
+
+---
+
+## REVIEW SESSION — [SELF] Shiva — 2026-03-09 (March 7, 8, 9 — All Six Tabs)
+
+**What was read:**
+- Rev-B (7, 8, 9 March) — acute planning across High / Medium / Low
+- Rem-B (7, 8, 9 March) — acute reflection
+- Rev-L (7, 8, 9 March) — sub-acute planning (value delivery)
+- Rem-L (7, 8, 9 March) — sub-acute reflection
+- Rev-D (7, 8, 9 March) — chronic planning (intern pipeline + post pipeline)
+- Rem-D (7, 8, 9 March) — chronic reflection
+
+---
+
+**ACUTE (Rev-B / Rem-B):**
+
+Step 1 — Recognise:
+Three situations consistent across all 3 days — High (scraping), Medium (messaging), Low (documentation). Game structure holding. Constraints correctly identified.
+Pico passive still present on 9th March for High and Medium. The real Pico is in the next steps column each time — it needs to move up to the Pico field. 4th session flagged.
+
+Step 2 — What happened:
+7th March: Team scraping = No (not making time). LinkedIn algorithm = Yes (found Yogeswaran). Messaging = Yes (Tim sent).
+8th March: All 3 leverage levels = Status Yes + Progress Yes. Recovery. 10 founders listed, Ross Geiger comment written, Nick Ang drafted, Jason Gong studied.
+9th March: Rem-B not yet filled — day in progress.
+
+Step 3 — Journal:
+8th March journals are the strongest across all 3 days. Language is specific and learning-level at each leverage tier.
+7th March team scraping journal names the real constraint ("Im not yet making time") but no owned next step follows — same pattern 3 prior sessions.
+
+---
+
+**SUB-ACUTE (Rev-L / Rem-L):**
+
+Step 1 — Recognise:
+Tracks value delivery for Sujith (High) and Vinotha (Medium). Lesson/Workflows constraint consistent across all 3 days. Game structure cleanly connected: Macro (AI native system in Claude Code) → Micro (daily review via Sheets + Claude) → Nano (daily accountability per person).
+
+Step 2 — What happened:
+7th March: Yes — Sujith updated, Vinotha supported on RRR gaps, patterns added to client-sujith.md.
+8th March: Yes — "gaining understanding through the framework and claude code analysis."
+9th March (completed this session): Google Sheets API set up. Status Yes + Progress Yes. Journal: "We were able to set up a system. The framework got evolved and its even more tighter now."
+
+Step 3 — Journal:
+Sub-acute journals are the most learning-level across all three dimensions. System understanding deepens session by session. Today's entry (Breadth/Length/Depth naming + Google Sheets API) = genuine Lesson Credit. Conceptual structure and technical tool are now aligned.
+
+---
+
+**CHRONIC (Rev-D / Rem-D):**
+
+Step 1 — Recognise:
+High: Intern pipeline (Smilkha hiring) — Action/Tactics. Same Pico written 7th, 8th, 9th March: "Smilkha defining next steps on mail." Nothing has moved.
+Medium: Demo posting pipeline — Action/Tactics. Nano: "Keep developing next post angle from 4 sources."
+
+Step 2 — What happened:
+Intern pipeline (High): Status NA across all 3 days. Not engaged. No reflection filled. No Q1/Q2.
+Post pipeline (Medium): 7th NA → 8th Yes (post published, "didn't get necessary traction") → 9th not yet filled.
+
+Step 3 — Journal:
+Intern pipeline has no journal across 3 days. Situation logged, next step written — reflection loop never runs.
+
+---
+
+**Cross-dimension:**
+1. Lesson/Workflows is Shiva's natural working zone. Progress is strongest where constraint is Lesson/Workflows. Where constraint is Action/Tactics (scraping, intern hiring), progress is inconsistent.
+2. Chronic intern pipeline is the deepest stuck debt — NA for 3 consecutive days, no reflection. Breadth (team scraping in Rev-B High) and Depth (intern pipeline in Rev-D High) are connected — Breadth won't fully resolve until Depth moves.
+3. Sub-acute system upgrade today is significant — Google Sheets API operational, framework naming tightened. Clear Lesson Credit.
+4. Pico passive: 4th session flagged, not corrected in the Pico field.
+
+**Credits building:**
+- Clarity Credit: Building strongly — framework tightening, constraints correctly named, Google Sheets API operational
+- Action Credit: Partial — Messaging (acute Medium) consistently complete. Team scraping + intern hiring stuck.
+- Lesson Credit: Uneven — Sub-acute strong (learning-level journals). Chronic High = zero (no reflection).
+
+---
+
+## DIAGNOSIS — [SELF] Shiva — March 7 & 8
+
+### What went well
+
+**Messaging (Acute Medium) — both days complete**
+- March 7: Tim message sent. Meaningful with newly evolved context.
+- March 8: Ross Geiger demo comment written. Nick Ang drafted.
+- Most consistent nano game. Messaging muscle building.
+
+**Team scraping recovery (Acute High)**
+- March 7: Progress No — "Im not yet making time."
+- March 8: Progress Yes — 10 founders listed, 12 posts identified.
+- Named the constraint on 7th, acted on 8th. Loop working.
+
+**Documentation (Acute Low) — both days complete**
+- March 7: Scraping methods documented, Sujith support systems added.
+- March 8: Jason Gong post studied, Trigify understood.
+- Low leverage Pico is always written as an action — only tier where Pico is consistently correct.
+
+**Sub-acute value delivery (Rev-L / Rem-L) — both days**
+- March 7: Sujith integrated into Claude Code. Vinotha supported on RRR gaps.
+- March 8: Understanding deepening through framework and Claude Code analysis.
+- Journals are learning-level. Lesson Credit building here.
+
+**Post pipeline (Chronic Medium) — March 8**
+- Post arc structured. One post published.
+- Journal honest: "didn't get necessary traction." No dressing it up. Healthy signal.
+
+### What didn't go well
+
+**Pico passive — both days (Acute High + Medium)**
+- March 7 High: "When the LinkedIn algorithm blesses us"
+- March 7 Medium: "When I get the post, I can message using Claude Code"
+- March 8 High: "Whichever provides the next founder post, I can scrape them"
+- Real Pico is in the next steps column every time. Has not moved to the Pico field across 4+ sessions.
+
+**Team scraping March 7 — no ownership after naming the constraint**
+- Journal names the real gap ("Im not yet making time") but no specific next step owned by Shiva.
+- Lesson Credit builds to the edge but doesn't close.
+
+**Chronic Intern pipeline (Rev-D High) — both days**
+- March 7: Status NA. No reflection.
+- March 8: Status NA. No reflection.
+- Same Pico written both days. Nothing moved. No Q1/Q2 in Rem-D.
+- Deepest stuck situation — logged but never engaged with.
+
+### Pattern underneath it all
+
+Works well through Lesson/Workflows constraints (messaging, value delivery, documentation) — progress consistent, journals learning-level.
+Gets stuck on Action/Tactics constraints (team scraping, intern hiring) — Pico stays passive, reflection stays empty.
+Gap is not capability. Gap is the moment of committing to a specific action in the Pico field — not "when it happens" but "I will do this today."

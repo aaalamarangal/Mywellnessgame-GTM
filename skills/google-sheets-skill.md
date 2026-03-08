@@ -17,13 +17,27 @@ Use this at the start of every > REVIEW session.
 
 ---
 
-## Three tabs per sheet
+## Three tabs per sheet (Sujith and Vinotha)
 
 | Tab | Stands for | Who fills it | Status |
 |---|---|---|---|
-| Rev-B | Reviewing | The person | Active — read in every REVIEW session |
-| Rem-B | Remembering | The person | Active — read in every REVIEW session |
+| Rev-B | Reviewing Breadth (Acute debt) | The person | Active — read in every REVIEW session |
+| Rem-B | Remembering Breadth (Acute debt) | The person | Active — read in every REVIEW session |
 | Rec-B | Recognising | Claude (coaching output) | Built through coaching — not an input |
+
+## Six tabs — Shiva only
+
+Shiva has three dimensions of debt, each with a Reviewing and Remembering tab.
+Shiva fills all tabs manually. Claude reads and diagnoses patterns.
+
+| Tab | Full name | Debt type | Template |
+|---|---|---|---|
+| Rev-B | Reviewing Breadth | Acute — work through immediately | Rev-B column map (A–M) |
+| Rem-B | Remembering Breadth | Acute | Rem-B column map (A–K) |
+| Rev-L | Reviewing Length | Sub-acute — neither acute nor chronic | Same as Rev-B (A–M) |
+| Rem-L | Remembering Length | Sub-acute | Same as Rem-B (A–K) |
+| Rev-D | Reviewing Depth | Chronic — deep-rooted, long-standing | Same as Rev-B (A–M) |
+| Rem-D | Remembering Depth | Chronic | Same as Rem-B (A–K) |
 
 ## How to read a sheet
 
@@ -33,19 +47,46 @@ Run this command from the repo root:
 python skills/read_sheet.py <sheet_id> <tab_name>
 ```
 
-### Read Rev-B tab (reviewing — planning game)
+### Read Rev-B tab (acute — planning game)
 ```bash
 python skills/read_sheet.py <sheet_id> "Rev-B"
 ```
 
-### Read Rem-B tab (remembering — reflection game)
+### Read Rem-B tab (acute — reflection game)
 ```bash
-python skills/read_sheet.py <sheet_id> "Rem-B"
+python skills/read_sheet.py <sheet_id> "Rem- B"
+```
+Note: The tab name has a space — "Rem- B" not "Rem-B". Confirm exact tab name before reading.
+
+### Read Rev-L tab (sub-acute — planning game) — Shiva only
+```bash
+python skills/read_sheet.py <sheet_id> "Rev-L"
+```
+
+### Read Rem-L tab (sub-acute — reflection game) — Shiva only
+```bash
+python skills/read_sheet.py <sheet_id> "Rem-L"
+```
+
+### Read Rev-D tab (chronic — planning game) — Shiva only
+```bash
+python skills/read_sheet.py <sheet_id> "Rev-D"
+```
+
+### Read Rem-D tab (chronic — reflection game) — Shiva only
+```bash
+python skills/read_sheet.py <sheet_id> "Rem-D"
 ```
 
 ---
 
-## Rev-B Column Map (Planning Game)
+## Column Maps
+
+Rev-L, Rev-D use the same column map as Rev-B (A–M).
+Rem-L, Rem-D use the same column map as Rem-B (A–K).
+The debt type (acute / sub-acute / chronic) determines which tab the row goes in — not the structure.
+
+## Rev-B Column Map (Planning Game — also applies to Rev-L and Rev-D)
 
 | Column | Name | What it means |
 |---|---|---|
@@ -65,7 +106,7 @@ python skills/read_sheet.py <sheet_id> "Rem-B"
 
 ---
 
-## Rem-B Column Map (Reflection Game)
+## Rem-B Column Map (Reflection Game — also applies to Rem-L and Rem-D)
 
 | Column | Name | What it means |
 |---|---|---|

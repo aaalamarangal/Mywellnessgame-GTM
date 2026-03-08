@@ -29,17 +29,56 @@ Shiva shares: client name (e.g., `> REVIEW: Sujith`)
 Claude does:
 1. Read `1.context/coaching-methodology.md` — understand the 3-step sequence
 2. Read `1.context/client-[name].md` — load the client's current context
-3. Pull today's rows from Review-work sheet (B–J) — what was planned
-4. Pull today's rows from Remember-Work sheet (C–J) — what actually happened
-5. Read Review-work column M — journal entries
-6. Run the 3-step coaching sequence against the data:
-   - Step 1 (Recognise): is the nano connected to macro? constraint correct? next steps specific?
+3. Pull today's rows from Rev-B (acute planning) — what was planned
+4. Pull today's rows from Rem-B (acute reflection) — what actually happened, including journal (column M)
+5. Run the 3-step coaching sequence against acute (B) data:
+   - Step 1 (Recognise): nano connected to macro? constraint correct? next steps specific?
    - Step 2 (What happened): learning or description? regulate or dysregulate? subtract/divide or add/multiply?
    - Step 3 (Journal): pattern or event? which credit is building?
-7. Write new entries to `2.content/delivery-log.md` with correct tags
-8. Update `1.context/client-[name].md` if new patterns are emerging
-9. Surface key observations in chat — regulation state, credits building, patterns to flag
-10. Check if any pattern warrants a Q&A entry to the Rewire tab (Shiva's sheet only):
+
+**For > REVIEW: Shiva only — also read the L and D debt tabs:**
+
+6. Pull today's rows from Rev-L (sub-acute planning) and Rem-L (sub-acute reflection)
+7. Run the same 3-step sequence against sub-acute (L) data
+8. Pull today's rows from Rev-D (chronic planning) and Rem-D (chronic reflection)
+9. Run the same 3-step sequence against chronic (D) data
+10. Cross-dimension diagnosis — check all three dimensions together:
+    - Same situation appearing in two different debt tabs? → possible misclassification or escalation
+    - Pattern healthy in one dimension, unhealthy in another? → surface the contrast
+    - Which credit (Clarity / Action / Lesson) is building vs stalling across all three?
+
+**Debt dimensions (Shiva's sheet only — not applicable to Sujith or Vinotha):**
+- B tabs (Rev-B / Rem-B) = Acute debt — work through immediately
+- L tabs (Rev-L / Rem-L) = Sub-acute debt — neither acute nor chronic, building
+- D tabs (Rev-D / Rem-D) = Chronic debt — deep-rooted, long-standing
+- Shiva fills all tabs manually. Claude reads and diagnoses healthy and unhealthy patterns.
+- All Rev-X tabs use the same column map as Rev-B (A–M). All Rem-X tabs use the same column map as Rem-B (A–K).
+- See `skills/google-sheets-skill.md` for read commands and column maps.
+
+**REVIEW output format for Shiva:**
+```
+ACUTE (Rev-B / Rem-B):
+[3-step coaching output]
+
+SUB-ACUTE (Rev-L / Rem-L):
+[3-step coaching output]
+
+CHRONIC (Rev-D / Rem-D):
+[3-step coaching output]
+
+CROSS-DIMENSION:
+[Patterns, escalations, or contrasts across all three]
+
+Credits building:
+- Clarity: [assessment]
+- Action: [assessment]
+- Lesson: [assessment]
+```
+
+11. Write new entries to `2.content/delivery-log.md` with correct tags
+12. Update `1.context/client-[name].md` if new patterns are emerging
+13. Surface key observations in chat — regulation state, credits building, patterns to flag
+14. Check if any pattern warrants a Q&A entry to the Rewire tab (Shiva's sheet only):
     - Answer already clear from coaching context → use Answered mode (Q + A pre-filled, Status: Answered)
     - Shiva needs to generate the answer → use Open mode (Q only, Status: Open)
     - Run `write_sheet.py` to append. See `skills/google-sheets-skill.md` for commands.
