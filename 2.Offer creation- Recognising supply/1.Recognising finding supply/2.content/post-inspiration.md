@@ -8,6 +8,14 @@ Before writing any post — read this file first.
 
 ---
 
+## Post Arc Tracker
+
+| # | Inspiration | Source type | Stage | Post link |
+|---|---|---|---|---|
+| 1 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | Captured | — |
+
+---
+
 ## Where Post Inspiration Comes From
 
 Three inputs. Use at least one before writing anything.
@@ -31,6 +39,32 @@ Three inputs. Use at least one before writing anything.
 | Nemanja Stojisavljevic | Automating tasks vs architecting systems | Founders have regulation sprawl, not a regulation system. "100 workflows ≠ a system" → 100 habits ≠ a system. "Sprawl turns into operational debt" → fragmented habits turn into regulation debt. "Do you have an automation architecture?" → "Do you have a regulation architecture?" | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7434511074839646208/) |
 | Wade Foster (Zapier CEO) | Judgment over creativity — AI curates better than we craft | "Tool-shaped objects: things that look like tools but don't actually solve a problem" → founders build tool-shaped productivity systems that don't actually regulate. "Creativity matters less. Judgment matters more." → Clarity game is judgment, not more ideas. "Less crafting, more curating" → the ONE THING is curation. | [Post](https://www.linkedin.com/posts/wadefoster_something-humbling-ive-learned-ais-ideas-share-7434598961170087936-eBSF/) |
 | Joe Rhew | Outbound as hill climbing — local vs global maximum | "You only explored the neighbourhood around where you started." "You don't know what you don't know." → founders optimise productivity from a broken starting point. Tweaking habits = local maximum. The Clarity game moves you to a different hill entirely. Regulation is not a tweak — it changes the starting point. | [Post](https://www.linkedin.com/posts/joerhew_ive-been-thinking-about-outbound-as-a-hill-share-7433178073635917824-gTR-/) |
+| Riccardo Pellegrini (CEO, Knode.ai) | Swarm of agents vs unified product | Founders don't want a swarm of habits — they want one orchestrating system. The Leverage Stack is the unified product. Founders don't need to understand the 3 games — they need to feel the ONE move is clear. | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7430328630276370432/) |
+
+---
+### Riccardo Pellegrini — Knode.ai — March 2026
+
+**Source:** https://www.linkedin.com/feed/update/urn:li:activity:7430328630276370432/
+**Topic:** Swarm of agents vs unified product — what customers actually want
+**Status:** Captured
+
+**Exact quote:**
+"Do you want a swarm of agents? or a simple, unified product that orchestrates them for you,
+so you don't have to understand what each sub-agent does?
+Most customers will strongly prefer the latter because it gets them to the business outcome
+faster, with less complexity."
+
+**Key insights for mywellnessgame:**
+
+1. Founders don't want a swarm of habits — they want one system that orchestrates them into a clear move.
+2. The Leverage Stack is not a new habit. It is the orchestrator. It takes what the founder already has and makes the highest leverage move visible.
+3. Founders buying the offer don't need to understand the 3 games. They need to feel the outcome: the one move is clear, the complexity is gone.
+4. "Faster, with less complexity" — this is the ONE THING promise. Not more productivity. Less friction between the founder and the move that matters.
+
+**Post angles (when ready):**
+- Most founders have a swarm of habits. The problem isn't the habits — it's that nothing orchestrates them into a clear move. The Leverage Stack is the orchestrator.
+- Customers want the outcome, not the architecture. They want to get to the result faster, with less complexity. That is what the ONE THING does.
+- The Leverage Stack is not a new tool. It makes your existing effort legible — so you stop managing a swarm and start making one move.
 
 ---
 

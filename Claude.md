@@ -234,7 +234,8 @@ Claude reads the folder it points to and runs the workflow defined there.
 | `> FOLLOW-UP` | Continue existing founder conversation | `3.Recognising fulfilling demand/CLAUDE.md` |
 | `> FINDING: [name]` | Post-finding lesson from influencer | `message-contexts/CLAUDE.md` |
 | `> ANGLE: [name]` | Messaging angle lesson from influencer | `message-contexts/CLAUDE.md` |
-| `> POST` | Write a GTM post | `3.Recognising fulfilling supply/CLAUDE.md` |
+| `> POST` | Write a GTM post — reads Post Arc Tracker in post-inspiration.md first | `3.Recognising fulfilling supply/CLAUDE.md` |
+| `> INSPIRATION` | Log external raw material for a post — GTM post, podcast, field insight | `1.Recognising finding supply/2.content/CLAUDE.md` |
 | `> T2` | Check 48h follow-ups | `2.Recognising capturing demand/CLAUDE.md` |
 | `> LOG` | Confirm message sent, run T1 | `2.Recognising capturing demand/CLAUDE.md` |
 | `> REVIEW: [name]` | Pull daily inputs for a client, read against coaching context, update delivery-log | `3.Remembering fulfilling demand/CLAUDE.md` |
