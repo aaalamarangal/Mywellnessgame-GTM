@@ -30,8 +30,12 @@ Claude does:
    - Bridge: Inertia type + where job breaks + pre-intent symptoms → one message anchor sentence
    - Voice: under 100 words, one question, leads with what you sensed — not the framework
 3. Write DRAFT entry to demo-message-log.md (marked [DRAFT — not sent])
-4. Summarize analysis in chat — short, no preamble
-5. Wait for Shiva to react before finalizing
+4. Show full diagnosis in chat — in this order:
+   a. Signal section (Game, Inertia type, pre-intent symptoms, Coping or Blocked)
+   b. Bridge section (where job breaks, ICP motivator, anchor sentence)
+   c. Three jobs layer — where Job 1 could land, what Job 2 looks like, what Job 3 signal to watch for
+   d. Draft message last — so Shiva reads the thinking first and decides on the words himself
+5. Wait for Shiva to react and confirm before finalizing
 (Process follows signal-comment.md — informed by signal-angle.md in the background)
 
 ### > T2

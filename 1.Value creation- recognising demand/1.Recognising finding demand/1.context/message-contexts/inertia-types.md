@@ -32,13 +32,15 @@ Types 2 and 3 both operate at the Remembering stage — the founder knows regula
 
 **What the founder says:** "I built my own system" / "I could build this myself"
 **Stage:** Recognising
-**What it means:** The gap in their system is invisible to them. They believe the problem is solved.
+**What it means:** The gap in their system is invisible to them. They believe the problem is solved. The bigger the system a founder builds, the more solved it looks — and the easier it is to miss that the regulation layer is still absent. Ross uses camping. Nick built an AI that writes his journal. Same gap underneath. Nick's is just harder to see.
 **Your counter:** Show what the system can't see about themselves — the regulation layer underneath that no system captures.
 **Founder type most likely here:** Founder A at Macro — acute stress, has tried to solve it themselves, still can't access the regulated state consistently
 **LinkedIn signal examples:**
 - Stephen Whitworth: "maybe I just give it my credit card and yolo" — built a full Claude Code OS, deflects when Dave's question exposed the regulation gap underneath it
 - Ross Geiger: "Wish this was my usual state!" — nature/camping is the internal solution, can't access it on demand
 - Leta Lista: "the founders who struggle most are usually stuck on one setting" — has her own status games framework, regulation layer underneath it is missing
+- Nick Ang (Interaction 2): "I literally feel like I have a friend and personal assistant that's always on now" — built Grogu (NanoClaw + Day One MCP), AI writes his journal and sends him reflection briefings. Grogu is the knower. Nick receives the output.
+- Alex Perelman: "my cc refuses to feel its feelings. a lifetime of heavy emotional suppression may need a stronger intervention to remove that blockage." — tried to use Claude Code for the emotional regulation layer. AI reflected his suppression back. Regulation has to live in the founder first.
 
 ---
 
@@ -106,4 +108,5 @@ It tells you what mental model you need to break before the founder will even co
 | Thenuka Karunaratne | Not a priority | Remembering | "how I relate to the problem... it comes from the story we attach to it" | Feb 2026 |
 | Christina Qi | Not a priority | Remembering | "That groundedness isn't a distraction from success, but a prerequisite" | March 2026 |
 | Nick Ang | Status quo | Reviewing | "I have no system for knowing if I'm actually doing what I say I do" | Feb 2026 |
+| Nick Ang | Internal solution | Recognising | "I literally feel like I have a friend and personal assistant that's always on" | March 2026 |
 | Rana Naskar | Status quo | Reviewing | "Most founders can track their output. Almost none can track their state." | March 2026 |

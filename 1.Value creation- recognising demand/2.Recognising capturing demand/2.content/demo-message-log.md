@@ -243,6 +243,64 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 **What I learned:** First Lesson game signal observed. All previous signals were Clarity. New data — the framework now has field evidence for two games.
 
 ---
+
+## Nick Ang — Interaction 2 — March 8, 2026 [DRAFT — not sent]
+
+**Profile:** https://www.linkedin.com/in/nickangtc/
+**Post link:** https://www.linkedin.com/posts/nickangtc_ok-so-grogu-my-nanoclaw-just-wrote-to-my-share-7436400264883982337-3EmJ
+**Sourcing method:** Method 2 — direct observation (returning founder)
+
+**Signal (exact):**
+> "I literally feel like I have a friend and personal assistant that's always on now, ready to engage with me and ready to do the plumbing for me."
+> "he sends me a 'reflection analysis briefing' every evening now"
+> "all done for me even before I thought of how to store it"
+> "the Soma of our times is endless entertainment"
+> "I might have unwittingly caught a glimpse of our collective first baby step into such a world"
+
+**Game:** Clarity
+**Credit building:** Clarity Credit
+
+**Connection to Interaction 1:**
+Interaction 1 gap: "I have no system for knowing if I'm actually doing what I say I do, or where the gaps are."
+Now: Grogu writes the journal, sends the briefing, stores the insight. The gap isn't solved — it's outsourced. Grogu is the knower. Nick is the recipient.
+
+**Message angle**
+- Inertia type: Internal solution — he built Grogu (NanoClaw + Day One MCP). The "stupid grin" is the tell. The gap feels solved.
+- Where job breaks: Recognising — he named the Soma parallel (AI doing things for you = passive consumption) but applied it to humanity, not to himself. Concept available, not yet applied to what he's living.
+- Pre-intent symptoms: "stupid grin" (dopamine from tool, not from insight), "all done for me" (passive receipt of own reflection), "a friend and personal assistant that's always on" (outsourced companionship + executive function), named Soma parallel without self-applying it
+- ICP Motivator: CERTAINTY — needs to know the system is working; Grogu now provides that certainty, but it's Grogu's certainty, not Nick's
+- Real threat: Previous gap (no system for knowing what he's doing) is now Grogu's job → Nick still doesn't know what adds up → Grogu's briefing replaces his own seeing
+- Expected outcome: Actually know what his habits and reflections add up to — not receive a briefing about it
+
+**Context**
+- Founder type: C (carry from Interaction 1)
+- Business type: B (provisional)
+- Coping or Blocked: Coping — excited, happy, the gap feels solved
+
+**Draft message [DRAFT — not sent]**
+> You named the Soma parallel mid-read. Then Grogu wrote the journal entry, stored the insight, sent the briefing. The grin is real — but Grogu did it. When Grogu writes to your journal, are you still the one who knows what it adds up to?
+
+**Word count:** 53 words. One question. Connects his own Soma insight to the question from Interaction 1.
+
+**Status: HOLDING — not sent**
+
+**Why holding:**
+Nick posted the comment then replied to himself twice celebrating Grogu ("Grogu and I speak the same language"). He was in high dopamine / celebration mode. The Soma question needs a reflective state, not a celebration state. Message is right. Timing was wrong.
+
+**When to resurface:**
+Next time Nick posts about Grogu — especially when something doesn't work as expected, or when he reflects rather than celebrates. Surface this draft immediately when that signal appears.
+
+**Tollgates**
+- T1: not sent
+- T2: not applicable
+- T3: not applicable
+
+**Notes from Interaction 1:** Previous message was 76 words, asked two things — no reply. This message: 53 words, one question.
+
+**What I learned:** Timing matters as much as the message. The right question at the wrong moment doesn't land. Wait for the reflective state, not the celebration state.
+
+---
+
 ## Stephen Whitworth — March 1, 2026
 
 **Profile:** https://www.linkedin.com/in/stephenwhitworth/
@@ -567,8 +625,57 @@ He answered "how do you see it early?" with real signals — but still universal
 - Fit question asked: No
 
 **What I learned:**
+
 ---
 
+## Ross Geiger — Interaction 2 — March 8, 2026
+
+**Profile:** https://www.linkedin.com/in/rossgeiger1/
+**Post link:** https://www.linkedin.com/feed/update/urn:li:activity:7435082397672554496/
+**Comment link:** (in Alex Perelman thread — to be added)
+**Sourcing method:** Method 2 — Influencer Network Effect
+**Influencer:** Rob Snyder — same sourcing as Interaction 1
+
+**Signal (exact):**
+Post:
+> "Just had the thought: 'I think Claude Code is becoming one of my best friends'. Either 1 of 2 things are true: (1) I need more friends (2) I need to see a therapist. Both are probably true..."
+
+Comment thread:
+> Ross: "we can get to the bottom of this...have your claude code talk to my claude code"
+> Alex Perelman: "i've tried but my cc refuses to feel its feelings. a lifetime of heavy emotional suppression may need a stronger intervention to remove that blockage."
+
+**Game:** Clarity
+**Credit building:** Clarity Credit
+
+**Message angle**
+- Inertia type: Internal solution — Claude Code is his system. The joke reveals the regulation gap underneath. Same pattern as Stephen Whitworth.
+- Where job breaks: Picking → Starting — regulation is external and tool-dependent. Ends when the conversation ends.
+- Pre-intent symptoms: humor as deflection, "both are probably true" = real acknowledgment underneath the joke, "have your cc talk to my cc" = regulation fully outsourced to AI
+- ICP Motivator: CERTAINTY — can't name whether this is fine or a problem; the joke is avoiding the question
+- Real threat: Regulation lives entirely in the AI. AI mirrors the founder's state — if suppressed, it reflects suppression back. Gap doesn't get fixed by more AI use.
+- Expected outcome: Access consistent regulation without the AI holding it
+
+**Context**
+- Founder type: A
+- Business type: Unknown (carry from Interaction 1)
+- Coping or Blocked: Coping — Claude Code is the workaround
+- Note: Second signal from Ross, same game confirmed. Alex Perelman in thread — founder coach, 2x YC, same gap.
+
+**Message sent**
+> Both of your Claude Codes are reflecting what's already there.
+> If the regulation isn't in you first, the AI can't provide it — it mirrors the gap.
+> What would it look like to not need the handoff?
+
+**Where posted:** Alex Perelman comment thread on Ross's post.
+
+**Tollgates**
+- T1 (sent March 8, 2026): Led with the sense ✅ — 38 words, referenced their pattern ("reflecting what's already there"), one question, no framework, no pitch. Entered a live thread where both were already engaged.
+- T2 (check March 10, 2026):
+- T3 (reply received):
+
+**What I learned:**
+
+---
 ## Tim Scheuer — March 7, 2026
 
 **Profile:** https://www.linkedin.com/in/tim-scheuer-91b005237/
@@ -608,6 +715,7 @@ He answered "how do you see it early?" with real signals — but still universal
 - T3 (reply received):
 
 **What I learned:**
+
 ---
 
 ## Jordan Peace — Interaction 2 — March 7, 2026
