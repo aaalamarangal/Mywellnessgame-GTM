@@ -12,11 +12,16 @@ Before writing any post — read this file first.
 
 | # | Inspiration | Source type | Stage | Post link |
 |---|---|---|---|---|
-| 1 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | Draft | — |
-| 2 | Most founders track output, not state | Field signal — Rana Naskar | Draft | — |
-| 3 | Tool-shaped productivity systems | GTM post — Wade Foster + field signal Stephen Whitworth | Draft | — |
-| 4 | Optimising from a broken starting point — wrong hill | GTM post — Joe Rhew | Draft | — |
-| 5 | The pull replaces the escape | Client result — Sujith | Draft | — |
+| 1 | Founder replies — same pattern underneath | Value Creation — daily messaging | Published | [Post 1](https://www.linkedin.com/feed/update/urn:li:activity:7432100526374424576/) |
+| 2 | Regulation gap — founders track output, not state | Value Creation — daily messaging | Published | [Post 2](https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/) |
+| 3 | "It is building courage" — Sujith + Rana Naskar | Value Delivery — client breakthrough | Draft | — |
+| 4 | Convincing vs existing — mental shortlist | GTM post — T. Bruining | Captured | — |
+| 5 | GTM filesystem — judgment vs execution | GTM post — Nico Druelle | Captured | — |
+| 6 | Automating tasks vs architecting systems | GTM post — Nemanja Stojisavljevic | Captured | — |
+| 7 | Judgment over creativity — tool-shaped objects | GTM post — Wade Foster | Captured | — |
+| 8 | Hill climbing — local vs global maximum | GTM post — Joe Rhew | Captured | — |
+| 9 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | Captured | — |
+| 10 | Neuroscience of learning — one hour doubles connections | Video/Podcast — Dr. Joe Dispenza | Captured | — |
 
 ---
 
