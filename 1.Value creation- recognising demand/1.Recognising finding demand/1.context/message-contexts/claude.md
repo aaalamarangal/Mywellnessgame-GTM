@@ -38,6 +38,25 @@ If your voice has more than one question or exceeds 100 words — rewrite before
 
 ---
 
+## Building Field Evidence — Standing Rule
+
+The goal is real conversation data for all four inertia types — not just signals.
+
+- A **signal** tells you which inertia type the founder has
+- A **conversation** tells you what actually breaks it
+
+Current state (March 2026):
+- Type 1 (Internal solution) — signals and conversations building ✅
+- Type 2 (Ad hoc workaround) — signals only, no replies yet
+- Type 3 (Not a priority) — signals only, no replies yet
+- Type 4 (Status quo) — signals only, Rana Naskar closest to conversation
+
+After every founder conversation — update the Observed table in inertia-types.md.
+When a reply comes in that breaks an inertia type — add it to the LinkedIn signal examples for that type.
+The framework only gets sharper through real field data. Update it every time.
+
+---
+
 ## Task Workflows
 
 ### > FINDING: [Influencer Name]
