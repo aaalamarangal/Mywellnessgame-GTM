@@ -27,6 +27,10 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 **Signal**
 > "[exact quote]"
 
+**Founder replies to comments**
+> "[exact words the founder said in reply to a comment — leave blank if none]"
+- What this reveals: [one sentence — how it sharpens or changes the signal]
+
 **Game:** Clarity / Action / Lesson
 **Credit building:** Clarity Credit / Action Credit / Lesson Credit
 
@@ -167,6 +171,47 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 - T3: No reply
 
 **What I learned:** A message without a question gives the founder nothing to respond to. Reflection alone doesn't create a reply.
+
+---
+## Thenuka Karunaratne — March 9, 2026 (Interaction 3)
+
+**Profile:** https://www.linkedin.com/in/thenuka/
+**Signal link:** https://www.linkedin.com/posts/thenuka_most-companies-think-they-lose-talent-because-activity-7427403561380163584-fE7M/
+**Message link:** [to be filled when sent]
+**Sourcing method:** Method 2 — Influencer Network Effect
+
+**Signal**
+> "That's the bar I'm trying to move toward."
+> "Culture shows up in the day-to-day: what gets rewarded, what gets reinforced, how decisions get made, and how people treat each other when things go wrong. It's the behavior that becomes normal over time."
+> "You can't fake it. You can't install it with an offsite or a values document."
+
+**Game:** Lesson
+**Credit building:** Lesson Credit
+
+**Message angle**
+- Inertia type: Internal solution — has the vision, not the daily mechanism
+- Where job breaks: Reviewing — gap between vision and daily reality. No system to check if he's actually building it.
+- Pre-intent symptoms: "Trying to move toward" — aspiration without visible mechanism
+- ICP Motivator: CERTAINTY — same as Interactions 1 and 2
+- Real threat: Culture vision stays aspirational → no daily check → can't know if he's building it or drifting
+- Expected outcome: Daily system that tells him if the culture he's describing is actually taking shape
+
+**Context**
+- Founder type: A
+- Business type: B
+- Situation: A+B
+- Coping or Blocked: Coping — shares resolved insight, but last paragraph reveals active gap
+
+**Message sent**
+> "The last line landed — 'the right people don't want to leave, not because they can't, but because nowhere else feels like the right fit.' You know what the outcome looks like. What does your day-to-day actually look like when you're building toward it?"
+
+**Tollgates**
+- T1 (sent March 9, 2026): Led with his exact language. One question. No pitch. Under 50 words.
+- T2: [48h check]
+- T3: [reply]
+- T4: [demo jobs]
+
+**What changed from Interaction 2:** Added one question. Used his exact last line. No pitch, no framework, no explanation.
 
 ---
 ## Ross Geiger — February 2026
@@ -488,10 +533,10 @@ Next time Nick posts about Grogu — especially when something doesn't work as e
 
 **Tollgates**
 - T1 (sent March 6, 2026): Led with what I sensed ✅ — quoted his exact words from the Robert thread (not the post), surfaced the real signal ("messy journey is the default"), one question, under 100 words (42 words). Differentiated from Robert's comment — he used the 3:12am image. This message leads from his reply to Robert, not from the post. No pitch.
-- T2 (check March 8, 2026):
+- T2 (checked March 9, 2026): Silence. No reply received. Signal was strong — "rare blip" came from his private comment to Robert, not the public post. Translation was clean — 42 words, his exact words, one question. Timing was the issue. He was in a milestone moment (Amazon feature, Einstein thriving). Question about the messy days entered a celebration state with a heavy ask. Same pattern as Nick Ang Interaction 2 (HOLDING). Monitor for next signal when the build gets hard again.
 - T3 (reply received):
 
-**What I learned:**
+**What I learned:** Clean message into a resolved state produces silence. The signal has to be active, not settled, for the question to open anything.
 
 ---
 
@@ -527,7 +572,7 @@ The comment Shiva left on Rana's post was: "You caught it at firing. How do you 
 
 **Tollgates**
 - T1 (sent March 6, 2026): Led with his words ✅ — brought universal observation back to his specific situation (ownership drift = state tracking failure), one question, no pitch. 48 words.
-- T2 (check March 8, 2026):
+- T2 (checked March 9, 2026): T3 reply came same day (March 6) so silence window bypassed. T3 logged below.
 - T3 (reply received March 6, 2026): He answered — "When enthusiasm fades, feedback turns sparse, or they stop volunteering ideas, it might be time to check in." Described real signals from last month's experience. Still speaking universally. Not personal yet.
 
 **Demo jobs tracker**
@@ -579,7 +624,7 @@ Post 1 is resolved insight — delegation worked, lesson learned. Post 2 has liv
 
 **Tollgates**
 - T1 (sent March 6, 2026): Led with what I sensed ✅ — opened with his exact words, shared lived experience ("I've felt that too"), one question, no pitch. 56 words.
-- T2 (check March 8, 2026):
+- T2 (checked March 9, 2026): T3 reply came same day (March 6) so silence window bypassed. T3 logged below.
 - T3 (reply received March 6, 2026): He replied on Shiva's post thread — "When enthusiasm fades, feedback turns sparse, or they stop volunteering ideas, it might be time to check in." Real signals from his experience. Still universal framing — not personal yet.
 
 **What I learned:** Comment on his post moved him to engage on Shiva's post. He answered the question with real observed signals. The conversation is flowing. Next step: pull the observation into his specific experience (last month) to move Job 1 from partial to done.
@@ -616,7 +661,7 @@ He answered "how do you see it early?" with real signals — but still universal
 
 **Tollgates**
 - T1 (sent March 6, 2026): Led with his signal ✅ — one question, pulled universal observation into his specific situation (last month), no pitch. 27 words.
-- T2 (check March 8, 2026):
+- T2 (checked March 9, 2026): Silence. No reply received. Signal was strong — he had already answered the previous question with real observed signals. Translation may have been the issue — question asked him to publicly admit he missed the signals on someone he fired. That's a vulnerable admission in a public thread. He may not be ready to own that out loud. Monitor for next signal from him.
 - T3 (reply received):
 
 **Demo jobs tracker**
@@ -624,7 +669,7 @@ He answered "how do you see it early?" with real signals — but still universal
 - Use case: Ownership drift / team state tracking
 - Fit question asked: No
 
-**What I learned:**
+**What I learned:** Pulling someone from universal to personal in a public thread is a high-stakes ask. He may be willing in a DM, not in a public comment thread.
 
 ---
 
@@ -711,10 +756,10 @@ Comment thread:
 
 **Tollgates**
 - T1 (sent March 7, 2026): Led with his exact words ✅ — "I started doubting myself" quoted directly, named the specific mechanism (Marc Lou as external proof), one question, no pitch. 35 words. Every other comment on the post was validation energy — this was the only one that went into the signal.
-- T2 (check March 9, 2026):
+- T2 (checked March 9, 2026): Silence. No reply received. Signal was strong. Translation may have been the issue — question was hypothetical ("what happens next time doubt lands?"). He's in resolved framing ("let's see how far I can push this solo"). A future-threat question doesn't land when someone has just made peace with the present. Monitor for next signal when the solo build hits friction again.
 - T3 (reply received):
 
-**What I learned:**
+**What I learned:** Hypothetical questions don't create urgency in resolved founders. The question needs to land on something already live, not something that might happen.
 
 ---
 
@@ -755,8 +800,59 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 
 **Tollgates**
 - T1 (sent March 7, 2026): Led with his exact words ✅ — surfaced the gap between pattern-visible and pattern-changed, one question, no pitch. 36 words.
-- T2 (check March 9, 2026):
+- T2 (checked March 9, 2026): Silence. No reply received. Signal was strong. Timing was the issue — Jordan's "useful paradigm" framing was resolution language. He'd already made peace with the AI accountability setup. The question asked him to challenge something he'd already decided. Not in enough pain to revisit it. Monitor for next signal when the pattern-without-change friction surfaces again.
 - T3 (reply received):
 
-**What I learned:**
+**What I learned:** Resolution language in a signal = founder has settled. The question arrives after the pain has passed. Wait for the next active signal.
+---
+
+## Guillaume Moubeche — March 9, 2026 [DRAFT — not sent]
+
+**Profile:** https://www.linkedin.com/in/guillaume-moubeche-a026541b2/
+**Post link:** https://www.linkedin.com/posts/guillaume-moubeche-a026541b2_everyone-talks-about-being-lonely-as-a-founder-activity-7434217860689743872-GnM4/
+**Sourcing method:** Method 1 — Algorithm Feed
+**Influencer / Event:** —
+
+**Signal**
+> "loneliness comes from not having people around you who can understand exactly what you feel"
+> "How much stressful it can become when you have moments of doubt and you can't share them with your team"
+> "your friends have a different life, and even if they can listen, they will probably never truly understand"
+
+**Founder replies to comments**
+> "I think both therapist or coach are helpful as they help you ask yourself the right questions. But I also feel like having close relationship you can talk to as not only a therapeutical positive impact but also a very important social impact"
+- What this reveals: He named a third thing his four solutions don't cover — one person who holds both therapeutic and social impact. The post describes the gap. This reply names what he actually wants.
+
+**Game:** Clarity
+**Credit building:** Clarity Credit
+
+**Message angle**
+- Inertia type: Ad hoc workaround — four tactics (friends, peers ahead, peers behind, sports). Real, fragmented. None = "someone who understands exactly what you feel."
+- Where job breaks: Recognising — solutions address isolation only. His reply sharpened it: he wants one close relationship with both therapeutic and social impact — which none of the four provides.
+- Pre-intent symptoms: "moments of doubt you can't share with your team", "everyone expect you to have all the answers", "friends will probably never truly understand", "close relationship... not only therapeutical but also very important social impact"
+- ICP Motivator: CONTROL — sustained pressure to always have the answers; the doubt has no reliable container
+- Real threat: Even with therapist + peers + sports, the specific thing he named (one close relationship with both impacts) isn't in the four → doubt still has no home
+- Expected outcome: One person who holds both — close enough to understand exactly, equipped enough to hold the doubt
+
+**Context**
+- Founder type: A
+- Business type: C (lempire — lemlist, established SaaS, large following)
+- Situation: A+C
+- Coping or Blocked: Coping — resolved insight, sharing from strength. Gap between what he described and what he offers is live.
+
+**Three jobs layer**
+- Job 1 could land if: he acknowledges the "close relationship with both" doesn't exist yet for him
+- Job 2 use case: the doubt that can't go to the team / always having to have the answers
+- Job 3 signal to watch for: he asks what that kind of relationship looks like, or how to find it
+
+**Entry point:** Reply to Guillaume's comment on the Cornelius Schmahl thread — where the real signal is.
+
+**Draft message [DRAFT — not sent]**
+> Close relationship with both — that's different from the four. Friends give the social but won't truly understand. Therapist gives the therapeutic but not the closeness. The same person who holds both at the founder level. Is that something you have, or still the gap?
+
+**Word count:** 54 words. One question. His language from his reply. No pitch.
+
+**Tollgates**
+- T1: not sent
+- T2: not applicable
+- T3: not applicable
 ---
