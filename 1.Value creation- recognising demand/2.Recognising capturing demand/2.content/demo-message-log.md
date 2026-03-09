@@ -493,6 +493,8 @@ Next time Nick posts about Grogu — especially when something doesn't work as e
 - T3 (reply received March 5, 2026): She went deeper ✅ — two replies. First: connected internal calm to having external alternatives (BATNA framing — "2-3 options on the table that make you feel calm"). Second: "tell me more about your regulation system and how it works?" — direct ask.
 
 **What I learned:** "Walked the walk" framing worked. Sharing lived experience opened the door. She tested with a BATNA reply, then went direct. The internal/external tension is live — her calm is built on alternatives, the system builds it from inside. That's the conversation.
+
+**Status (March 9):** She asked "tell me more about your regulation system" but has not replied since. No follow-up sent. Waiting for her next post — the door she opened is on record. Surface this draft immediately when her next signal appears.
 ---
 
 ## Manaal Maniyar — March 6, 2026
@@ -845,14 +847,13 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 - Job 3 signal to watch for: he asks what that kind of relationship looks like, or how to find it
 
 **Entry point:** Reply to Guillaume's comment on the Cornelius Schmahl thread — where the real signal is.
+**Comment link:** https://www.linkedin.com/feed/update/urn:li:activity:7434217860689743872?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7434217860689743872%2C7436297402564784128%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7434217860689743872%2C7436695243363758080%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287436297402564784128%2Curn%3Ali%3Aactivity%3A7434217860689743872%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287436695243363758080%2Curn%3Ali%3Aactivity%3A7434217860689743872%29
 
-**Draft message [DRAFT — not sent]**
+**Message sent**
 > Close relationship with both — that's different from the four. Friends give the social but won't truly understand. Therapist gives the therapeutic but not the closeness. The same person who holds both at the founder level. Is that something you have, or still the gap?
 
-**Word count:** 54 words. One question. His language from his reply. No pitch.
-
 **Tollgates**
-- T1: not sent
-- T2: not applicable
-- T3: not applicable
+- T1 (sent March 9, 2026): Led with what I sensed ✅ — his exact language from his reply to Cornelius, one question, 54 words, no pitch
+- T2 (check March 11, 2026):
+- T3 (reply received):
 ---

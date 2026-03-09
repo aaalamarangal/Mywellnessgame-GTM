@@ -36,6 +36,12 @@ Claude does:
    c. Three jobs layer — where Job 1 could land, what Job 2 looks like, what Job 3 signal to watch for
    d. Draft message last — so Shiva reads the thinking first and decides on the words himself
 5. Wait for Shiva to react and confirm before finalizing
+6. Post Arc check — ask: does the exact founder language belong in the Post Arc Tracker?
+   Three triggers:
+   - Exact words that name a gap better than Shiva could
+   - Same gap named independently by two or more founders
+   - A client result moment — something shifted in real time
+   If yes: add a row to the Post Arc Tracker in post-inspiration.md and log exact words immediately. Same session, not later.
 (Process follows signal-comment.md — informed by signal-angle.md in the background)
 
 ### > T2

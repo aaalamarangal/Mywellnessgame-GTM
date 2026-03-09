@@ -10,7 +10,7 @@ After reading Debt-contexts to understand the founder, Claude reads this folder 
 ## What Lives Here — in sequence
 
 ```
-signal-sources.md  → WHERE to find founders (6 ranked sourcing methods)
+signal-sources.md  → WHERE to find founders (7 ranked sourcing methods)
 signal-reading.md  → HOW to read what you find (honesty levels, blocked vs coping, how to scan)
 signal-angle.md    → what angle to take on the signal (one entry per influencer — grows via > ANGLE)
 signal-comment.md  → how to express the angle as a comment (Signal → Bridge → Voice)
