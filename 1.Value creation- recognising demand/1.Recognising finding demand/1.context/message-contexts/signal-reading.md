@@ -58,6 +58,30 @@ Watch for: what they say the tool does well AND what they leave unspoken about w
 
 ---
 
+## Game Signals by Source
+
+**Action debt shows up in comments, not posts.**
+
+Founders do not post about execution failure. They post about insight, lessons learned, and resolved thinking. The post is the performance.
+
+The comment is where the slip happens — the unguarded moment underneath the resolved framing.
+
+Field evidence:
+- Ross Geiger: "wish this was my usual state" — comment on someone else's post
+- Jordan Peace: "I really don't care what an AI thinks of me" — comment thread
+- Stephen Whitworth: "maybe I just give it my credit card and yolo" — comment reply
+- Sujith Ayyappan: "I feel disregulated at night" — comment on Shiva's post
+
+All four are Action game signals. All four came from comments, not posts.
+
+**Clarity and Lesson debt** surface in posts — founders are comfortable writing about philosophy, mindset, and systems thinking publicly.
+
+**Action debt** only surfaces in comments — when the guard is down and the real execution gap slips through.
+
+Rule: When scanning for Action game signals, go straight to the comments. The post will not show it.
+
+---
+
 ## What to Look For
 
 **Blocked language** (Rob Snyder):

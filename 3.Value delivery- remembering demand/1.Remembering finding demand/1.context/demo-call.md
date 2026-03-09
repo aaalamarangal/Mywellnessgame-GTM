@@ -10,6 +10,20 @@ The close happens when regulation is felt in real time — not when the offer is
 
 ---
 
+## What the demo call demonstrates
+
+Founders come to the demo call having already built — or tried to build — a system for knowing what move matters. That layer exists.
+
+What they don't have is a system that holds them in execution when the state drops.
+
+The demo call demonstrates that second layer — live, on their real situation. Not by explaining it. By running it.
+
+Field evidence:
+> "I know what move matters today but still end up not executing them. On the days when it happens, I feel disregulated at night." — Sujith Ayyappan (paying client)
+> "Most founders can track their output. Almost none can track their state. That gap is quietly running the show." — Rana Naskar (prospect)
+
+---
+
 ## What the demo call is NOT
 
 - It is not a pitch call. Never start by explaining mywellnessgame.
