@@ -30,6 +30,22 @@ Use this pattern for every source added:
 **Example in action:** Ross Geiger commenting "Wish this was my usual state" = Blocked Pull. He can't move forward without solving this. Message now.
 **Link:** https://howtogrow.substack.com/p/blocked-or-coping
 
+### Additional lesson — Fewest Words Framework (Voice)
+
+**Core concept:** Most things said about a product are counterproductive — they dissuade rather than persuade. The game is finding the fewest possible words that cause the buyer to "get it."
+**Where it applies:** Voice step — how to express the angle without overloading
+**The four traps to avoid:**
+1. Irrelevant info — "why we built this," "our perspective on X" — eyes glaze over
+2. Too much tech — forty features and modules — doesn't meet them where they are
+3. Wrong angle — buyer wants X, you talk about Y — they leave thinking it doesn't fit
+4. Too big — pitching the full product when they just want the best-fit thing for X
+
+**The framework (15 seconds):**
+"It sounds like you are trying to accomplish X right now because Y, but your existing methods aren't good enough because of Z. We offer an ABC that helps you accomplish X without Z. Does that sound like what you're looking for?"
+
+**How to apply:** Before writing a message — can you say it in 15 seconds? If not, cut. Each extra word makes it less likely to fit what they're trying to accomplish.
+**Link:** https://www.linkedin.com/feed/update/urn:li:activity:7432424148372652032/
+
 ---
 
 ## Yusuf Ahmed — Signal, Bridge, Voice
@@ -134,7 +150,7 @@ This maps to Clarity Debt in Shiva's framework. Comments confirmed the LOSS fram
 ## How These Sources Connect
 
 ```
-Rob Snyder         → WHEN to message (blocked vs coping)
+Rob Snyder         → WHEN to message (blocked vs coping) + HOW MUCH to say (fewest words that fit)
 Yusuf Ahmed        → WHAT the pipeline looks like (signal → bridge → voice)
 Aleksander         → WHERE to start the message (where the job breaks) + WHAT makes it urgent (friction → real threat → expected outcome)
 Robert Kaminski    → HOW to make the message stand out (differentiation)
