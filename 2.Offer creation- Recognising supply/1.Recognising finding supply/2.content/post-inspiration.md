@@ -23,6 +23,7 @@ Before writing any post — read this file first.
 | 9 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | Captured | — |
 | 10 | Neuroscience of learning — one hour doubles connections | Video/Podcast — Dr. Joe Dispenza | Captured | — |
 | 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Captured | — |
+| 12 | "I became the bottleneck without realizing it" — Rana Naskar | Value Creation — daily messaging (Rana Interaction 4) | Captured | — |
 
 ---
 

@@ -857,3 +857,56 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 - T2 (check March 11, 2026):
 - T3 (reply received):
 ---
+
+## Rana Naskar — Interaction 4 — March 9, 2026 [DRAFT — not sent]
+
+**Profile:** https://www.linkedin.com/in/rananaskar/
+**Post link:** https://www.linkedin.com/posts/rananaskar_some-of-the-most-important-lessons-in-building-share-7436665094849101824-EolG/
+**Sourcing method:** Method 2 — Influencer Network Effect (existing conversation)
+
+**Signal**
+> "I have shut down more products than I have scaled."
+> "I became the bottleneck without realizing it."
+> "Each one was frustrating at the time. Some founders hold on too long because they are emotionally attached."
+> "But sometimes the smartest move is to stop, learn the lesson, and apply it to the next thing."
+
+**Founder replies to comments**
+> [none logged yet]
+
+**Game:** Lesson
+**Credit building:** Lesson Credit
+
+**Message angle**
+- Inertia type: Internal solution — has a method (shut down fast, watch user behavior, move). But it's reactive. He learns after things fail, not while they're forming.
+- Where job breaks: Reviewing — can extract lessons in hindsight (this post proves it). No daily mechanism to review patterns while they're forming. The lesson arrives after the failure forces it.
+- Pre-intent symptoms: "without realizing it" — visibility only after damage done; "shut down more products than I have scaled" — volume of failures = volume of lessons learned late; "each one was frustrating at the time" — cost of late learning
+- ICP Motivator: CERTAINTY — wants to know when to stop, when to move, when he's the constraint. Built certainty through failure. Question is whether he has a system to build it before the market forces the lesson.
+- Real threat: Next bottleneck also only visible in hindsight → frustration cost stays live → lesson learning stays reactive
+
+**Context**
+- Founder type: B
+- Business type: B (DesireLand — profitable today; writing from strength)
+- Situation: B+B
+- Coping or Blocked: Coping — resolved insight. Writing from strength. But "without realizing it" shows the gap is still live.
+
+**Three jobs layer**
+- Job 1 could land if: he names that "without realizing it" is still the pattern — lessons still arrive after cost, not before
+- Job 2 use case: the bottleneck moment — what daily check would have caught it while forming?
+- Job 3 signal to watch for: he asks what a daily review system looks like for catching patterns before they become crises
+
+**Message sent**
+> "The bottleneck line — 'without realizing it.' What does your day-to-day look like now that tells you before the market does?"
+
+**Tollgates**
+- T1 (sent):
+- T2 (check):
+- T3 (reply received):
+
+**Demo jobs tracker**
+- Job 1 done? No — not yet sent
+- Use case: Bottleneck / reactive lesson learning
+- Fit question asked: No
+
+**What I learned:**
+
+---
