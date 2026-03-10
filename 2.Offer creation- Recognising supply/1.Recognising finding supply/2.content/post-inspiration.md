@@ -24,6 +24,9 @@ Before writing any post — read this file first.
 | 10 | Neuroscience of learning — one hour doubles connections | Video/Podcast — Dr. Joe Dispenza | Captured | — |
 | 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Captured | — |
 | 12 | "I became the bottleneck without realizing it" — Rana Naskar | Value Creation — daily messaging (Rana Interaction 4) | Captured | — |
+| 13 | "Burning out in two directions at once" — Aannya Vashishth | Value Creation — daily messaging | Captured | — |
+| 14 | Resolution gate — the signal was real, the timing was wrong | Value Creation — framework observation (Tim Scheuer, Jordan Peace, Rana Naskar) | Captured | — |
+| 15 | Invisible humor — precision without humanity reads as clinical | Value Creation — field observation (Alex Perelman / Ross Geiger thread) | Captured | — |
 
 ---
 
@@ -156,6 +159,30 @@ Brainwave states:
 **Confidentiality note:** Sujith shared personal details (smoking habit, addiction context). Do not post without explicit permission. The insight is usable — the personal detail is not.
 
 ---
+
+---
+
+---
+### Aannya Vashishth — March 10, 2026
+
+**Source:** Daily messaging — public post signal
+**Topic:** Dual-identity founders — burning out in two directions at once
+**Status:** Captured
+
+**Exact phrases:**
+- "burning out in two directions at once"
+- "the fear has a tighter grip than hope"
+- "tired of being this scared"
+
+**Key insights for mywellnessgame:**
+
+1. Some founders are carrying two identities at once (law student + founder, employee + founder, parent + founder). Neither screen — the work screen or the study/other screen — can hold the fear.
+2. The Clarity game for this founder is not about choosing between identities. It is about holding both without fear making the decisions.
+3. "Tired of being this scared" is a signal that the fear is the operating system, not a passing emotion. That is a Clarity debt moment — the fear is in the recognising layer.
+4. The message that landed did not name the fear from outside. It mirrored it back exactly: "That's not the grind talking." Invisible humor in "neither screen has an answer for" — slight twist that showed awareness of the specific dual-identity tension.
+
+**Post angle (when ready):**
+Some founders are burning out in two directions at once. Not because they're doing too much — because they have two identities and no system holding either one. The Clarity game is not about choosing. It's about building a regulation layer strong enough to hold both without fear running the decisions.
 
 ---
 
