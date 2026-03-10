@@ -717,10 +717,10 @@ Comment thread:
 
 **Tollgates**
 - T1 (sent March 8, 2026): Led with the sense ✅ — 38 words, referenced their pattern ("reflecting what's already there"), one question, no framework, no pitch. Entered a live thread where both were already engaged.
-- T2 (check March 10, 2026):
-- T3 (reply received):
+- T2 (check March 10, 2026): T3 reply came before 48h window — bypassed.
+- T3 (reply received March 10, 2026): Alex Perelman replied: "sir, this is a wendy's." Classic humor deflection — same pattern as the original post. Question landed deep enough to dodge. Ross liked the comment — watching but not ready to reply publicly. Shiva replied: "order placed." Two words. Matched the energy. Door stays open.
 
-**What I learned:**
+**What I learned:** Public threads aren't the right register for real questions. The joke is the tell — it lands when the question is too real for the forum. "Order placed" is invisible humor — doesn't fight the deflection, keeps the connection. Ross is still in orbit. Alex is a founder coach with the same gap he coaches others on. Worth watching.
 
 ---
 ## Tim Scheuer — March 7, 2026
@@ -858,7 +858,53 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 - T3 (reply received):
 ---
 
-## Rana Naskar — Interaction 4 — March 9, 2026 [DRAFT — not sent]
+## Aannya Vashishth — March 10, 2026
+
+**Profile:** https://www.linkedin.com/in/aannya-vashishth/
+**Sourcing method:** Method 1 — Algorithm Feed
+**Post link:** https://www.linkedin.com/feed/update/urn:li:activity:7436025613930504192
+**Comment link:** https://www.linkedin.com/feed/update/urn:li:activity:7436025613930504192?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7436025613930504192%2C7437021613981777920%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287437021613981777920%2Curn%3Ali%3Aactivity%3A7436025613930504192%29
+
+**Signal**
+> "burning out in two directions at once"
+> "the fear has a tighter grip than hope"
+> "tired of being this scared"
+
+**Founder replies to comments**
+> [none logged yet]
+
+**Game:** Clarity
+**Credit building:** Clarity Credit
+
+**Message angle**
+- Inertia type: Not a priority — fear is the current operating state; hasn't sought a system to hold both identities
+- Where job breaks: Recognising — can't see what's driving the decisions when fear is in charge
+- Pre-intent symptoms: "tired of being this scared" — naming it publicly, exhaustion with the fear state; "fear has a tighter grip than hope" — fear is the active driver, not aspiration; "burning out in two directions at once" — dual identity (law student + founder, or similar) with no system holding either one
+- ICP Motivator: CERTAINTY — needs to know she can hold both identities without fear running the decisions
+- Real threat: Fear keeps making the decisions → both identities erode → neither track moves forward
+- Expected outcome: Hold both identities without fear as the operating system
+
+**Context**
+- Founder type: A
+- Business type: A (early — building while inside another identity/commitment)
+- Situation: A+A
+- Coping or Blocked: Blocked — naming fear publicly, exhausted by it, not coping quietly
+
+**Message sent**
+> "Tired of being this scared."
+> That's not the grind talking. That's something neither screen has an answer for.
+> When the fear has the grip — not the deadline — what does it make you decide?
+
+**Tollgates**
+- T1 (sent March 10, 2026): Led with her exact words ✅ — quoted her signal, no framework, no pitch, one question, fear named not explained
+- T2 (check March 12, 2026):
+- T3 (reply received):
+
+**What I learned:**
+
+---
+
+## Rana Naskar — Interaction 4 — March 10, 2026
 
 **Profile:** https://www.linkedin.com/in/rananaskar/
 **Post link:** https://www.linkedin.com/posts/rananaskar_some-of-the-most-important-lessons-in-building-share-7436665094849101824-EolG/
@@ -898,12 +944,12 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 > "The bottleneck line — 'without realizing it.' What does your day-to-day look like now that tells you before the market does?"
 
 **Tollgates**
-- T1 (sent):
-- T2 (check):
+- T1 (sent March 10, 2026): Led with his exact words ✅ — "without realizing it" quoted directly, one question, no pitch, no framework. 27 words.
+- T2 (check March 12, 2026):
 - T3 (reply received):
 
 **Demo jobs tracker**
-- Job 1 done? No — not yet sent
+- Job 1 done? No — monitoring
 - Use case: Bottleneck / reactive lesson learning
 - Fit question asked: No
 

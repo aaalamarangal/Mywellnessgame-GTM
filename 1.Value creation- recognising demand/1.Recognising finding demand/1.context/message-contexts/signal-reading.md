@@ -22,6 +22,7 @@ What they publish publicly on their feed.
 More performative — tends toward resolved insight, lessons learned, and thought leadership.
 Useful for understanding the founder's philosophy and how they present themselves.
 Watch for: polished wisdom that hints at an unresolved gap underneath.
+If no gap is visible — the post is fully resolved. Don't write. Monitor for next signal.
 
 ### Source 2 — Founder's replies on other people's posts
 What they comment on someone else's content.
@@ -95,6 +96,14 @@ Rule: When scanning for Action game signals, go straight to the comments. The po
 - Teaching what worked for them
 - Reflecting on a lesson learned
 - Meet coping founders at their level — don't position them as lacking
+
+**Resolution language — do not write into this:**
+- Founder has already landed somewhere. State is closed.
+- Past tense + lesson framing: "I learned / I realized / the key is"
+- Teaching tone — sharing from strength, not searching
+- No visible gap underneath the post
+- The signal was real. The timing is wrong. Monitor and wait for the next signal.
+- Field examples: Tim Scheuer ("let's see how far I can push this solo"), Jordan Peace ("useful paradigm"), Rana Naskar Interaction 4 ("sometimes the smartest move is to stop, learn the lesson")
 
 ---
 

@@ -19,10 +19,36 @@ If you can't complete a step — stop. You don't have a comment yet.
 
 ---
 
+## Pre-Pipeline Gate — Run This First
+
+Before any analysis. Before any drafting. One question:
+
+> Is the founder still inside the problem — or writing from the other side of it?
+
+```
+Blocked  → proceed
+Coping   → proceed carefully — meet them at their level, don't diagnose
+Resolved → stop. Do not draft. Log "monitor" and wait for the next signal.
+```
+
+**How to spot resolution language:**
+- Past tense + lesson framing: "I learned / I realized / the key is"
+- Teaching tone: sharing from strength, not searching for answers
+- No gap visible: the post lands cleanly, nothing unresolved underneath
+
+**Field examples of resolved signals (do not write into these):**
+- Tim Scheuer: "let's see how far I can push this solo" — already decided
+- Jordan Peace: "useful paradigm" — already accepted the setup
+- Rana Naskar Interaction 4: "sometimes the smartest move is to stop, learn the lesson" — writing from strength
+
+If the founder is resolved — the signal was real, the timing is wrong. Monitor for the next signal when the build gets hard again.
+
+---
+
 ## The Pipeline
 
 ```
-Signal → Bridge → Voice
+Gate → Signal → Bridge → Voice
 ```
 
 **Signal** — find something specific about the founder
@@ -110,8 +136,40 @@ RECOGNITION — needs their work to be seen, valued, proven (Marketing, Enableme
 - [ ] Is there exactly one question?
 - [ ] Does it lead with what I sensed — not my framework or solution?
 - [ ] Would this create a reply or a sale?
+- [ ] Does it have invisible humor? (one unexpected phrase — shows you heard the human, not just the signal)
 
 **If you can't check all boxes — rewrite before sending.**
+
+---
+
+## Invisible Humor
+
+The current voice is clean and precise. But precision without humanity reads as clinical.
+Invisible humor is what makes a founder feel like you're a peer, not a practitioner.
+
+**What it is:**
+One unexpected word or phrase where a safe word would fit.
+It doesn't announce itself. It doesn't try to be funny. It just shows you were paying attention to the human, not just the signal.
+
+**What it looks like:**
+- A slight twist in phrasing that's truer than the obvious version
+- Matching the founder's register just enough to show you're in the room
+- Acknowledging the absurdity of their situation without labeling it
+
+**Example:**
+> Dry: "You've built something that tracks whether your week is moving against what actually matters."
+> With invisible humor: "You've built a whole system to track whether the week is worth it. The yolo was doing a lot of work."
+
+The insight is the same. The second one shows you were listening to the person, not just reading the signal.
+
+**Field example:**
+Alex Perelman replied to Shiva's message ("What would it look like to not need the handoff?") with: "sir, this is a wendy's."
+Shiva replied: "order placed."
+Two words. Matched the energy. Didn't fight the joke. Kept the door open.
+
+**The rule:**
+One phrase per message max. Don't try to be funny — be slightly more human than expected.
+If you have to decide whether it's funny, it's too obvious.
 
 ---
 
