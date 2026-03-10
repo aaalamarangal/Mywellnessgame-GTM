@@ -147,6 +147,23 @@ This maps to Clarity Debt in Shiva's framework. Comments confirmed the LOSS fram
 
 ---
 
+## Alexander Estner — Positioning Templates
+
+**Source:** Alexander Estner
+**LinkedIn:** https://www.linkedin.com/in/alexander-estner/
+**Core concept:** 4 positioning templates — an internal narrative that justifies why your offer exists at a specific level of market maturity. Each template matches a different level of founder awareness.
+**Where it applies:** Layer 0 — positioning orientation before Signal → Bridge → Voice. Also applies before writing any post.
+**How to apply:** Identify which of the 4 types matches the founder's situation, then fill in the template questions to orient before writing. Do NOT use the template language in the comment or post — use it to know where you are.
+**The 4 templates:**
+- Activity Positioning — founder not yet looking for a solution (surviving on willpower)
+- Use Case Positioning — founder has fragmented tools, thinks better combo will fix it
+- Product Category — founder actively comparing coaching or productivity systems
+- Competitive Alternative — founder built their own AI system, feels the regulation gap
+**Example in action:** Layer 0 in signal-comment.md + Before Writing checklist in Post-principles.md — both built from this framework
+**Link:** https://www.linkedin.com/feed/update/urn:li:activity:7437029724415180800/
+
+---
+
 ## How These Sources Connect
 
 ```
@@ -156,6 +173,7 @@ Aleksander         → WHERE to start the message (where the job breaks) + WHAT 
 Robert Kaminski    → HOW to make the message stand out (differentiation)
 Stephen Whitworth  → WHO you compete against (DIY AI systems, not other coaches)
 Niko Noll          → HOW to structure a GTM post (field evidence → contrast → three specifics → synthesis → no pitch)
+Alexander Estner   → HOW to orient before writing (which positioning type, what the founder is ready to hear)
 ```
 
-Together they answer: When to message, what the pipeline is, where to start, what makes it urgent, how to stand out, who you're really competing with, and how to structure posts that land without pitching.
+Together they answer: When to message, what the pipeline is, where to start, what makes it urgent, how to stand out, who you're really competing with, how to structure posts that land without pitching, and how to orient your positioning before writing.
