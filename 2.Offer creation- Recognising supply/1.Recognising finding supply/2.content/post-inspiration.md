@@ -28,7 +28,7 @@ Only one entry should be "In Progress" at a time.
 | 8 | Hill climbing — local vs global maximum | GTM post — Joe Rhew | N/A | Captured | — |
 | 9 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | N/A | Captured | — |
 | 10 | Neuroscience of learning — one hour doubles connections | Video/Podcast — Dr. Joe Dispenza | N/A | Captured | — |
-| 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Use Case | Published | — |
+| 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Use Case | Published | [Post 4](https://www.linkedin.com/feed/update/urn:li:activity:7437127559793897473/) |
 | 12 | "I became the bottleneck without realizing it" — Rana Naskar | Value Creation — daily messaging (Rana Interaction 4) | Activity | Captured | — |
 | 13 | "Burning out in two directions at once" — Aannya Vashishth | Value Creation — daily messaging | Activity | Captured | — |
 | 14 | Resolution gate — the signal was real, the timing was wrong | Value Creation — framework observation (Tim Scheuer, Jordan Peace, Rana Naskar) | N/A | Captured | — |

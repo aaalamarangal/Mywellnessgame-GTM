@@ -51,6 +51,7 @@ Types 2 and 3 both operate at the Remembering stage — the founder knows regula
 - Leta Lista: "the founders who struggle most are usually stuck on one setting" — has her own status games framework, regulation layer underneath it is missing
 - Nick Ang (Interaction 2): "I literally feel like I have a friend and personal assistant that's always on now" — built Grogu (NanoClaw + Day One MCP), AI writes his journal and sends him reflection briefings. Grogu is the knower. Nick receives the output.
 - Alex Perelman: "my cc refuses to feel its feelings. a lifetime of heavy emotional suppression may need a stronger intervention to remove that blockage." — tried to use Claude Code for the emotional regulation layer. AI reflected his suppression back. Regulation has to live in the founder first.
+- Amelia Wampler: "the habit of showing up anyway — because you built that muscle somewhere else first" — sports grit is the system. Built by team, coach, championship. Transferred to founding without the structure that made it compound. Conviction ("quitting isn't an option") is doing the work the external structure used to do.
 
 ---
 
@@ -145,3 +146,4 @@ It tells you what mental model you need to break before the founder will even co
 | Nick Ang | Status quo | Reviewing | "I have no system for knowing if I'm actually doing what I say I do" | Feb 2026 |
 | Nick Ang | Internal solution | Recognising | "I literally feel like I have a friend and personal assistant that's always on" | March 2026 |
 | Rana Naskar | Status quo | Reviewing | "Most founders can track their output. Almost none can track their state." | March 2026 |
+| Amelia Wampler | Internal solution | Recognising | "the only thing that gets you through is the habit of showing up anyway — because you built that muscle somewhere else first" | March 2026 |

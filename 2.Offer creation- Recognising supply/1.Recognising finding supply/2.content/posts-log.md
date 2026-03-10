@@ -10,6 +10,8 @@ Updated each time a post is published.
 
 ## Template
 
+Lessons are filled after 2 days — not immediately. Log the post first. Come back at 48 hours with engagement data, then write what worked and what didn't.
+
 ```
 ---
 ## Post [number] — [Date]
@@ -21,11 +23,11 @@ Updated each time a post is published.
 
 **Engagement:**
 
-**What worked:**
+**What worked — fill at 48 hours:**
 - Lesson:
 - Next step:
 
-**What didn't work:**
+**What didn't work — fill at 48 hours:**
 - Lesson:
 - Next step:
 ---
@@ -230,11 +232,11 @@ The discipline was always there. The visibility wasn't.
 - Comments:
 - Notable responses:
 
-**What worked:**
+**What worked — fill at 48 hours:**
 - Lesson:
 - Next step:
 
-**What didn't work:**
+**What didn't work — fill at 48 hours:**
 - Lesson:
 - Next step:
 
@@ -288,5 +290,43 @@ One founder at a time.
 **What didn't work:**
 - Lesson: Engagement section and learnings still being filled — only one reply observed so far.
 - Next step: Check if Nick, Stephen, or Jordan (the three founders named in the post) have engaged.
+
+---
+
+## Post 4 — March 10, 2026
+
+**Link:** https://www.linkedin.com/feed/update/urn:li:activity:7437127559793897473/
+
+**Source:** Post Arc Tracker Row 11 — field observation, two independent sources (Sujith Ayyappan + Rana Naskar)
+**Positioning type:** Use Case
+**Game:** Clarity
+**Layer:** Daily comment messaging (Layer 1) + field meta-pattern
+
+**Post text:**
+Two founders. No connection to each other.
+
+Sujith Ayyappan said it. Rana Naskar said it. Word for word:
+
+"I know what move matters today. I still don't do it."
+
+That's not a discipline problem.
+
+The move is visible enough to name. It's not visible enough to act on.
+
+There's a difference between describing a gap and seeing it clearly.
+
+When you finally see it — not just name it — you stop defending it.
+
+I'm experimenting with what creates that shift.
+
+**Engagement:**
+
+**What worked — fill at 48 hours:**
+- Lesson:
+- Next step:
+
+**What didn't work — fill at 48 hours:**
+- Lesson:
+- Next step:
 
 ---

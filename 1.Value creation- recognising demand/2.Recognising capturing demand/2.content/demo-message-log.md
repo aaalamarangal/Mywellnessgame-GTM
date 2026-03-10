@@ -899,10 +899,21 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 
 **Tollgates**
 - T1 (sent March 10, 2026): Led with her exact words ✅ — quoted her signal, no framework, no pitch, one question, fear named not explained
-- T2 (check March 12, 2026):
-- T3 (reply received):
+- T2: bypassed — T3 reply came same day
+- T3 (reply received March 10, 2026): "usually I'm just putting in the work keeping fear aside." Coping performance — showed the mechanism, didn't answer the question. "Usually" is the crack. "Keeping fear aside" ≠ fear being gone. Job 1 partial — gap not yet named by her.
 
-**What I learned:**
+**Demo jobs tracker**
+- Job 1 done? Partial — "usually" signals the gap is live but she hasn't named it yet
+- Use case: dual-identity founder (law + founder) / fear as operating system
+- Fit question asked: No
+
+**Follow-up sent**
+> 'Keeping fear aside' and the fear being gone are different things. On the days 'usually' doesn't hold — what happens?
+
+**Reply link:** https://www.linkedin.com/feed/update/urn:li:activity:7436025613930504192?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7436025613930504192%2C7437021613981777920%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7436025613930504192%2C7437159836833718272%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287437021613981777920%2Curn%3Ali%3Aactivity%3A7436025613930504192%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287437159836833718272%2Curn%3Ali%3Aactivity%3A7436025613930504192%29
+**Sent:** March 10, 2026
+
+**What I learned:** "Usually" is founder language for "most of the time but not always." The coping mechanism is real — she is working. But the reply avoided the question. The follow-up lands on the qualifier, not the mechanism. If she answers honestly, Job 1 is done.
 
 ---
 
@@ -975,5 +986,60 @@ He described a system. But the system he described (KPIs, check-ins, feedback lo
 **Word count:** 34 words. One question. Quotes his exact words back, then turns them.
 
 **What I learned:** He engages when asked a direct question. Answers in operational language — systems he has, not gaps he feels. The next question has to surface the gap between his external systems and the internal signal they don't catch.
+
+---
+
+## Amelia Wampler — March 10, 2026
+
+**Profile:** https://www.linkedin.com/in/ameliawampler/
+**Sourcing method:** Method 1 — Algorithm Feed
+**Post link:** https://www.linkedin.com/posts/ameliawampler_college-soccer-taught-me-more-about-building-share-7434437211141615616-Vm1n/
+**Comment link:** https://www.linkedin.com/feed/update/urn:li:activity:7435693240462254081?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7435693240462254081%2C7437156350058635264%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287437156350058635264%2Curn%3Ali%3Aactivity%3A7435693240462254081%29
+
+**Signal**
+> "There are weeks where nothing works. Investors pass. Customers ghost. You question everything."
+> "the only thing that gets you through is the habit of showing up anyway — because you built that muscle somewhere else first"
+> "When things get hard I put my head down and figure out a way through because quitting isn't an option"
+
+**Founder replies to comments**
+> Tegan Stanbach: "I could not agree with this more!! Nothing prepared me more for life and work than playing D1 water polo."
+> Amelia reply: "‼️‼️"
+> Clayton Adams: "You have great insight, knowledge and instincts. That's why I'm confident in your current and future success."
+> Amelia reply: "thank you mr adams😊 means so much"
+- What this reveals: Both replies are warm but surface-level — validation energy. She's in celebration/sharing mode. No sharpening of the signal.
+
+**Game:** Action
+**Credit building:** Action Credit
+
+**Message angle**
+- Inertia type: Internal solution — sports grit is the system. She believes it transfers directly from college to founding. The external structure that built and compounded the muscle (team, coach, championship) is invisible to her as a variable.
+- Positioning Type: Use Case Positioning
+- Where job breaks: Staying → Finishing — can start and show up. The question is whether will-based grit is sustainable when the environment stops confirming it.
+- Pre-intent symptoms: "you question everything", "weeks where nothing works", "investors pass, customers ghost", "quitting isn't an option" (conviction doing heavy lifting)
+- ICP Motivator: CERTAINTY — in sports, winning confirmed the showing-up was right. As a founder, no championship confirms it. "You question everything" is the CERTAINTY gap showing through.
+- Real threat: Conviction-only grit depletes without external reinforcement → each hard week starts from zero → muscle weakens under prolonged no-feedback conditions
+- Expected outcome: Keep showing up without needing external confirmation it's working
+
+**Context**
+- Founder type: A
+- Business type: A (Limitr — early stage, building)
+- Situation: A+A
+- Coping or Blocked: Coping — sharing resolved insight from strength. But "you question everything" and "weeks where nothing works" are present-tense references to active experience.
+
+**Three jobs layer**
+- Job 1 could land if: she names that the sports structure isn't available as a founder — team, coach, championships that made grit compound are gone
+- Job 2 use case: the weeks where nothing works — what holds the muscle when nothing confirms it's right?
+- Job 3 signal to watch for: she asks what that structure looks like for a solo founder
+
+**Message sent**
+> The muscle from soccer was held by the team, the coach, the championship.
+> "You question everything" as a founder — who holds it now?
+
+**Tollgates**
+- T1 (sent March 10, 2026): Led with what I sensed ✅ — named the structural gap (team/coach/championship are gone), quoted her exact words ("you question everything"), one question, 27 words, no pitch. Broke the pattern of her engagement question — most commenters shared their own sports stories, this went back to her signal.
+- T2 (check March 12, 2026):
+- T3 (reply received):
+
+**What I learned:**
 
 ---
