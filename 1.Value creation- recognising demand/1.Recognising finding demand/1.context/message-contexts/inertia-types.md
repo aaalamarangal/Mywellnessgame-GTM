@@ -102,12 +102,15 @@ Observable in: Vinotha (45 days, named when confronted)
 
 When you identify the inertia type in Bridge, the positioning type for Layer 0 follows automatically.
 
-| Inertia Type | Positioning Type | Why |
-|---|---|---|
-| Type 1 — Internal solution | Competitive Alternative | Founder built their own system — the regulation gap is underneath it |
-| Type 2 — Ad hoc workaround | Use Case Positioning | Founder juggles fragmented tools — thinks better combo will fix it |
-| Type 3 — Not a priority | Activity Positioning | Founder handling gap through willpower — not looking for a solution yet |
-| Type 4 — Status quo | Activity Positioning | Friction accepted and budgeted — invisible cost is the gap |
+| Inertia Type | Founder Type | Mental health pattern | Positioning Type | Why |
+|---|---|---|---|---|
+| Type 1 — Internal solution | Founder A (Macro) | Burnout | Use Case Positioning | Has tools they built — thinks the combo covers the gap |
+| Type 2 — Ad hoc workaround | Founder B | Procrastination | Activity Positioning | Surviving on fragments and willpower — no real system |
+| Type 3 — Not a priority | Founder A (Micro) | Burnout | Activity Positioning | No system in place — postponing until conditions are better |
+| Type 4 — Status quo | Founder C | Inconsistency | Use Case Positioning | Has a routine — thinks it's working, can't see what it's costing |
+
+Exception: If the founder has an AI system and feels the regulation gap → Competitive Alternative.
+Exception: If the founder is actively comparing options (Job 2–3) → Product Category.
 
 Note: Product Category positioning only applies at Jobs 2–3 — when the founder is actively comparing options. It does not map from an inertia type. It is triggered by fit questions.
 

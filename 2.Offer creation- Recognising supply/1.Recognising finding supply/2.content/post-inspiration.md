@@ -13,6 +13,9 @@ Before writing any post — read this file first.
 When capturing a new entry, identify the Positioning Type — use offer-positioning.md as reference.
 Positioning Type only applies to founder-gap entries. GTM posts, framework observations, personal stories → N/A.
 
+Stage values: Captured → In Progress → Published
+Only one entry should be "In Progress" at a time.
+
 | # | Inspiration | Source type | Positioning Type | Stage | Post link |
 |---|---|---|---|---|---|
 | 1 | Founder replies — same pattern underneath | Value Creation — daily messaging | Activity | Published | [Post 1](https://www.linkedin.com/feed/update/urn:li:activity:7432100526374424576/) |
@@ -25,27 +28,38 @@ Positioning Type only applies to founder-gap entries. GTM posts, framework obser
 | 8 | Hill climbing — local vs global maximum | GTM post — Joe Rhew | N/A | Captured | — |
 | 9 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | N/A | Captured | — |
 | 10 | Neuroscience of learning — one hour doubles connections | Video/Podcast — Dr. Joe Dispenza | N/A | Captured | — |
-| 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Use Case | Captured | — |
+| 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Use Case | Published | — |
 | 12 | "I became the bottleneck without realizing it" — Rana Naskar | Value Creation — daily messaging (Rana Interaction 4) | Activity | Captured | — |
 | 13 | "Burning out in two directions at once" — Aannya Vashishth | Value Creation — daily messaging | Activity | Captured | — |
 | 14 | Resolution gate — the signal was real, the timing was wrong | Value Creation — framework observation (Tim Scheuer, Jordan Peace, Rana Naskar) | N/A | Captured | — |
 | 15 | Invisible humor — precision without humanity reads as clinical | Value Creation — field observation (Alex Perelman / Ross Geiger thread) | N/A | Captured | — |
 | 16 | Personality posts — people follow who you are, not just what you do | GTM post — Isabel Sterne | N/A | Captured | — |
-| 17 | Vinotha — the defend-and-procrastinate pattern / Shiva naming it live | Personal story — coaching intern | Activity | Captured | — |
+| 17 | Vinotha — the defend-and-procrastinate pattern / Shiva naming it live | My founder journey — coaching intern story | Activity | Captured | — |
+| 18 | The naming moment — when the gap is named precisely, the founder stops defending and starts moving | Claude suggestion — field meta-pattern (15+ interactions: Thenuka, Rana, Aannya, Vinotha) | Use Case | Captured | — |
+| 19 | Language without lever — founders who can describe their gap perfectly are still stuck | Claude suggestion — language-without-lever pattern (Christina, Jordan, Thenuka, Nick) | Use Case | Captured | — |
 
 ---
 
 ## Where Post Inspiration Comes From
 
-Three inputs. Use at least one before writing anything.
+Four layers. Before writing any post — identify which layer the material comes from.
 
-1. **Daily messaging** — what you notice in founder signals. Each message is raw material. The gap you named, the inertia you wrote against, the exact words they used — all of it is a post waiting to happen.
-   - Proven: Post 1 and Post 2 both came directly from messaging work.
+1. **Daily comment messaging** — every signal you read and message you write is raw material.
+   The gap you named, the inertia you wrote against, the exact words they used — all post-ready.
+   Cadence: daily.
 
-2. **Client value delivery** — when a client gets a result from the work, that experience is a post. Not a case study — a lived moment. What shifted, what they said, what you noticed.
-   - This is the strongest signal that the offer is working.
+2. **Client breakthroughs and breakdowns** — when a client gets a result or hits a wall, that moment is a post.
+   Not a case study. A lived moment — what shifted, what they said, what you noticed.
+   Cadence: daily or biweekly.
 
-3. **GTM posts from other founders** — posts about go-to-market, systems, and operating that give principles and language. Read them to extract what applies to mywellnessgame.
+3. **Post modelling — GTM and other interesting lens** — posts from GTM founders, operators, and other fields
+   that give principles and language. Read them to extract what applies to mywellnessgame.
+   Cadence: daily or biweekly.
+
+4. **My founder journey** — Shiva's own experience building this business.
+   Patterns, mistakes, observations, and moments from coaching, messaging, and living the framework.
+   Distinct from client moments — this is Shiva's story, not someone else's.
+   Cadence: as it happens.
 
 ---
 

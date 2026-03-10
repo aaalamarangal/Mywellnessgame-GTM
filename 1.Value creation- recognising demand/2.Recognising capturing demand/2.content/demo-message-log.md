@@ -36,6 +36,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Message angle**
 - Inertia type: [Status quo / Internal solution / Ad hoc workaround / Not a priority]
+- Mental health pattern: [Burnout / Procrastination / Inconsistency]
 - Positioning Type: [Activity / Use Case / Product Category / Competitive Alternative]
 - Where job breaks: Recognising / Remembering / Reviewing / Rewiring — [one sentence on why]
 - Pre-intent symptoms: [raw felt language from signal — what they're experiencing before naming the problem]
@@ -930,6 +931,17 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 - ICP Motivator: CERTAINTY — wants to know when to stop, when to move, when he's the constraint. Built certainty through failure. Question is whether he has a system to build it before the market forces the lesson.
 - Real threat: Next bottleneck also only visible in hindsight → frustration cost stays live → lesson learning stays reactive
 
+**Gate:** Coping — proceed carefully. No personal gap named in reply. Answering from operational confidence.
+
+**Layer 0 — Positioning type:** Use Case Positioning
+- ICP: Founder B
+- Core problem: Can't see himself as the constraint before it forms
+- Fragmented tools: Strategic planning, KPI tracking, check-ins, feedback loops
+- Limitation 1: KPIs catch the business output, not his internal state
+- Limitation 2: Check-ins track team alignment, not his own drift
+- Limitation 3: Feedback loops surface after the signal moved — bottleneck formed before the metric
+- Job-to-be-done: See when he's becoming the constraint before team or market confirms it
+
 **Context**
 - Founder type: B
 - Business type: B (DesireLand — profitable today; writing from strength)
@@ -947,13 +959,21 @@ March 4 signal was about external honesty vs internal system. This new signal sh
 **Tollgates**
 - T1 (sent March 10, 2026): Led with his exact words ✅ — "without realizing it" quoted directly, one question, no pitch, no framework. 27 words.
 - T2 (check March 12, 2026):
-- T3 (reply received):
+- T3 (reply received March 10, 2026): He answered — "I spend more time on strategic planning and keeping an eye on key performance indicators. Regular check-ins and feedback loops help ensure we're aligned and can pivot before any market surprises." External/operational framing. Team and market-facing systems. Has not named whether these catch HIM as the constraint — only whether they catch the business outcome.
+
+**What the reply reveals:**
+He described a system. But the system he described (KPIs, check-ins, feedback loops) tracks the business and the team — not his own internal state. The original gap was "without realizing it" — he became the bottleneck before the market showed it. His answer is still market-facing. The personal visibility gap is still unnamed.
 
 **Demo jobs tracker**
-- Job 1 done? No — monitoring
+- Job 1 done? Partial — he answered the question but with operational language. Gap between his systems and personal visibility not yet named by him.
 - Use case: Bottleneck / reactive lesson learning
 - Fit question asked: No
 
-**What I learned:**
+**Next draft [DRAFT — not sent]**
+> "Regular check-ins and feedback loops — so you can pivot before the market surprises you." The bottleneck formed before the market moved too. Do those tools catch you — or what you're building?
+
+**Word count:** 34 words. One question. Quotes his exact words back, then turns them.
+
+**What I learned:** He engages when asked a direct question. Answers in operational language — systems he has, not gaps he feels. The next question has to surface the gap between his external systems and the internal signal they don't catch.
 
 ---
