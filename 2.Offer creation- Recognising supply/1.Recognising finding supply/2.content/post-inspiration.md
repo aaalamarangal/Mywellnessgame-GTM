@@ -27,6 +27,7 @@ Before writing any post — read this file first.
 | 13 | "Burning out in two directions at once" — Aannya Vashishth | Value Creation — daily messaging | Captured | — |
 | 14 | Resolution gate — the signal was real, the timing was wrong | Value Creation — framework observation (Tim Scheuer, Jordan Peace, Rana Naskar) | Captured | — |
 | 15 | Invisible humor — precision without humanity reads as clinical | Value Creation — field observation (Alex Perelman / Ross Geiger thread) | Captured | — |
+| 16 | Personality posts — people follow who you are, not just what you do | GTM post — Isabel Sterne | Captured | — |
 
 ---
 
