@@ -10,24 +10,28 @@ Before writing any post — read this file first.
 
 ## Post Arc Tracker
 
-| # | Inspiration | Source type | Stage | Post link |
-|---|---|---|---|---|
-| 1 | Founder replies — same pattern underneath | Value Creation — daily messaging | Published | [Post 1](https://www.linkedin.com/feed/update/urn:li:activity:7432100526374424576/) |
-| 2 | Regulation gap — founders track output, not state | Value Creation — daily messaging | Published | [Post 2](https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/) |
-| 3 | "It is building courage" — Sujith + Rana Naskar | Value Delivery — client breakthrough | Published | — |
-| 4 | Convincing vs existing — mental shortlist | GTM post — T. Bruining | Captured | — |
-| 5 | GTM filesystem — judgment vs execution | GTM post — Nico Druelle | Captured | — |
-| 6 | Automating tasks vs architecting systems | GTM post — Nemanja Stojisavljevic | Captured | — |
-| 7 | Judgment over creativity — tool-shaped objects | GTM post — Wade Foster | Captured | — |
-| 8 | Hill climbing — local vs global maximum | GTM post — Joe Rhew | Captured | — |
-| 9 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | Captured | — |
-| 10 | Neuroscience of learning — one hour doubles connections | Video/Podcast — Dr. Joe Dispenza | Captured | — |
-| 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Captured | — |
-| 12 | "I became the bottleneck without realizing it" — Rana Naskar | Value Creation — daily messaging (Rana Interaction 4) | Captured | — |
-| 13 | "Burning out in two directions at once" — Aannya Vashishth | Value Creation — daily messaging | Captured | — |
-| 14 | Resolution gate — the signal was real, the timing was wrong | Value Creation — framework observation (Tim Scheuer, Jordan Peace, Rana Naskar) | Captured | — |
-| 15 | Invisible humor — precision without humanity reads as clinical | Value Creation — field observation (Alex Perelman / Ross Geiger thread) | Captured | — |
-| 16 | Personality posts — people follow who you are, not just what you do | GTM post — Isabel Sterne | Captured | — |
+When capturing a new entry, identify the Positioning Type — use offer-positioning.md as reference.
+Positioning Type only applies to founder-gap entries. GTM posts, framework observations, personal stories → N/A.
+
+| # | Inspiration | Source type | Positioning Type | Stage | Post link |
+|---|---|---|---|---|---|
+| 1 | Founder replies — same pattern underneath | Value Creation — daily messaging | Activity | Published | [Post 1](https://www.linkedin.com/feed/update/urn:li:activity:7432100526374424576/) |
+| 2 | Regulation gap — founders track output, not state | Value Creation — daily messaging | Activity | Published | [Post 2](https://www.linkedin.com/feed/update/urn:li:activity:7434890646001422336/) |
+| 3 | "It is building courage" — Sujith + Rana Naskar | Value Delivery — client breakthrough | Competitive Alternative | Published | — |
+| 4 | Convincing vs existing — mental shortlist | GTM post — T. Bruining | N/A | Captured | — |
+| 5 | GTM filesystem — judgment vs execution | GTM post — Nico Druelle | N/A | Captured | — |
+| 6 | Automating tasks vs architecting systems | GTM post — Nemanja Stojisavljevic | N/A | Captured | — |
+| 7 | Judgment over creativity — tool-shaped objects | GTM post — Wade Foster | N/A | Captured | — |
+| 8 | Hill climbing — local vs global maximum | GTM post — Joe Rhew | N/A | Captured | — |
+| 9 | Swarm of agents vs unified product | GTM post — Riccardo Pellegrini | N/A | Captured | — |
+| 10 | Neuroscience of learning — one hour doubles connections | Video/Podcast — Dr. Joe Dispenza | N/A | Captured | — |
+| 11 | "I know what move matters today but still end up not executing them" — Sujith + Rana | Field observation — two independent sources, same gap | Use Case | Captured | — |
+| 12 | "I became the bottleneck without realizing it" — Rana Naskar | Value Creation — daily messaging (Rana Interaction 4) | Activity | Captured | — |
+| 13 | "Burning out in two directions at once" — Aannya Vashishth | Value Creation — daily messaging | Activity | Captured | — |
+| 14 | Resolution gate — the signal was real, the timing was wrong | Value Creation — framework observation (Tim Scheuer, Jordan Peace, Rana Naskar) | N/A | Captured | — |
+| 15 | Invisible humor — precision without humanity reads as clinical | Value Creation — field observation (Alex Perelman / Ross Geiger thread) | N/A | Captured | — |
+| 16 | Personality posts — people follow who you are, not just what you do | GTM post — Isabel Sterne | N/A | Captured | — |
+| 17 | Vinotha — the defend-and-procrastinate pattern / Shiva naming it live | Personal story — coaching intern | Activity | Captured | — |
 
 ---
 
@@ -55,6 +59,7 @@ Three inputs. Use at least one before writing anything.
 | Wade Foster (Zapier CEO) | Judgment over creativity — AI curates better than we craft | "Tool-shaped objects: things that look like tools but don't actually solve a problem" → founders build tool-shaped productivity systems that don't actually regulate. "Creativity matters less. Judgment matters more." → Clarity game is judgment, not more ideas. "Less crafting, more curating" → the ONE THING is curation. | [Post](https://www.linkedin.com/posts/wadefoster_something-humbling-ive-learned-ais-ideas-share-7434598961170087936-eBSF/) |
 | Joe Rhew | Outbound as hill climbing — local vs global maximum | "You only explored the neighbourhood around where you started." "You don't know what you don't know." → founders optimise productivity from a broken starting point. Tweaking habits = local maximum. The Clarity game moves you to a different hill entirely. Regulation is not a tweak — it changes the starting point. | [Post](https://www.linkedin.com/posts/joerhew_ive-been-thinking-about-outbound-as-a-hill-share-7433178073635917824-gTR-/) |
 | Riccardo Pellegrini (CEO, Knode.ai) | Swarm of agents vs unified product | Founders don't want a swarm of habits — they want one orchestrating system. The Leverage Stack is the unified product. Founders don't need to understand the 3 games — they need to feel the ONE move is clear. | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7430328630276370432/) |
+| Isabel Sterne | Personality posts — reputation on who you are, not just what you do | "You are not a product; you're a person." Mix in posts that share how you experience the world — so founders follow Shiva as a person before they follow him as a coach. | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7436163391016202240/) |
 
 ---
 ### Riccardo Pellegrini — Knode.ai — March 2026
@@ -80,6 +85,32 @@ faster, with less complexity."
 - Most founders have a swarm of habits. The problem isn't the habits — it's that nothing orchestrates them into a clear move. The Leverage Stack is the orchestrator.
 - Customers want the outcome, not the architecture. They want to get to the result faster, with less complexity. That is what the ONE THING does.
 - The Leverage Stack is not a new tool. It makes your existing effort legible — so you stop managing a swarm and start making one move.
+
+---
+### Isabel Sterne — March 2026
+
+**Source:** https://www.linkedin.com/feed/update/urn:li:activity:7436163391016202240/
+**Person:** Isabel Sterne — https://www.linkedin.com/in/isabel-sterne/
+**Topic:** Personality posts — why sharing who you are builds a stronger LinkedIn reputation than expertise alone
+**Status:** Captured
+
+**Exact quotes:**
+"One reason to mix in 'personality' posts on LinkedIn is that it helps people get to know you beyond your job, so that you can build your reputation on who you are and how you think rather than just what you do."
+"People want to work with people they like and relate to."
+"We are people. We are more than our deliverables, and that's what makes us interesting."
+"You are not a product; you're a person. It's a best practice to act like it."
+
+**Key insights for mywellnessgame:**
+
+1. Expertise posts alone create a cold ledger — founders know what you do but not who you are. Personality posts close that gap before any conversation starts.
+2. If the offer, framework, or target shifts — a following built on who Shiva is survives the change. A following built only on tips does not.
+3. "People will be more likely to comment, DM, and pay attention when you share your more business-focused posts." — Personality posts warm the audience so the signal posts land harder.
+4. The mywellnessgame offer is about regulation — being a person who has done the work, not just a coach who teaches it. Personality posts make that real.
+
+**Post angles (when ready):**
+- Share something from outside the framework — a moment, a habit, a tension — that shows how Shiva actually lives what he coaches. Not as a case study. As a person.
+- "I coach founders on regulation. Here's what breaks my own regulation." — vulnerability that proves the work is lived, not just taught.
+- Share what drew Shiva to this work — the origin, the moment it became real — not the methodology.
 
 ---
 
@@ -184,6 +215,34 @@ Brainwave states:
 
 **Post angle (when ready):**
 Some founders are burning out in two directions at once. Not because they're doing too much — because they have two identities and no system holding either one. The Clarity game is not about choosing. It's about building a regulation layer strong enough to hold both without fear running the decisions.
+
+---
+
+## Personal Stories — Raw Material for Personality Posts
+
+Real moments from Shiva's own work. Draw from these when writing personality posts.
+
+---
+
+### Vinotha — March 2026
+
+45 days stuck on connecting Claude Code to Google Sheets API.
+One post (Jason Gong) cracked it.
+When Shiva named the gap, Vinotha admitted she didn't know — but hadn't said so for 45 days.
+
+Her words:
+"If I do not know something, I should take immediate steps to learn it instead of stopping."
+
+Shiva's reply:
+"I can see it's a deep pattern in you to defend, not do small experiments to get things done but procrastinate."
+
+Shiva's own gap from the same session:
+Not defining outcomes clearly — what needs to be done manually vs what to automate.
+
+Post angles (when ready):
+- 45 days. One post. The problem was never the task.
+- The person who defends is protecting themselves from the gap they haven't named yet.
+- I coach founders on regulation. In the same conversation I had to name my own gap.
 
 ---
 

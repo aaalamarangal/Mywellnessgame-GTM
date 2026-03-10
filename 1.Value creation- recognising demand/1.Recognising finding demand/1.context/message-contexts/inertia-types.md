@@ -28,6 +28,16 @@ Types 2 and 3 both operate at the Remembering stage — the founder knows regula
 
 ---
 
+## Inertia Type → Founder Type → Observable Outcome
+
+| Founder type | Inertia type(s) | Observable outcome |
+|---|---|---|
+| Founder A | Type 1 (Internal solution) + Type 3 (Not a priority) | Burnout |
+| Founder B | Type 2 (Ad hoc workaround) | Procrastination |
+| Founder C | Type 4 (Status quo) | Inconsistency |
+
+---
+
 ## Inertia Type 1 — Internal Solution
 
 **What the founder says:** "I built my own system" / "I could build this myself"
@@ -55,6 +65,11 @@ Types 2 and 3 both operate at the Remembering stage — the founder knows regula
 - Jordan Peace: "I'm a flawed, overwhelmed human with five kids and ADHD trying to run a startup." — therapy + radical transparency is the system. Fragmented, not compounding.
 - Manaal Maniyar: "What kept me going was not ambition. It was the 'motherhood' that rewired me." — emotional mission was the workaround. Real and profound, but can't be deployed on demand.
 
+**Sub-pattern — Defend and deflect:**
+The founder knows the gap. When it is named, they defend instead of acting.
+Defense is the last move before acknowledgment. Not confusion — avoidance of commitment.
+Observable in: Vinotha (45 days, named when confronted)
+
 ---
 
 ## Inertia Type 3 — Not a Priority
@@ -80,6 +95,23 @@ Types 2 and 3 both operate at the Remembering stage — the founder knows regula
 **LinkedIn signal examples:**
 - Nick Ang: "I have no system for knowing if I'm actually doing what I say I do, or where the gaps are." — shows up at 5am for a year, the routine is real, the visibility is absent
 - Rana Naskar: "Most founders can track their output. Almost none can track their state. That gap is quietly running the show." — frames it universally, gap is live personally
+
+---
+
+## Inertia Type → Positioning Type
+
+When you identify the inertia type in Bridge, the positioning type for Layer 0 follows automatically.
+
+| Inertia Type | Positioning Type | Why |
+|---|---|---|
+| Type 1 — Internal solution | Competitive Alternative | Founder built their own system — the regulation gap is underneath it |
+| Type 2 — Ad hoc workaround | Use Case Positioning | Founder juggles fragmented tools — thinks better combo will fix it |
+| Type 3 — Not a priority | Activity Positioning | Founder handling gap through willpower — not looking for a solution yet |
+| Type 4 — Status quo | Activity Positioning | Friction accepted and budgeted — invisible cost is the gap |
+
+Note: Product Category positioning only applies at Jobs 2–3 — when the founder is actively comparing options. It does not map from an inertia type. It is triggered by fit questions.
+
+See offer-positioning.md for the mywellnessgame-specific answers to each positioning template.
 
 ---
 

@@ -258,3 +258,103 @@ The founder feels regulation happen in real time. That is the close.
 ## Open Questions
 
 - As more founders build their own AI systems, how do you scale the template as the entry point without losing the coaching layer underneath?
+
+---
+
+## Alexander Estner — 4 Positioning Templates Applied to mywellnessgame
+
+Source: Alexander Estner (mrrunlocked.com) — Positioning Guide
+Post: https://www.linkedin.com/feed/update/urn:li:activity:7437029724415180800/
+
+These four templates are the internal narrative that justifies why mywellnessgame exists.
+Use these when doing demo commenting (to know your positioning before entering a thread) and when working with clients (to explain the offer clearly at the right level of market maturity).
+
+The templates are ordered from low to high market maturity. Most founders Shiva is messaging right now are at Activity or Use Case level — they are not yet comparing solutions. The Competitive Alternative template activates when a founder is already using tools and feeling the gap.
+
+---
+
+### 1. Activity Positioning
+*Use when: founder is handling the gap through manual effort or willpower — not yet looking for a solution category.*
+
+**Founders struggle with sustaining productivity through the build.**
+Today, they handle this by willpower, ad hoc journaling, or AI tools they configure themselves.
+
+This creates key limitations:
+1. Each day starts from zero — no system that compounds across weeks
+2. When energy drops, they can't see why — only feel it
+3. They blame themselves, their team, or circumstances — instead of seeing the pattern early
+
+We built a coaching layer that uses familiar work tools — to do, assessment, journal — so that founders can finish their highest leverage move before the day pulls them apart.
+
+Unlike manual processes, we do the regulation work underneath — so the founder's relationship to their tasks changes, not just the task list.
+
+---
+
+### 2. Use Case Positioning
+*Use when: founder is using fragmented tools to solve the gap — thinks the answer is a better tool combination.*
+
+**Founders face the challenge of building consistently without burning out.**
+They attempt to solve this by fragmenting across AI assistants for thinking, journaling apps for reflection, and occasional coaching — none of it connected to daily execution.
+
+This leads to key limitations:
+1. AI thinking partners only work when thinking is already clear — amplify confusion when it's not
+2. Journaling captures what happened but can't show why some weeks drain and others don't
+3. Coaching sessions happen outside the workday — can't reach the moments that matter
+
+We help founders finish their highest leverage move daily without juggling fragmented tools.
+We are a single coaching layer — thinking partner, accountability partner, and coaching partner — built into the tools they already use.
+
+We are differentiated because we diagnose why the founder is stuck — Context Debt, Content Debt, or Formula Debt — and do the regulation work that fragmented tools skip entirely.
+
+---
+
+### 3. Product Category Positioning
+*Use when: founder is evaluating "coaching" or "productivity systems" as a category — actively comparing options.*
+
+**Founders face the problem of not being able to access their best state consistently when building under stress.**
+They evaluate productivity coaching and AI productivity systems to address it.
+
+Most category players create limitations:
+1. Generic coaches don't integrate into the founder's daily workflow — feel separate from execution
+2. AI systems manage tasks but not the founder's relationship to the tasks
+3. Framework-based coaching explains the problem but doesn't change the state in real time
+
+We built a regulation-first coaching system specifically for founders using Claude Code.
+
+Unlike typical coaching or AI tools, we run the Macro → Micro → Nano framework live on the founder's real situation — so the founder feels regulation happen during the session, not just understand it after.
+
+---
+
+### 4. Competitive Alternative Positioning
+*Use when: founder has already built their own AI system and is feeling the gap — regulation layer missing despite having the tool.*
+
+**Founders face the problem of their Claude Code or AI system working against them when their thinking isn't clear.**
+Many rely on self-built Claude Code systems, ChatGPT workflows, or journaling apps to address it.
+
+However, this creates limitations:
+1. AI amplifies whatever state the founder is already in — good or bad. Stressed input → stressed output.
+2. A tool that manages tasks faster doesn't fix the founder's relationship to the tasks
+3. Persistent memory without a framework produces more data, not more clarity
+
+We are the regulation-first alternative to DIY AI systems and generic coaching.
+Unlike tools that manage the output, we change what is happening underneath.
+
+We make the coaching happen before the AI session — so Claude Code amplifies clarity, not confusion.
+The sequence: Shiva's coaching → clear thinking → Claude Code works as intended.
+
+**Field evidence:** Stephen Whitworth built a full Claude Code OS. Tracked his week against what actually matters. When asked about the wellbeing layer — deflected with humour ("yolo"). The system is there. The regulation layer is not. He proved the need and solved the wrong layer.
+
+---
+
+### Which Template to Use — Quick Reference
+
+| Founder signal | Template to use |
+|---|---|
+| Willpower / pushing through / no system | Activity Positioning |
+| Has tools but they don't connect / fragmented | Use Case Positioning |
+| Actively evaluating coaching or productivity systems | Product Category Positioning |
+| Built their own AI system / Claude Code OS / feels regulation gap | Competitive Alternative Positioning |
+
+**In demo commenting:** You don't pitch using these templates. You use them as orientation — to know where the founder is in their journey before you write a single word. The comment itself stays in their language. The template keeps you anchored in what you are building.
+
+**In client work (demo call):** The founder has already named their gap. The template tells you which positioning narrative to use when they ask "so what exactly do you do?" — you meet them at the level of maturity they are at, not the level you want them to be at.

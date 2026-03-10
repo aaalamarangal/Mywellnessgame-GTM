@@ -7,6 +7,96 @@ This informs how Shiva eventually talks about mywellnessgame — not as a pitch,
 
 ---
 
+## Before Writing Any Post
+
+**Step 1 — Choose the positioning type for this post:**
+
+```
+□ Activity Positioning      — for founders not yet looking for a solution
+□ Use Case Positioning      — for founders juggling fragmented tools
+□ Product Category          — for founders comparing coaching/AI systems
+□ Competitive Alternative   — for founders who built their own AI system and feel the gap
+```
+
+The post inspiration determines the positioning type — read the inspiration first, then identify which type fits.
+
+**Step 2 — Fill in the template questions for that type (this becomes the post's backbone):**
+
+**If Activity Positioning:**
+```
+□ ICP:                 Founders (Founder A / B / C)
+□ Core problem:        [what is breaking — one sentence]
+□ Current workaround:  [what they are doing today to handle it]
+□ Limitation 1:        [what the workaround misses — first gap]
+□ Limitation 2:        [second gap]
+□ Limitation 3:        [third gap]
+□ What changes:        [what the founder can do that they couldn't before]
+□ Differentiator:      [one sentence — what makes this different from the workaround]
+```
+
+**If Use Case Positioning:**
+```
+□ ICP:                 Founders (Founder A / B / C)
+□ Core problem:        [what is breaking — one sentence]
+□ Tools they use:      [the fragmented combination]
+□ Limitation 1:        [what tool 1 misses]
+□ Limitation 2:        [what tool 2 misses]
+□ Limitation 3:        [what the combination misses even when all tools work]
+□ Job-to-be-done:      [what the founder actually needs to accomplish]
+□ Differentiator:      [one sentence — why fragmentation can't solve it]
+```
+
+**If Competitive Alternative:**
+```
+□ ICP:                 Founders who built their own AI system
+□ Core problem:        [what the AI system can't fix]
+□ Market leader:       [Claude Code / ChatGPT / self-built setup]
+□ Limitation 1:        [AI amplifies current state — good or bad]
+□ Limitation 2:        [task management ≠ relationship to tasks]
+□ Limitation 3:        [memory without framework = more data, not clarity]
+□ Improvement adjective: [regulation-first]
+□ Differentiator:      [coaching before the session — founder shows up already clear]
+```
+
+**If Product Category:**
+```
+□ ICP:                 Founders (Founder A / B / C)
+□ Core problem:        [what is breaking — one sentence]
+□ Category:            [productivity coaching / AI productivity systems]
+□ Limitation 1:        [generic coaches don't integrate into daily workflow]
+□ Limitation 2:        [AI systems manage tasks, not founder's relationship to tasks]
+□ Limitation 3:        [framework coaching explains the problem, doesn't change the state in real time]
+□ Differentiator:      [Macro → Micro → Nano live — regulation felt in session, not understood after]
+```
+
+The filled-in mywellnessgame answers for all 4 templates live in offer-positioning.md.
+
+**Step 3 — Check: is this the backbone or the post?**
+The template answers are the backbone — not the post's words.
+The post uses founder language, lived experience, and one specific example.
+Never use template language directly in the post.
+
+**Step 4 — Apply Post-principles rules (below):**
+```
+□ One idea only
+□ Under 100 words
+□ Opens with reframe (not with framework name)
+□ Uses "I'm experimenting with" not "I've built"
+□ Closes with the insight — not a question
+□ No CTA, no P.S.
+□ Describes experience, not architecture
+```
+
+**Step 5 — Which game is this post about?**
+```
+□ Clarity game (founder can't name what's wrong — blames external)
+□ Action game (founder has discipline but no system holding the build)
+□ Lesson game (founder has discipline but no visibility into what it adds up to)
+```
+→ Use the relevant game template below (Clarity / Lesson templates are in the Game-Specific Post Templates section).
+
+---
+
 ## Why This Matters
 
 When a founder shares their system publicly, they're not selling.

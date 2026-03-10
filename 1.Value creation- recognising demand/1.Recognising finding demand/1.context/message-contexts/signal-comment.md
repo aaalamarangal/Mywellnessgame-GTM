@@ -45,10 +45,81 @@ If the founder is resolved — the signal was real, the timing is wrong. Monitor
 
 ---
 
+## Layer 0 — Positioning Orientation (run immediately after Gate, before Signal pipeline)
+
+**Step 1 — Identify which positioning type applies to this founder:**
+
+```
+□ Not looking for a solution (surviving on willpower / manual effort)   → Activity Positioning
+□ Has fragmented tools (thinks better combo will fix it)                → Use Case Positioning
+□ Has an AI system, feels the regulation gap                            → Competitive Alternative
+□ Actively comparing coaching or productivity options (Jobs 2–3)        → Product Category
+```
+
+Note: The inertia type you identify in Bridge tells you the positioning type automatically — see inertia-types.md for the mapping.
+
+**Step 2 — Answer the template questions for that positioning type:**
+
+**If Activity Positioning:**
+```
+□ My ICP is:                    [Founder type — A / B / C]
+□ Their core problem is:        [exact gap from their signal]
+□ Their current workaround is:  [what the inertia type reveals — willpower / journaling / ad hoc]
+□ Limitation 1:                 [each day starts from zero — no system that compounds]
+□ Limitation 2:                 [when energy drops, can't see why — only feel it]
+□ Limitation 3:                 [blames self / team / circumstances instead of seeing the pattern]
+□ My differentiator:            [regulation work underneath — relationship to tasks changes, not just the task list]
+```
+
+**If Use Case Positioning:**
+```
+□ My ICP is:                    [Founder type — A / B / C]
+□ Their core problem is:        [exact gap from their signal]
+□ Fragmented tools they use:    [AI assistant / journaling / coaching — none connected]
+□ Limitation 1:                 [AI only works when thinking is already clear]
+□ Limitation 2:                 [journaling captures what happened, not why some weeks drain]
+□ Limitation 3:                 [coaching happens outside the workday, can't reach the moments that matter]
+□ Job-to-be-done:               [finish highest leverage move before the day pulls them apart]
+□ My differentiator:            [diagnose WHY stuck — Context / Content / Formula Debt]
+```
+
+**If Competitive Alternative (AI-native founder):**
+```
+□ My ICP is:                    [Founder type — A / B / C]
+□ Their core problem is:        [exact gap from their signal]
+□ Market leader they rely on:   [Claude Code / ChatGPT / self-built AI system]
+□ Limitation 1:                 [AI amplifies whatever state the founder is already in — good or bad]
+□ Limitation 2:                 [faster task management doesn't fix the relationship to tasks]
+□ Limitation 3:                 [persistent memory without framework = more data, not more clarity]
+□ My improvement adjective:     [regulation-first]
+□ My differentiator:            [coaching happens before the AI session — founder shows up already clear]
+```
+
+**If Product Category (founder is comparing options — Jobs 2–3 only):**
+```
+□ My ICP is:                    [Founder type — A / B / C]
+□ Their core problem is:        [exact gap they named in Job 1]
+□ Category they're evaluating:  [productivity coaching / AI productivity systems]
+□ Limitation 1:                 [generic coaches don't integrate into daily workflow]
+□ Limitation 2:                 [AI systems manage tasks, not founder's relationship to tasks]
+□ Limitation 3:                 [framework coaching explains the problem, doesn't change the state in real time]
+□ My differentiator:            [Macro → Micro → Nano live on their situation — regulation felt in session, not understood after]
+```
+
+**Step 3 — Use this to orient. Do NOT use this language in the comment.**
+The comment stays in the founder's language.
+The template tells you what you are building toward — not what to say.
+
+The filled-in mywellnessgame answers for all 4 templates live in offer-positioning.md.
+
+→ Now proceed to Signal → Bridge → Voice.
+
+---
+
 ## The Pipeline
 
 ```
-Gate → Signal → Bridge → Voice
+Gate → Layer 0 → Signal → Bridge → Voice
 ```
 
 **Signal** — find something specific about the founder

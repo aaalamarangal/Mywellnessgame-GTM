@@ -29,6 +29,7 @@ Claude does:
    - Signal: Game / Inertia type / Pre-intent symptoms / Founder type / Business type / Coping or Blocked
    - Bridge: Inertia type + where job breaks + pre-intent symptoms → one message anchor sentence
    - Voice: under 100 words, one question, leads with what you sensed — not the framework
+   - Layer 0 positioning orientation precedes the pipeline — see signal-comment.md for the checklist. Positioning Type flows automatically from the inertia type (see inertia-types.md mapping).
 3. Write DRAFT entry to demo-message-log.md (marked [DRAFT — not sent])
 4. Show full diagnosis in chat — in this order:
    a. Signal section (Game, Inertia type, pre-intent symptoms, Coping or Blocked)

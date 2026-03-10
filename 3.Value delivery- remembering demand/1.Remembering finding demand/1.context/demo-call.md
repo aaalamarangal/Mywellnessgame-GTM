@@ -47,6 +47,26 @@ Never open with an explanation of the offer.
 
 ---
 
+## Which positioning template to use on the call
+
+When the founder asks "what do you do?" — open offer-positioning.md and use the template that matches their positioning level. Meet them where they are, not where you want them to be.
+
+```
+"What do you do?" (early, general)    → Activity or Use Case template — meet them at their current level
+"How is this different from X?"        → Product Category template — they are comparing options
+"Where does your layer sit in my       → Competitive Alternative template — they have the tool,
+ Claude Code setup?"                     they are asking about the regulation gap underneath
+```
+
+Competitive Alternative is the most likely template on a demo call. The founder has already named their gap and is asking how your layer sits in their existing workflow.
+
+**Example response for Competitive Alternative:**
+> "Claude Code amplifies whatever state you are already in. When thinking is clear, it accelerates you. When you are stressed or stuck, it amplifies that. My coaching happens before the session — so you show up already clear."
+
+Never explain the offer before the founder asks. Start at the gap they already named. The positioning template answers the question they ask — it does not replace the starting point.
+
+---
+
 ## The structure — Macro → Micro → Nano
 
 Run the template live on their real situation.

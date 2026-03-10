@@ -36,6 +36,7 @@ After every message sent, log the entry here and fill Tollgate 1 before closing 
 
 **Message angle**
 - Inertia type: [Status quo / Internal solution / Ad hoc workaround / Not a priority]
+- Positioning Type: [Activity / Use Case / Product Category / Competitive Alternative]
 - Where job breaks: Recognising / Remembering / Reviewing / Rewiring — [one sentence on why]
 - Pre-intent symptoms: [raw felt language from signal — what they're experiencing before naming the problem]
 - ICP Motivator: [CONTROL / SPEED / CERTAINTY / RECOGNITION]

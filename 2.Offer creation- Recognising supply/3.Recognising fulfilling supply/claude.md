@@ -30,6 +30,7 @@ Shiva shares: post topic or field observation, inspiration post link (if applica
 
 Claude does:
 1. Remind Shiva to check the comments on the inspiration post before writing
-2. Apply Niko Noll's 11-step post structure (from messaging-angles.md)
-3. Write full draft to plan file
-4. Summarize in chat — one line per structural element
+2. Run the Before Writing checklist in Post-principles.md before drafting — choose positioning type, fill template questions, confirm game
+3. Apply Niko Noll's 11-step post structure (from messaging-angles.md)
+4. Write full draft to plan file
+5. Summarize in chat — one line per structural element

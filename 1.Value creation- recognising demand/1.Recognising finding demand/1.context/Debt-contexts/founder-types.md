@@ -168,6 +168,9 @@ The game: Action / Micro — knows what to do but can't hold to the one thing wh
 - Concepts not yet internalised — tries to execute without having the framework in a working document
 - Time blocking identified but not honoured — high-leverage outcomes named but not protected on calendar
 - Pressure not yet owned as a reflex — recognises it intellectually but doesn't act on it immediately
+- Defends when a gap is named instead of running a small experiment to close it
+- Procrastinates on tasks they know they need to do — avoidance, not confusion
+- Does not do small experiments to move forward — waits for full clarity before acting
 
 *Add to this section as more Founder B observations emerge from delivery-log.md*
 
